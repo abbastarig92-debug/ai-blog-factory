@@ -7,6 +7,7 @@ from .base import read_posts, SITE, log
 
 L = log("linker")
 MAX_OUT = 4
+BASE = (SITE["site"].get("base_path") or "").rstrip("/")
 
 
 def _overlap(a: dict, b: dict) -> int:
@@ -22,7 +23,7 @@ def run() -> int:
     added = 0
     for post in posts:
         body = post["body"]
-        existing = set(re.findall(r"\]\(/blog/([a-z0-9-]+)/?\)", body))
+        existing = set(re.findall(rf"\]\({re.escape(BASE)}/blog/([a-z0-9-]+)/?\)", body))
         if len(existing) >= MAX_OUT:
             continue
         cands = sorted(
@@ -35,10 +36,10 @@ def run() -> int:
             pat = re.compile(rf"(?<!\[)\b({re.escape(anchor)})\b(?!\]|\()", re.I)
             m = pat.search(body)
             if m:
-                body = body[:m.start()] + f'[{m.group(1)}](/blog/{cand["front"]["slug"]}/)' + body[m.end():]
+                body = body[:m.start()] + f'[{m.group(1)}]({BASE}/blog/{cand["front"]["slug"]}/)' + body[m.end():]
             else:
                 body = body.rstrip() + (
-                    f"\n\n**Related:** [{cand['front']['title']}](/blog/{cand['front']['slug']}/)\n"
+                    f"\n\n**Related:** [{cand['front']['title']}]({BASE}/blog/{cand['front']['slug']}/)\n"
                 )
             added += 1
         if body != post["body"]:

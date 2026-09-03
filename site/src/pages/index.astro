@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import site from '../site.json';
 import { getCollection } from 'astro:content';
+const B = import.meta.env.BASE_URL.replace(/\/$/, '');
 const posts = (await getCollection('blog', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const clusterTitle = (id) => site.clusters.find((c) => c.id === id)?.title ?? 'Guide';
@@ -15,8 +16,8 @@ const clusterTitle = (id) => site.clusters.find((c) => c.id === id)?.title ?? 'G
   <div class="wrap">
     <div class="grid">
       {posts.map((p) => (
-        <a class="card" href={`/blog/${p.slug}/`}>
-          {p.data.cover && <img src={p.data.cover} alt="" loading="lazy" width="1200" height="630" />}
+        <a class="card" href={`${B}/blog/${p.slug}/`}>
+          {p.data.cover && <img src={`${B}${p.data.cover}`} alt="" loading="lazy" width="1200" height="630" />}
           <div class="body">
             <span class="tag">{clusterTitle(p.data.cluster)}</span>
             <h3>{p.data.title}</h3>

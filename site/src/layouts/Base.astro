@@ -2,8 +2,9 @@
 import '../styles/global.css';
 import site from '../site.json';
 const { title, description, image, type = 'website', canonical, jsonld } = Astro.props;
+const B = import.meta.env.BASE_URL.replace(/\/$/, '');
 const url = canonical ?? new URL(Astro.url.pathname, Astro.site).toString();
-const ogImage = new URL(image ?? '/covers/default.svg', Astro.site).toString();
+const ogImage = new URL(image ?? `${B}/covers/default.svg`, Astro.site).toString();
 ---
 <html lang={site.language}>
 <head>
@@ -19,8 +20,8 @@ const ogImage = new URL(image ?? '/covers/default.svg', Astro.site).toString();
   <meta property="og:url" content={url} />
   <meta property="og:site_name" content={site.name} />
   <meta name="twitter:card" content="summary_large_image" />
-  <link rel="alternate" type="application/rss+xml" title={site.name} href="/rss.xml" />
-  <link rel="sitemap" href="/sitemap-index.xml" />
+  <link rel="alternate" type="application/rss+xml" title={site.name} href={`${B}/rss.xml`} />
+  <link rel="sitemap" href={`${B}/sitemap-index.xml`} />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" />
@@ -41,15 +42,15 @@ const ogImage = new URL(image ?? '/covers/default.svg', Astro.site).toString();
 </head>
 <body>
   <header class="site"><div class="wrap row">
-    <a class="logo" href="/">{site.name.split(' ')[0]}<span>{site.name.split(' ').slice(1).join(' ')}</span></a>
+    <a class="logo" href={`${B}/`}>{site.name.split(' ')[0]}<span>{site.name.split(' ').slice(1).join(' ')}</span></a>
     <nav>
-      {site.clusters.slice(0,4).map((c) => <a href={`/topics/${c.id}/`}>{c.title}</a>)}
-      <a href="/about/">About</a>
+      {site.clusters.slice(0,4).map((c) => <a href={`${B}/topics/${c.id}/`}>{c.title}</a>)}
+      <a href={`${B}/about/`}>About</a>
     </nav>
   </div></header>
   <main><slot /></main>
   <footer class="site"><div class="wrap">
-    <div><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a><a href="/disclosure/">Affiliate disclosure</a><a href="/rss.xml">RSS</a></div>
+    <div><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a><a href="/disclosure/">Affiliate disclosure</a><a href={`${B}/rss.xml`}>RSS</a></div>
     <p>© {new Date().getFullYear()} {site.name}. {site.tagline}</p>
   </div></footer>
   {site.adsense.adsense_client && (

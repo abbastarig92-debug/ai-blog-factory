@@ -1,7 +1,8 @@
 {
   "name": "ToolStack Lab",
   "tagline": "Honest AI tool reviews for creators and small teams",
-  "url": "https://toolstacklab.com",
+  "url": "https://abbastarig92-debug.github.io",
+  "base": "/ai-blog-factory",
   "language": "en",
   "locale": "en-US",
   "author": "ToolStack Lab Editorial",

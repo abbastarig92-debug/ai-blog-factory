@@ -9,6 +9,7 @@ out = {
     "name": cfg["site"]["name"],
     "tagline": cfg["site"]["tagline"],
     "url": cfg["site"]["domain"],
+    "base": (cfg["site"].get("base_path") or "").rstrip("/"),
     "language": cfg["site"]["language"],
     "locale": cfg["site"]["locale"],
     "author": cfg["site"]["author"],

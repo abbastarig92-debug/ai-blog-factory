@@ -4,6 +4,7 @@ import site from './src/site.json' assert { type: 'json' };
 
 export default defineConfig({
   site: site.url,
+  base: site.base || '/',
   integrations: [sitemap()],
   markdown: { shikiConfig: { theme: 'github-light' } },
   build: { inlineStylesheets: 'auto' },

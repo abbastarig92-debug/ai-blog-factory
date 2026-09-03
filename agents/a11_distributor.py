@@ -12,7 +12,7 @@ No hashtag spam: two hashtags maximum, and only if they're real communities."""
 
 
 def run(slug: str, title: str, takeaway: str) -> dict:
-    url = f"{SITE['site']['domain'].rstrip('/')}/blog/{slug}/"
+    url = f"{SITE['site']['domain'].rstrip('/')}{(SITE['site'].get('base_path') or '').rstrip('/')}/blog/{slug}/"
     prompt = f"""Article: {title}
 Key takeaway: {takeaway}
 URL: {url}

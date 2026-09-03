@@ -6,6 +6,7 @@ export async function getStaticPaths() {
   return site.clusters.map((c) => ({ params: { cluster: c.id }, props: { cluster: c } }));
 }
 const { cluster } = Astro.props;
+const B = import.meta.env.BASE_URL.replace(/\/$/, '');
 const posts = (await getCollection('blog', ({ data }) => !data.draft && data.cluster === cluster.id))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
@@ -14,8 +15,8 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft && data.clu
     <p>{posts.length} article{posts.length === 1 ? '' : 's'}</p></div></section>
   <div class="wrap"><div class="grid">
     {posts.map((p) => (
-      <a class="card" href={`/blog/${p.slug}/`}>
-        {p.data.cover && <img src={p.data.cover} alt="" loading="lazy" width="1200" height="630" />}
+      <a class="card" href={`${B}/blog/${p.slug}/`}>
+        {p.data.cover && <img src={`${B}${p.data.cover}`} alt="" loading="lazy" width="1200" height="630" />}
         <div class="body"><h3>{p.data.title}</h3><p>{p.data.description}</p></div>
       </a>))}
   </div></div>

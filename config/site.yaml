@@ -4,7 +4,8 @@
 site:
   name: "ToolStack Lab"
   tagline: "Honest AI tool reviews for creators and small teams"
-  domain: "https://toolstacklab.com"      # غيّره لدومينك، أو اتركه على رابط GitHub Pages
+  domain: "https://abbastarig92-debug.github.io"   # غيّره لدومينك عند شرائه
+  base_path: "/ai-blog-factory"                    # اجعله "" عند استخدام دومين خاص
   language: "en"
   locale: "en-US"
   author: "ToolStack Lab Editorial"
