@@ -64,11 +64,18 @@ class LLM:
     def __init__(self, model: str | None = None):
         self.anthropic_key = os.getenv("ANTHROPIC_API_KEY", "")
         self.openai_key = os.getenv("OPENAI_API_KEY", "")
-        self.provider = "anthropic" if self.anthropic_key else ("openai" if self.openai_key else "none")
-        self.model = model or os.getenv(
-            "LLM_MODEL",
-            "claude-sonnet-4-5" if self.provider == "anthropic" else "gpt-4o-mini",
-        )
+        self.gemini_key = os.getenv("GEMINI_API_KEY", "")
+        if self.anthropic_key:
+            self.provider = "anthropic"
+        elif self.openai_key:
+            self.provider = "openai"
+        elif self.gemini_key:
+            self.provider = "gemini"
+        else:
+            self.provider = "none"
+        defaults = {"anthropic": "claude-sonnet-4-5", "openai": "gpt-4o-mini",
+                    "gemini": "gemini-2.5-flash", "none": ""}
+        self.model = model or os.getenv("LLM_MODEL") or defaults[self.provider]
         self.log = log("llm")
 
     def available(self) -> bool:
@@ -77,13 +84,16 @@ class LLM:
     def chat(self, system: str, user: str, max_tokens: int = 4000, temperature: float = 0.7) -> str:
         if self.provider == "none":
             raise RuntimeError(
-                "لا يوجد مفتاح API. ضع ANTHROPIC_API_KEY أو OPENAI_API_KEY في متغيرات البيئة."
+                "لا يوجد مفتاح API. ضع ANTHROPIC_API_KEY أو OPENAI_API_KEY أو "
+                "GEMINI_API_KEY (مجاني) في متغيرات البيئة."
             )
         last = None
         for attempt in range(4):
             try:
                 if self.provider == "anthropic":
                     return self._anthropic(system, user, max_tokens, temperature)
+                if self.provider == "gemini":
+                    return self._gemini(system, user, max_tokens, temperature)
                 return self._openai(system, user, max_tokens, temperature)
             except Exception as e:  # noqa: BLE001
                 last = e
@@ -119,6 +129,30 @@ class LLM:
             ],
         )
         return r.choices[0].message.content or ""
+
+    def _gemini(self, system, user, max_tokens, temperature):
+        """واجهة REST مباشرة — بلا مكتبات إضافية. الطبقة المجانية تكفي 2-3 مقالات يومياً."""
+        import json as _json, urllib.request
+        url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
+               f"{self.model}:generateContent?key={self.gemini_key}")
+        body = _json.dumps({
+            "system_instruction": {"parts": [{"text": system}]},
+            "contents": [{"role": "user", "parts": [{"text": user}]}],
+            "generationConfig": {"temperature": temperature,
+                                 "maxOutputTokens": max_tokens},
+        }).encode()
+        req = urllib.request.Request(url, data=body,
+                                     headers={"Content-Type": "application/json"})
+        with urllib.request.urlopen(req, timeout=180) as r:
+            data = _json.load(r)
+        cands = data.get("candidates") or []
+        if not cands:
+            raise RuntimeError(f"لا استجابة من Gemini: {str(data)[:300]}")
+        parts = cands[0].get("content", {}).get("parts", [])
+        text = "".join(p.get("text", "") for p in parts)
+        if not text.strip():
+            raise RuntimeError(f"استجابة فارغة من Gemini ({cands[0].get('finishReason')})")
+        return text
 
     def json(self, system: str, user: str, max_tokens: int = 4000, temperature: float = 0.4) -> Any:
         raw = self.chat(
