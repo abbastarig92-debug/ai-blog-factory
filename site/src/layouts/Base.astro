@@ -1,0 +1,71 @@
+---
+import '../styles/global.css';
+import site from '../site.json';
+const { title, description, image, type = 'website', canonical, jsonld } = Astro.props;
+const url = canonical ?? new URL(Astro.url.pathname, Astro.site).toString();
+const ogImage = new URL(image ?? '/covers/default.svg', Astro.site).toString();
+---
+<html lang={site.language}>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={url} />
+  <meta property="og:type" content={type} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:url" content={url} />
+  <meta property="og:site_name" content={site.name} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="alternate" type="application/rss+xml" title={site.name} href="/rss.xml" />
+  <link rel="sitemap" href="/sitemap-index.xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" />
+  {site.analytics.gsc_verification && <meta name="google-site-verification" content={site.analytics.gsc_verification} />}
+  {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
+  {site.adsense.adsense_client && (
+    <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.adsense.adsense_client}`} crossorigin="anonymous"></script>
+  )}
+  {site.analytics.ga4_measurement_id && (
+    <>
+      <script async src={`https://www.googletagmanager.com/gtag/js?id=${site.analytics.ga4_measurement_id}`}></script>
+      <script is:inline define:vars={{ id: site.analytics.ga4_measurement_id }}>
+        window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+        gtag('js',new Date());gtag('config',id);
+      </script>
+    </>
+  )}
+</head>
+<body>
+  <header class="site"><div class="wrap row">
+    <a class="logo" href="/">{site.name.split(' ')[0]}<span>{site.name.split(' ').slice(1).join(' ')}</span></a>
+    <nav>
+      {site.clusters.slice(0,4).map((c) => <a href={`/topics/${c.id}/`}>{c.title}</a>)}
+      <a href="/about/">About</a>
+    </nav>
+  </div></header>
+  <main><slot /></main>
+  <footer class="site"><div class="wrap">
+    <div><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a><a href="/disclosure/">Affiliate disclosure</a><a href="/rss.xml">RSS</a></div>
+    <p>© {new Date().getFullYear()} {site.name}. {site.tagline}</p>
+  </div></footer>
+  {site.adsense.adsense_client && (
+    <script is:inline define:vars={{ client: site.adsense.adsense_client, slot: site.adsense.adsense_slot_in_article }}>
+      document.querySelectorAll('[data-ad-slot]').forEach((el) => {
+        const ins = document.createElement('ins');
+        ins.className = 'adsbygoogle';
+        ins.style.display = 'block';
+        ins.setAttribute('data-ad-client', client);
+        if (slot) ins.setAttribute('data-ad-slot', slot);
+        ins.setAttribute('data-ad-format', 'fluid');
+        ins.setAttribute('data-full-width-responsive', 'true');
+        el.appendChild(ins);
+        (window.adsbygoogle = window.adsbygoogle || []).push({});
+      });
+    </script>
+  )}
+</body>
+</html>

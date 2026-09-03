@@ -1,0 +1,44 @@
+---
+import Base from '../../layouts/Base.astro';
+import site from '../../site.json';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  return posts.map((p) => ({ params: { slug: p.slug }, props: { post: p } }));
+}
+const { post } = Astro.props;
+const { Content } = await post.render();
+const d = post.data;
+const url = new URL(`/blog/${post.slug}/`, Astro.site).toString();
+const jsonld = [
+  {'@context':'https://schema.org','@type':'Article',headline:d.title,description:d.description,
+   image:new URL(d.cover ?? '/covers/default.svg', Astro.site).toString(),
+   datePublished:d.pubDate.toISOString(),dateModified:(d.updatedDate ?? d.pubDate).toISOString(),
+   author:{'@type':'Organization',name:d.author},publisher:{'@type':'Organization',name:site.name},
+   mainEntityOfPage:url},
+  ...(d.faq?.length ? [{'@context':'https://schema.org','@type':'FAQPage',
+   mainEntity:d.faq.map((f)=>({'@type':'Question',name:f.q,
+     acceptedAnswer:{'@type':'Answer',text:f.a}}))}] : []),
+];
+const fmt = (x) => new Date(x).toLocaleDateString('en-US',{year:'numeric',month:'long',day:'numeric'});
+---
+<Base title={d.title} description={d.description} image={d.cover} type="article" canonical={url} jsonld={jsonld}>
+  <article class="post"><div class="wrap prose">
+    <h1>{d.title}</h1>
+    <p class="meta">{fmt(d.pubDate)} · {d.wordCount ? `${Math.max(1,Math.round(d.wordCount/220))} min read` : ''} · {d.author}</p>
+    {d.keyTakeaway && <div class="takeaway">{d.keyTakeaway}</div>}
+    <Content />
+    {d.faq?.length > 0 && (
+      <section class="faq">
+        <h2>Frequently asked questions</h2>
+        {d.faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}
+      </section>
+    )}
+    {d.sources?.length > 0 && (
+      <section class="sources"><strong>Sources</strong>
+        <ul>{d.sources.map((s) => <li><a href={s.url} rel="noopener nofollow" target="_blank">{s.title ?? s.url}</a></li>)}</ul>
+      </section>
+    )}
+  </div></article>
+</Base>

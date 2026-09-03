@@ -1,0 +1,31 @@
+name: الصيانة والتحسين الأسبوعي
+on:
+  schedule:
+    - cron: '0 6 * * 1'    # كل اثنين 09:00 بتوقيت الرياض
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11', cache: 'pip' }
+      - run: pip install -r requirements.txt
+      - name: تحليل الأداء وإعادة التحسين
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY:    ${{ secrets.OPENAI_API_KEY }}
+          GSC_ACCESS_TOKEN:  ${{ secrets.GSC_ACCESS_TOKEN }}
+        run: python orchestrator.py optimize
+      - name: حفظ التحسينات
+        run: |
+          git config user.name  "optimizer-agent"
+          git config user.email "actions@github.com"
+          git add -A site state
+          git diff --staged --quiet && exit 0
+          git commit -m "optimize: صيانة أسبوعية $(date -u +%F)"
+          git push

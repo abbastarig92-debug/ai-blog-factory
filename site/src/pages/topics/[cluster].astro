@@ -1,0 +1,22 @@
+---
+import Base from '../../layouts/Base.astro';
+import site from '../../site.json';
+import { getCollection } from 'astro:content';
+export async function getStaticPaths() {
+  return site.clusters.map((c) => ({ params: { cluster: c.id }, props: { cluster: c } }));
+}
+const { cluster } = Astro.props;
+const posts = (await getCollection('blog', ({ data }) => !data.draft && data.cluster === cluster.id))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+<Base title={`${cluster.title} — ${site.name}`} description={`Guides and reviews on ${cluster.title.toLowerCase()}.`}>
+  <section class="hero"><div class="wrap"><h1>{cluster.title}</h1>
+    <p>{posts.length} article{posts.length === 1 ? '' : 's'}</p></div></section>
+  <div class="wrap"><div class="grid">
+    {posts.map((p) => (
+      <a class="card" href={`/blog/${p.slug}/`}>
+        {p.data.cover && <img src={p.data.cover} alt="" loading="lazy" width="1200" height="630" />}
+        <div class="body"><h3>{p.data.title}</h3><p>{p.data.description}</p></div>
+      </a>))}
+  </div></div>
+</Base>

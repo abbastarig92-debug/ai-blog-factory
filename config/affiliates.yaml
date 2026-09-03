@@ -1,0 +1,63 @@
+# ============================================================
+#  برامج الأفلييت — ضع روابط الإحالة الخاصة بك بعد التسجيل
+#  الوكيل a07_monetizer يحقن هذه الروابط تلقائياً عند ذكر الأداة
+# ============================================================
+disclosure_required: true
+
+programs:
+  - tool: "ElevenLabs"
+    aliases: ["eleven labs", "elevenlabs"]
+    url: ""                       # ضع رابط الإحالة
+    commission: "22% recurring"
+    category: voice-ai
+  - tool: "Descript"
+    aliases: ["descript"]
+    url: ""
+    commission: "15-25%"
+    category: video-ai
+  - tool: "Synthesia"
+    aliases: ["synthesia"]
+    url: ""
+    commission: "up to $500/sale"
+    category: video-ai
+  - tool: "HeyGen"
+    aliases: ["heygen", "hey gen"]
+    url: ""
+    commission: "20-25%"
+    category: video-ai
+  - tool: "Jasper"
+    aliases: ["jasper ai", "jasper"]
+    url: ""
+    commission: "25-30% recurring"
+    category: writing-ai
+  - tool: "Semrush"
+    aliases: ["semrush"]
+    url: ""
+    commission: "$200/sale + $10/trial"
+    category: writing-ai
+  - tool: "Canva"
+    aliases: ["canva pro", "canva"]
+    url: ""
+    commission: "up to $36/signup"
+    category: image-ai
+  - tool: "Notion"
+    aliases: ["notion ai", "notion"]
+    url: ""
+    commission: "50% first year"
+    category: automation
+  - tool: "Make"
+    aliases: ["make.com", "integromat"]
+    url: ""
+    commission: "recurring"
+    category: automation
+  - tool: "Bluehost"
+    aliases: ["bluehost"]
+    url: ""
+    commission: "$65+/sale"
+    category: automation
+
+# روابط بلا برنامج أفلييت تُترك nofollow عادية
+link_policy:
+  affiliate_rel: "sponsored nofollow noopener"
+  external_rel: "noopener"
+  open_in_new_tab: true

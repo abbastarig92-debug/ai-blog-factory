@@ -1,0 +1,47 @@
+{
+  "name": "ToolStack Lab",
+  "tagline": "Honest AI tool reviews for creators and small teams",
+  "url": "https://toolstacklab.com",
+  "language": "en",
+  "locale": "en-US",
+  "author": "ToolStack Lab Editorial",
+  "email": "hello@toolstacklab.com",
+  "brand": {
+    "color_primary": "#0F172A",
+    "color_accent": "#F2B544",
+    "color_bg": "#FFFFFF",
+    "font_heading": "Inter",
+    "font_body": "Inter"
+  },
+  "adsense": {
+    "adsense_client": "",
+    "adsense_slot_in_article": "",
+    "affiliate_disclosure": "We may earn a commission from links on this page, at no extra cost to you."
+  },
+  "analytics": {
+    "ga4_measurement_id": "",
+    "gsc_verification": ""
+  },
+  "clusters": [
+    {
+      "id": "video-ai",
+      "title": "AI Video & Motion Tools"
+    },
+    {
+      "id": "voice-ai",
+      "title": "AI Voice & Audio"
+    },
+    {
+      "id": "writing-ai",
+      "title": "AI Writing & SEO"
+    },
+    {
+      "id": "image-ai",
+      "title": "AI Image & Design"
+    },
+    {
+      "id": "automation",
+      "title": "Automation & Agents"
+    }
+  ]
+}

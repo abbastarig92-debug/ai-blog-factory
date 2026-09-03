@@ -1,0 +1,43 @@
+# ============================================================
+#  النيتش — القرار الاستراتيجي: أدوات الذكاء الاصطناعي للمبدعين
+#  السبب: CPC مرتفع (برمجيات/SaaS) + عمولات أفلييت متكررة 20-50%
+#  + يعتمد على خبرة عباس الفعلية في الموشن والأتمتة
+# ============================================================
+niche:
+  primary: "AI tools for content creators and small businesses"
+  audience: "Solo creators, YouTubers, motion designers, small marketing teams (US/UK/CA/AU)"
+  expertise_angle: >
+    Written from hands-on production experience: automated video pipelines,
+    motion design, and AI-assisted content workflows.
+
+# المحاور الرئيسية (Topic Clusters) — كل محور له صفحة أم + مقالات فرعية
+clusters:
+  - id: video-ai
+    title: "AI Video & Motion Tools"
+    pillar: "The Complete Guide to AI Video Tools"
+    seeds: ["ai video generator", "text to video ai", "ai motion graphics", "faceless youtube automation", "ai video editor"]
+  - id: voice-ai
+    title: "AI Voice & Audio"
+    pillar: "AI Voice Generators: The Practical Guide"
+    seeds: ["ai voice generator", "text to speech ai", "ai dubbing", "voice cloning tool", "podcast ai editing"]
+  - id: writing-ai
+    title: "AI Writing & SEO"
+    pillar: "AI Writing Tools That Actually Rank"
+    seeds: ["ai writing assistant", "ai seo tool", "ai content detector", "blog automation tool"]
+  - id: image-ai
+    title: "AI Image & Design"
+    pillar: "AI Image Generators for Commercial Work"
+    seeds: ["ai image generator", "ai logo maker", "ai thumbnail maker", "ai product photography"]
+  - id: automation
+    title: "Automation & Agents"
+    pillar: "Building AI Agent Workflows Without Code"
+    seeds: ["n8n automation", "ai agent workflow", "zapier alternative", "automate content publishing"]
+
+# قواعد اختيار الكلمة المفتاحية — الوكيل يرفض أي شيء خارجها
+keyword_rules:
+  intent_priority: ["commercial", "transactional", "informational"]
+  max_difficulty: 35          # تقدير 0-100، الموقع جديد
+  min_monthly_volume: 200
+  prefer_long_tail: true
+  must_include_modifiers: ["best", "vs", "alternatives", "review", "how to", "for", "free"]
+  banned_topics: ["politics", "medical advice", "financial advice", "adult", "gambling", "crypto trading signals"]

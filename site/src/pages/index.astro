@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../site.json';
+import { getCollection } from 'astro:content';
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const clusterTitle = (id) => site.clusters.find((c) => c.id === id)?.title ?? 'Guide';
+---
+<Base title={`${site.name} — ${site.tagline}`} description={site.tagline}
+  jsonld={{'@context':'https://schema.org','@type':'WebSite',name:site.name,url:site.url}}>
+  <section class="hero"><div class="wrap">
+    <h1>{site.tagline}</h1>
+    <p>Hands-on reviews and workflows from real production use — pricing traps, honest downsides, and the setup that actually ships.</p>
+  </div></section>
+  <div class="wrap">
+    <div class="grid">
+      {posts.map((p) => (
+        <a class="card" href={`/blog/${p.slug}/`}>
+          {p.data.cover && <img src={p.data.cover} alt="" loading="lazy" width="1200" height="630" />}
+          <div class="body">
+            <span class="tag">{clusterTitle(p.data.cluster)}</span>
+            <h3>{p.data.title}</h3>
+            <p>{p.data.description}</p>
+          </div>
+        </a>
+      ))}
+      {posts.length === 0 && <p>No posts yet — the agents publish on their first scheduled run.</p>}
+    </div>
+  </div>
+</Base>

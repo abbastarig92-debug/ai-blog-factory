@@ -1,0 +1,35 @@
+# ============================================================
+#  إعدادات الموقع الأساسية — عدّل هذا الملف فقط عند تغيير الهوية
+# ============================================================
+site:
+  name: "ToolStack Lab"
+  tagline: "Honest AI tool reviews for creators and small teams"
+  domain: "https://toolstacklab.com"      # غيّره لدومينك، أو اتركه على رابط GitHub Pages
+  language: "en"
+  locale: "en-US"
+  author: "ToolStack Lab Editorial"
+  email: "hello@toolstacklab.com"
+  timezone: "Asia/Riyadh"
+
+brand:
+  color_primary: "#0F172A"
+  color_accent: "#F2B544"
+  color_bg: "#FFFFFF"
+  font_heading: "Inter"
+  font_body: "Inter"
+
+publishing:
+  posts_per_day: 2
+  min_words: 1400
+  max_words: 2600
+  # الأنماط التي يتنقل بينها المخطِّط تلقائياً
+  formats: ["review", "comparison", "how-to", "listicle", "alternatives"]
+
+monetization:
+  adsense_client: ""          # ca-pub-XXXXXXXXXXXX  (يُترك فارغاً حتى القبول)
+  adsense_slot_in_article: ""
+  affiliate_disclosure: "We may earn a commission from links on this page, at no extra cost to you."
+
+analytics:
+  ga4_measurement_id: ""      # G-XXXXXXXXXX
+  gsc_verification: ""        # كود التحقق من Search Console

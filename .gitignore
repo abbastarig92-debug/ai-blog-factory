@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+site/node_modules/
+site/dist/
+site/.astro/
+
+# نسخ مؤقتة من فك الضغط
+ai-blog-factory/
+*.zip
