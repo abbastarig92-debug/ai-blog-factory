@@ -1,4 +1,4 @@
-"""
+ """
 النواة المشتركة لكل الوكلاء: عميل LLM، تحميل الإعدادات، الحالة، السجلّات.
 يدعم Anthropic (افتراضي) و OpenAI كبديل — يختار حسب المفاتيح المتاحة.
 """
@@ -162,27 +162,35 @@ class LLM:
                 out.append(m["name"].split("/", 1)[-1])
         return out
 
+    @staticmethod
+    def _gemini_rank(name: str) -> tuple:
+        """يفضّل موديلات flash العامة، ويؤخّر المتخصصة وخفيفة الجودة."""
+        bad = any(x in name for x in ("vision", "embedding", "aqa", "image", "tts", "live"))
+        return (bad, "flash" not in name, "lite" in name, name)
+
     def _gemini_resolve_model(self) -> str:
-        """يتأكد أن الموديل المطلوب موجود، وإلا يختار بديلاً حياً تلقائياً."""
+        """يتأكد أن الموديل المطلوب موجود، ويجهّز قائمة بدائل حية مرتّبة."""
         if getattr(self, "_gemini_model_ok", False):
             return self.model
-        available = self._gemini_models()
-        if self.model in available:
-            self._gemini_model_ok = True
-            return self.model
-        def rank(name: str) -> tuple:
-            bad = any(x in name for x in ("vision", "embedding", "aqa", "image", "tts", "live"))
-            return (bad, "flash" not in name, "lite" in name, name)
-        pick = sorted(available, key=rank)
-        if not pick:
+        available = sorted(self._gemini_models(), key=self._gemini_rank)
+        if not available:
             raise RuntimeError("لا يوجد أي موديل يدعم generateContent لهذا المفتاح")
-        self.log.warning("الموديل «%s» غير متاح — التحويل إلى «%s»", self.model, pick[0])
-        self.model = pick[0]
+        if self.model not in available:
+            self.log.warning("الموديل «%s» غير متاح — التحويل إلى «%s»", self.model, available[0])
+            self.model = available[0]
+        # البدائل: الموديل المختار أولاً، ثم البقية بالترتيب
+        self._gemini_alts = [self.model] + [m for m in available if m != self.model]
         self._gemini_model_ok = True
         return self.model
 
-    def _gemini(self, system, user, max_tokens, temperature):
-        model = self._gemini_resolve_model()
+    @staticmethod
+    def _gemini_busy(err: Exception) -> bool:
+        """هل الخطأ ازدحام مؤقت أو تجاوز حصة؟ عندها البديل أجدى من إعادة المحاولة."""
+        t = str(err)
+        return ("HTTP 503" in t or "HTTP 429" in t
+                or "UNAVAILABLE" in t or "RESOURCE_EXHAUSTED" in t)
+
+    def _gemini_generate(self, model, system, user, max_tokens, temperature):
         # موديلات الجيل الثالث «تفكّر» قبل الإجابة، وتفكيرها يُخصم من سقف المخرجات،
         # فنعطيها هامشاً كافياً حتى لا يعود الرد فارغاً بسبب MAX_TOKENS.
         budget = max(int(max_tokens) * 4, 8192)
@@ -205,6 +213,28 @@ class LLM:
                 f"usage={data.get('usageMetadata')})"
             )
         return text
+
+    def _gemini(self, system, user, max_tokens, temperature):
+        """ينادي الموديل، وعند الازدحام (503) أو تجاوز الحصة (429) ينتقل فوراً
+        إلى البديل التالي بدل إعادة المحاولة على موديل مشغول."""
+        self._gemini_resolve_model()
+        last = None
+        for model in list(self._gemini_alts)[:4]:
+            try:
+                text = self._gemini_generate(model, system, user, max_tokens, temperature)
+            except RuntimeError as e:
+                if not self._gemini_busy(e):
+                    raise
+                last = e
+                self.log.warning("الموديل «%s» مزدحم — تجربة البديل التالي", model)
+                continue
+            if model != self.model:
+                self.log.warning("تم التثبيت على الموديل البديل «%s»", model)
+                self.model = model
+                # اجعل الناجح أول القائمة للنداءات التالية
+                self._gemini_alts = [model] + [m for m in self._gemini_alts if m != model]
+            return text
+        raise RuntimeError(f"كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: {last}")
 
     def json(self, system: str, user: str, max_tokens: int = 4000, temperature: float = 0.4) -> Any:
         raw = self.chat(
