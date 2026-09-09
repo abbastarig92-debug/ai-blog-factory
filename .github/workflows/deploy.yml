@@ -1,9 +1,13 @@
 name: بناء ونشر الموقع
 on:
+on:
   push:
     branches: [main]
     paths: ['site/**', '.github/workflows/deploy.yml']
-  workflow_dispatch:
+  workflow_run:
+    workflows: ["نشر المحتوى اليومي"]
+    types: [completed]
+  workflow_dispatch:  
 
 permissions:
   contents: read
