@@ -1,0 +1,200 @@
+[
+  {
+    "keyword": "descript vs adobe podcast ai for solo creators",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 390,
+    "est_difficulty": 20,
+    "format": "comparison",
+    "why_winnable": "Specific targeting of solo creators differentiates this from generic software review portals.",
+    "search_promise": "Clear verdict on audio repair quality vs full text-based timeline editing for individual creators on a budget.",
+    "slug": "descript-vs-adobe-podcast-ai-for-solo-creators"
+  },
+  {
+    "keyword": "best ai voice dubbing tool for youtube shorts",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 480,
+    "est_difficulty": 23,
+    "format": "listicle",
+    "why_winnable": "Most dubbing content focuses on long-form enterprise localization rather than multi-language short-form creator scaling.",
+    "search_promise": "Top 4 dubbing tools ranked by auto-lip-sync accuracy, multi-language support, and pricing per minute.",
+    "slug": "best-ai-voice-dubbing-tool-for-youtube-shorts"
+  },
+  {
+    "keyword": "best ai product photography app for shopify stores",
+    "cluster": "image-ai",
+    "intent": "commercial",
+    "est_volume": 610,
+    "est_difficulty": 23,
+    "format": "listicle",
+    "why_winnable": "E-commerce store owners search for direct Shopify integration and clean background generation; SERPs lack deep workflow reviews.",
+    "search_promise": "Top visual comparison of realistic shadow generation, batch processing, and Shopify app store ratings.",
+    "slug": "best-ai-product-photography-app-for-shopify-stores"
+  },
+  {
+    "keyword": "best ai writing tool for technical b2b blog posts",
+    "cluster": "writing-ai",
+    "intent": "commercial",
+    "est_volume": 420,
+    "est_difficulty": 24,
+    "format": "listicle",
+    "why_winnable": "Generic AI writer SERPs are hyper-competitive, but technical/developer-focused B2B queries lack thorough comparative testing.",
+    "search_promise": "Evaluation of AI tools based on source citation accuracy, code block formatting, and hallucination rates in technical topics.",
+    "slug": "best-ai-writing-tool-for-technical-b2b-blog-posts"
+  },
+  {
+    "keyword": "koala writer vs jasper ai for niche sites",
+    "cluster": "writing-ai",
+    "intent": "commercial",
+    "est_volume": 520,
+    "est_difficulty": 25,
+    "format": "comparison",
+    "why_winnable": "Niche website builders prefer direct cost-per-article and internal linking comparisons over generic SaaS feature lists.",
+    "search_promise": "Head-to-head live output test comparing bulk SEO output quality, automatic internal linking, and cost per 1,000 words.",
+    "slug": "koala-writer-vs-jasper-ai-for-niche-sites"
+  },
+  {
+    "keyword": "make com vs n8n for content creators",
+    "cluster": "automation",
+    "intent": "commercial",
+    "est_volume": 720,
+    "est_difficulty": 26,
+    "format": "comparison",
+    "why_winnable": "Existing comparisons target general IT developers rather than non-technical creators trying to automate social media and content feeds.",
+    "search_promise": "A clear cost comparison based on operations/executions and ease of use for non-technical creator automation.",
+    "slug": "make-com-vs-n8n-for-content-creators"
+  },
+  {
+    "keyword": "elevenlabs alternatives for commercial voiceover free",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 550,
+    "est_difficulty": 27,
+    "format": "alternatives",
+    "why_winnable": "Most ElevenLabs alternative lists fail to specify commercial usage rights in free tiers, creating a high-intent gap.",
+    "search_promise": "A matrix of free voiceover tools clearly highlighting which ones grant commercial monetization licenses without copyright strikes.",
+    "slug": "elevenlabs-alternatives-for-commercial-voiceover-free"
+  },
+  {
+    "keyword": "best free ai blog automation tool for wordpress",
+    "cluster": "writing-ai",
+    "intent": "commercial",
+    "est_volume": 780,
+    "est_difficulty": 29,
+    "format": "listicle",
+    "why_winnable": "Dominated by outdated plugin directory listings rather than tested end-to-end automation stacks.",
+    "search_promise": "A ranked breakdown of WordPress AI plugins offering functional free tiers with direct draft scheduling capabilities.",
+    "slug": "best-free-ai-blog-automation-tool-for-wordpress"
+  },
+  {
+    "keyword": "best open source ai agent framework for beginners",
+    "cluster": "automation",
+    "intent": "commercial",
+    "est_volume": 890,
+    "est_difficulty": 31,
+    "format": "listicle",
+    "why_winnable": "Most agent content is either too academic (research papers) or developer-heavy (raw GitHub repos), leaving a void for accessible beginner rundowns.",
+    "search_promise": "Comparison of CrewAI, AutoGen, and LangGraph rated strictly by ease of local setup, UI availability, and no-code friendliness.",
+    "slug": "best-open-source-ai-agent-framework-for-beginners"
+  },
+  {
+    "keyword": "how to clone your voice for podcast intro ai",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 280,
+    "est_difficulty": 18,
+    "format": "how-to",
+    "why_winnable": "Hyper-focused application query answered mainly by low-quality vendor documentation rather than practical creator tutorials.",
+    "search_promise": "Audio recording checklist and quick 3-step setup guide to get natural-sounding podcast intros in under 10 minutes.",
+    "slug": "how-to-clone-your-voice-for-podcast-intro-ai"
+  },
+  {
+    "keyword": "how to build automated youtube workflow in n8n",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 380,
+    "est_difficulty": 18,
+    "format": "how-to",
+    "why_winnable": "n8n community forum threads rank on page one; a well-structured article with downloadable JSON blueprints easily captures the featured snippet.",
+    "search_promise": "A downloadable n8n workflow template connecting OpenAI, Google Sheets, and YouTube upload API with complete node configurations.",
+    "slug": "how-to-build-automated-youtube-workflow-in-n8n"
+  },
+  {
+    "keyword": "how to automate social media posts with n8n and chatgpt",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 680,
+    "est_difficulty": 22,
+    "format": "how-to",
+    "why_winnable": "Searchers seek specific multi-platform pipelines; existing blogs only show partial Zapier examples without self-hosted cost benefits.",
+    "search_promise": "Step-by-step setup to turn a single blog post or script into scheduled Twitter threads and LinkedIn posts via n8n webhook.",
+    "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
+  },
+  {
+    "keyword": "how to generate consistent characters in midjourney v6",
+    "cluster": "image-ai",
+    "intent": "informational",
+    "est_volume": 1600,
+    "est_difficulty": 29,
+    "format": "how-to",
+    "why_winnable": "High search volume with low domain competition because prompt syntax frequently updates and older guides break.",
+    "search_promise": "The exact parameter syntax (--cref, --cw) with copy-paste prompt templates and visual side-by-side examples.",
+    "slug": "how-to-generate-consistent-characters-in-midjourney-v6"
+  },
+  {
+    "keyword": "how to bypass ai content detectors for client work",
+    "cluster": "writing-ai",
+    "intent": "informational",
+    "est_volume": 1200,
+    "est_difficulty": 32,
+    "format": "how-to",
+    "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
+    "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
+    "slug": "how-to-bypass-ai-content-detectors-for-client-work"
+  },
+  {
+    "keyword": "best ai motion graphics generator for after effects",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 320,
+    "est_difficulty": 19,
+    "format": "listicle",
+    "why_winnable": "Highly technical long-tail query with zero authority-site dominance; current top results are fragmented Reddit threads.",
+    "search_promise": "A curated list of AI plugins and standalone generators that export native AE keyframes or alpha-channel layers.",
+    "slug": "best-ai-motion-graphics-generator-for-after-effects"
+  },
+  {
+    "keyword": "invideo ai vs capcut for reels",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 21,
+    "format": "comparison",
+    "why_winnable": "G2 and Capterra focus on enterprise use cases, leaving a gap for practical creator-focused feature-by-feature comparisons.",
+    "search_promise": "A direct side-by-side breakdown of render times, auto-captions, template quality, and export limits for Instagram/TikTok creators.",
+    "slug": "invideo-ai-vs-capcut-for-reels"
+  },
+  {
+    "keyword": "best ai video generator for faceless youtube channel",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 850,
+    "est_difficulty": 26,
+    "format": "listicle",
+    "why_winnable": "Major software review sites target generic 'best ai video generator' head terms; targeting the specific sub-niche of faceless YouTube channels faces weaker, forum-heavy SERPs.",
+    "search_promise": "A comparison table ranking the top 5 tools specifically by script-to-video workflow, automated voice sync, and monetization safety.",
+    "slug": "best-ai-video-generator-for-faceless-youtube-channel"
+  },
+  {
+    "keyword": "how to make faceless youtube videos with ai free",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 1400,
+    "est_difficulty": 28,
+    "format": "how-to",
+    "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
+    "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
+    "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
+  }
+]
