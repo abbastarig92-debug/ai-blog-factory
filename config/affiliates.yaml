@@ -7,7 +7,7 @@ disclosure_required: true
 programs:
   - tool: "ElevenLabs"
     aliases: ["eleven labs", "elevenlabs"]
-    url: ""                       # ضع رابط الإحالة
+    url: "https://try.elevenlabs.io/67r8h81npeq2"                       # ضع رابط الإحالة
     commission: "22% recurring"
     category: voice-ai
   - tool: "Descript"
