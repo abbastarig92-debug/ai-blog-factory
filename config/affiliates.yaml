@@ -17,7 +17,7 @@ programs:
     category: video-ai
   - tool: "Synthesia"
     aliases: ["synthesia"]
-    url: ""
+    url: "https://www.synthesia.io/?via=abbas"
     commission: "up to $500/sale"
     category: video-ai
   - tool: "HeyGen"
