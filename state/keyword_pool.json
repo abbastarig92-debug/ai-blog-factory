@@ -1,27 +1,5 @@
 [
   {
-    "keyword": "best ai writing tool for technical b2b blog posts",
-    "cluster": "writing-ai",
-    "intent": "commercial",
-    "est_volume": 420,
-    "est_difficulty": 24,
-    "format": "listicle",
-    "why_winnable": "Generic AI writer SERPs are hyper-competitive, but technical/developer-focused B2B queries lack thorough comparative testing.",
-    "search_promise": "Evaluation of AI tools based on source citation accuracy, code block formatting, and hallucination rates in technical topics.",
-    "slug": "best-ai-writing-tool-for-technical-b2b-blog-posts"
-  },
-  {
-    "keyword": "koala writer vs jasper ai for niche sites",
-    "cluster": "writing-ai",
-    "intent": "commercial",
-    "est_volume": 520,
-    "est_difficulty": 25,
-    "format": "comparison",
-    "why_winnable": "Niche website builders prefer direct cost-per-article and internal linking comparisons over generic SaaS feature lists.",
-    "search_promise": "Head-to-head live output test comparing bulk SEO output quality, automatic internal linking, and cost per 1,000 words.",
-    "slug": "koala-writer-vs-jasper-ai-for-niche-sites"
-  },
-  {
     "keyword": "make com vs n8n for content creators",
     "cluster": "automation",
     "intent": "commercial",
@@ -31,17 +9,6 @@
     "why_winnable": "Existing comparisons target general IT developers rather than non-technical creators trying to automate social media and content feeds.",
     "search_promise": "A clear cost comparison based on operations/executions and ease of use for non-technical creator automation.",
     "slug": "make-com-vs-n8n-for-content-creators"
-  },
-  {
-    "keyword": "elevenlabs alternatives for commercial voiceover free",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 550,
-    "est_difficulty": 27,
-    "format": "alternatives",
-    "why_winnable": "Most ElevenLabs alternative lists fail to specify commercial usage rights in free tiers, creating a high-intent gap.",
-    "search_promise": "A matrix of free voiceover tools clearly highlighting which ones grant commercial monetization licenses without copyright strikes.",
-    "slug": "elevenlabs-alternatives-for-commercial-voiceover-free"
   },
   {
     "keyword": "best free ai blog automation tool for wordpress",
@@ -64,17 +31,6 @@
     "why_winnable": "Most agent content is either too academic (research papers) or developer-heavy (raw GitHub repos), leaving a void for accessible beginner rundowns.",
     "search_promise": "Comparison of CrewAI, AutoGen, and LangGraph rated strictly by ease of local setup, UI availability, and no-code friendliness.",
     "slug": "best-open-source-ai-agent-framework-for-beginners"
-  },
-  {
-    "keyword": "how to clone your voice for podcast intro ai",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 280,
-    "est_difficulty": 18,
-    "format": "how-to",
-    "why_winnable": "Hyper-focused application query answered mainly by low-quality vendor documentation rather than practical creator tutorials.",
-    "search_promise": "Audio recording checklist and quick 3-step setup guide to get natural-sounding podcast intros in under 10 minutes.",
-    "slug": "how-to-clone-your-voice-for-podcast-intro-ai"
   },
   {
     "keyword": "how to build automated youtube workflow in n8n",
@@ -163,6 +119,28 @@
     "why_winnable": "E-commerce store owners search for direct Shopify integration and clean background generation; SERPs lack deep workflow reviews.",
     "search_promise": "Top visual comparison of realistic shadow generation, batch processing, and Shopify app store ratings.",
     "slug": "best-ai-product-photography-app-for-shopify-stores"
+  },
+  {
+    "keyword": "elevenlabs alternatives for commercial voiceover free",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 550,
+    "est_difficulty": 27,
+    "format": "alternatives",
+    "why_winnable": "Most ElevenLabs alternative lists fail to specify commercial usage rights in free tiers, creating a high-intent gap.",
+    "search_promise": "A matrix of free voiceover tools clearly highlighting which ones grant commercial monetization licenses without copyright strikes.",
+    "slug": "elevenlabs-alternatives-for-commercial-voiceover-free"
+  },
+  {
+    "keyword": "how to clone your voice for podcast intro ai",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 280,
+    "est_difficulty": 18,
+    "format": "how-to",
+    "why_winnable": "Hyper-focused application query answered mainly by low-quality vendor documentation rather than practical creator tutorials.",
+    "search_promise": "Audio recording checklist and quick 3-step setup guide to get natural-sounding podcast intros in under 10 minutes.",
+    "slug": "how-to-clone-your-voice-for-podcast-intro-ai"
   },
   {
     "keyword": "how to generate consistent characters in midjourney v6",
