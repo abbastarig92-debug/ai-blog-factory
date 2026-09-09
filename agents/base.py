@@ -164,9 +164,12 @@ class LLM:
 
     @staticmethod
     def _gemini_rank(name: str) -> tuple:
-        """يفضّل موديلات flash العامة، ويؤخّر المتخصصة وخفيفة الجودة."""
+        """يفضّل flash العام والأحدث إصداراً. الترتيب الأبجدي خاطئ هنا:
+        gemini-2.5 يسبق gemini-3.7 أبجدياً رغم أنه أقدم — فنقرأ الرقم ونعكسه."""
         bad = any(x in name for x in ("vision", "embedding", "aqa", "image", "tts", "live"))
-        return (bad, "flash" not in name, "lite" in name, name)
+        m = re.search(r"gemini-(\d+(?:\.\d+)?)", name)
+        version = float(m.group(1)) if m else 0.0
+        return (bad, "flash" not in name, "lite" in name, -version, name)
 
     def _gemini_resolve_model(self) -> str:
         """يتأكد أن الموديل المطلوب موجود، ويجهّز قائمة بدائل حية مرتّبة."""
@@ -185,10 +188,17 @@ class LLM:
 
     @staticmethod
     def _gemini_busy(err: Exception) -> bool:
-        """هل الخطأ ازدحام مؤقت أو تجاوز حصة؟ عندها البديل أجدى من إعادة المحاولة."""
+        """ازدحام مؤقت أو تجاوز حصة — البديل أجدى من إعادة المحاولة."""
         t = str(err)
         return ("HTTP 503" in t or "HTTP 429" in t
                 or "UNAVAILABLE" in t or "RESOURCE_EXHAUSTED" in t)
+
+    @staticmethod
+    def _gemini_gone(err: Exception) -> bool:
+        """موديل أوقفته Google أو غير متاح لهذا المفتاح — يُشطب من القائمة نهائياً."""
+        t = str(err)
+        return ("HTTP 404" in t or "NOT_FOUND" in t
+                or "no longer available" in t or "is not found" in t)
 
     def _gemini_generate(self, model, system, user, max_tokens, temperature):
         # موديلات الجيل الثالث «تفكّر» قبل الإجابة، وتفكيرها يُخصم من سقف المخرجات،
@@ -219,10 +229,15 @@ class LLM:
         إلى البديل التالي بدل إعادة المحاولة على موديل مشغول."""
         self._gemini_resolve_model()
         last = None
-        for model in list(self._gemini_alts)[:4]:
+        for model in list(self._gemini_alts)[:6]:
             try:
                 text = self._gemini_generate(model, system, user, max_tokens, temperature)
             except RuntimeError as e:
+                if self._gemini_gone(e):
+                    last = e
+                    self.log.warning("الموديل «%s» لم يعد متاحاً — شطبه وتجربة التالي", model)
+                    self._gemini_alts = [m for m in self._gemini_alts if m != model]
+                    continue
                 if not self._gemini_busy(e):
                     raise
                 last = e
