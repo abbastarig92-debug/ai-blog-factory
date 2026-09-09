@@ -1,38 +1,5 @@
 [
   {
-    "keyword": "descript vs adobe podcast ai for solo creators",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 390,
-    "est_difficulty": 20,
-    "format": "comparison",
-    "why_winnable": "Specific targeting of solo creators differentiates this from generic software review portals.",
-    "search_promise": "Clear verdict on audio repair quality vs full text-based timeline editing for individual creators on a budget.",
-    "slug": "descript-vs-adobe-podcast-ai-for-solo-creators"
-  },
-  {
-    "keyword": "best ai voice dubbing tool for youtube shorts",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 480,
-    "est_difficulty": 23,
-    "format": "listicle",
-    "why_winnable": "Most dubbing content focuses on long-form enterprise localization rather than multi-language short-form creator scaling.",
-    "search_promise": "Top 4 dubbing tools ranked by auto-lip-sync accuracy, multi-language support, and pricing per minute.",
-    "slug": "best-ai-voice-dubbing-tool-for-youtube-shorts"
-  },
-  {
-    "keyword": "best ai product photography app for shopify stores",
-    "cluster": "image-ai",
-    "intent": "commercial",
-    "est_volume": 610,
-    "est_difficulty": 23,
-    "format": "listicle",
-    "why_winnable": "E-commerce store owners search for direct Shopify integration and clean background generation; SERPs lack deep workflow reviews.",
-    "search_promise": "Top visual comparison of realistic shadow generation, batch processing, and Shopify app store ratings.",
-    "slug": "best-ai-product-photography-app-for-shopify-stores"
-  },
-  {
     "keyword": "best ai writing tool for technical b2b blog posts",
     "cluster": "writing-ai",
     "intent": "commercial",
@@ -132,17 +99,6 @@
     "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
   },
   {
-    "keyword": "how to generate consistent characters in midjourney v6",
-    "cluster": "image-ai",
-    "intent": "informational",
-    "est_volume": 1600,
-    "est_difficulty": 29,
-    "format": "how-to",
-    "why_winnable": "High search volume with low domain competition because prompt syntax frequently updates and older guides break.",
-    "search_promise": "The exact parameter syntax (--cref, --cw) with copy-paste prompt templates and visual side-by-side examples.",
-    "slug": "how-to-generate-consistent-characters-in-midjourney-v6"
-  },
-  {
     "keyword": "how to bypass ai content detectors for client work",
     "cluster": "writing-ai",
     "intent": "informational",
@@ -196,5 +152,27 @@
     "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
     "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
     "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
+  },
+  {
+    "keyword": "best ai product photography app for shopify stores",
+    "cluster": "image-ai",
+    "intent": "commercial",
+    "est_volume": 610,
+    "est_difficulty": 23,
+    "format": "listicle",
+    "why_winnable": "E-commerce store owners search for direct Shopify integration and clean background generation; SERPs lack deep workflow reviews.",
+    "search_promise": "Top visual comparison of realistic shadow generation, batch processing, and Shopify app store ratings.",
+    "slug": "best-ai-product-photography-app-for-shopify-stores"
+  },
+  {
+    "keyword": "how to generate consistent characters in midjourney v6",
+    "cluster": "image-ai",
+    "intent": "informational",
+    "est_volume": 1600,
+    "est_difficulty": 29,
+    "format": "how-to",
+    "why_winnable": "High search volume with low domain competition because prompt syntax frequently updates and older guides break.",
+    "search_promise": "The exact parameter syntax (--cref, --cw) with copy-paste prompt templates and visual side-by-side examples.",
+    "slug": "how-to-generate-consistent-characters-in-midjourney-v6"
   }
 ]
