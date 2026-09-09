@@ -1,6 +1,5 @@
 name: بناء ونشر الموقع
 on:
-on:
   push:
     branches: [main]
     paths: ['site/**', '.github/workflows/deploy.yml']
