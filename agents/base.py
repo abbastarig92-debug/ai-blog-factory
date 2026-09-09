@@ -74,7 +74,7 @@ class LLM:
         else:
             self.provider = "none"
         defaults = {"anthropic": "claude-sonnet-4-5", "openai": "gpt-4o-mini",
-                    "gemini": "gemini-2.5-flash", "none": ""}
+                    "gemini": "gemini-3.8-flash", "none": ""}
         self.model = model or os.getenv("LLM_MODEL") or defaults[self.provider]
         self.log = log("llm")
 
@@ -97,6 +97,9 @@ class LLM:
                 return self._openai(system, user, max_tokens, temperature)
             except Exception as e:  # noqa: BLE001
                 last = e
+                if attempt == 3:
+                    self.log.error("محاولة %s فشلت نهائياً: %s", attempt + 1, e)
+                    break
                 wait = 2 ** attempt * 3
                 self.log.warning("محاولة %s فشلت (%s) — إعادة بعد %ss", attempt + 1, e, wait)
                 time.sleep(wait)
@@ -130,28 +133,77 @@ class LLM:
         )
         return r.choices[0].message.content or ""
 
+    # ---- Gemini: REST مباشر، بلا مكتبات إضافية -------------------------
+    GEMINI_API = "https://generativelanguage.googleapis.com/v1beta"
+
+    def _gemini_request(self, path: str, body: dict | None = None) -> dict:
+        """نداء REST مع إظهار نص الخطأ الحقيقي من Google بدل رسالة HTTP مبهمة."""
+        import json as _json, urllib.request, urllib.error
+        sep = "&" if "?" in path else "?"
+        url = f"{self.GEMINI_API}/{path}{sep}key={self.gemini_key}"
+        data = _json.dumps(body).encode() if body is not None else None
+        req = urllib.request.Request(
+            url, data=data,
+            headers={"Content-Type": "application/json"} if data else {},
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=180) as r:
+                return _json.load(r)
+        except urllib.error.HTTPError as e:
+            detail = e.read().decode("utf-8", "replace")[:600]
+            raise RuntimeError(f"Gemini HTTP {e.code} على {path} — {detail}") from None
+
+    def _gemini_models(self) -> list[str]:
+        """أسماء الموديلات المتاحة فعلياً لهذا المفتاح والتي تدعم generateContent."""
+        data = self._gemini_request("models?pageSize=200")
+        out = []
+        for m in data.get("models", []):
+            if "generateContent" in (m.get("supportedGenerationMethods") or []):
+                out.append(m["name"].split("/", 1)[-1])
+        return out
+
+    def _gemini_resolve_model(self) -> str:
+        """يتأكد أن الموديل المطلوب موجود، وإلا يختار بديلاً حياً تلقائياً."""
+        if getattr(self, "_gemini_model_ok", False):
+            return self.model
+        available = self._gemini_models()
+        if self.model in available:
+            self._gemini_model_ok = True
+            return self.model
+        def rank(name: str) -> tuple:
+            bad = any(x in name for x in ("vision", "embedding", "aqa", "image", "tts", "live"))
+            return (bad, "flash" not in name, "lite" in name, name)
+        pick = sorted(available, key=rank)
+        if not pick:
+            raise RuntimeError("لا يوجد أي موديل يدعم generateContent لهذا المفتاح")
+        self.log.warning("الموديل «%s» غير متاح — التحويل إلى «%s»", self.model, pick[0])
+        self.model = pick[0]
+        self._gemini_model_ok = True
+        return self.model
+
     def _gemini(self, system, user, max_tokens, temperature):
-        """واجهة REST مباشرة — بلا مكتبات إضافية. الطبقة المجانية تكفي 2-3 مقالات يومياً."""
-        import json as _json, urllib.request
-        url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
-               f"{self.model}:generateContent?key={self.gemini_key}")
-        body = _json.dumps({
+        model = self._gemini_resolve_model()
+        # موديلات الجيل الثالث «تفكّر» قبل الإجابة، وتفكيرها يُخصم من سقف المخرجات،
+        # فنعطيها هامشاً كافياً حتى لا يعود الرد فارغاً بسبب MAX_TOKENS.
+        budget = max(int(max_tokens) * 4, 8192)
+        body = {
             "system_instruction": {"parts": [{"text": system}]},
             "contents": [{"role": "user", "parts": [{"text": user}]}],
             "generationConfig": {"temperature": temperature,
-                                 "maxOutputTokens": max_tokens},
-        }).encode()
-        req = urllib.request.Request(url, data=body,
-                                     headers={"Content-Type": "application/json"})
-        with urllib.request.urlopen(req, timeout=180) as r:
-            data = _json.load(r)
+                                 "maxOutputTokens": budget},
+        }
+        data = self._gemini_request(f"models/{model}:generateContent", body)
         cands = data.get("candidates") or []
         if not cands:
-            raise RuntimeError(f"لا استجابة من Gemini: {str(data)[:300]}")
+            fb = data.get("promptFeedback")
+            raise RuntimeError(f"لا استجابة من Gemini (promptFeedback={fb}) {str(data)[:300]}")
         parts = cands[0].get("content", {}).get("parts", [])
-        text = "".join(p.get("text", "") for p in parts)
+        text = "".join(p.get("text", "") for p in parts if "text" in p)
         if not text.strip():
-            raise RuntimeError(f"استجابة فارغة من Gemini ({cands[0].get('finishReason')})")
+            raise RuntimeError(
+                f"استجابة فارغة من Gemini (finishReason={cands[0].get('finishReason')}, "
+                f"usage={data.get('usageMetadata')})"
+            )
         return text
 
     def json(self, system: str, user: str, max_tokens: int = 4000, temperature: float = 0.4) -> Any:
@@ -201,3 +253,4 @@ def read_posts() -> list[dict]:
             continue
         out.append({"path": p, "front": front, "body": m.group(2)})
     return out
+
