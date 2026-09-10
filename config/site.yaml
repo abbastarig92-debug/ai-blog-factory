@@ -21,7 +21,7 @@ brand:
 
 publishing:
   posts_per_day: 2
-  min_words: 1400
+  min_words: 1200
   max_words: 2600
   # الأنماط التي يتنقل بينها المخطِّط تلقائياً
   formats: ["review", "comparison", "how-to", "listicle", "alternatives"]
