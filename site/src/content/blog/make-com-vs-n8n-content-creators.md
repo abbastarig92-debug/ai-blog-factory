@@ -46,7 +46,7 @@ sources:
 - title: 'Zapier vs Make vs n8n Pricing 2026: Every Plan, Feature & Hidden Cost Compared
     | AICentralResources Blog'
   url: https://www.aicentralresources.com/blog/zapier-vs-make-vs-n8n-pricing-2026-every-plan-feature-hidden-cost-compared
-draft: true
+draft: false
 ---
 
 ## The Bottom Line: Which Tool Should Content Creators Choose?
