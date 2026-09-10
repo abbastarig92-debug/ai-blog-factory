@@ -1,49 +1,5 @@
 [
   {
-    "keyword": "how to build automated youtube workflow in n8n",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 380,
-    "est_difficulty": 18,
-    "format": "how-to",
-    "why_winnable": "n8n community forum threads rank on page one; a well-structured article with downloadable JSON blueprints easily captures the featured snippet.",
-    "search_promise": "A downloadable n8n workflow template connecting OpenAI, Google Sheets, and YouTube upload API with complete node configurations.",
-    "slug": "how-to-build-automated-youtube-workflow-in-n8n"
-  },
-  {
-    "keyword": "how to automate social media posts with n8n and chatgpt",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 680,
-    "est_difficulty": 22,
-    "format": "how-to",
-    "why_winnable": "Searchers seek specific multi-platform pipelines; existing blogs only show partial Zapier examples without self-hosted cost benefits.",
-    "search_promise": "Step-by-step setup to turn a single blog post or script into scheduled Twitter threads and LinkedIn posts via n8n webhook.",
-    "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
-  },
-  {
-    "keyword": "best ai motion graphics generator for after effects",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 320,
-    "est_difficulty": 19,
-    "format": "listicle",
-    "why_winnable": "Highly technical long-tail query with zero authority-site dominance; current top results are fragmented Reddit threads.",
-    "search_promise": "A curated list of AI plugins and standalone generators that export native AE keyframes or alpha-channel layers.",
-    "slug": "best-ai-motion-graphics-generator-for-after-effects"
-  },
-  {
-    "keyword": "invideo ai vs capcut for reels",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 21,
-    "format": "comparison",
-    "why_winnable": "G2 and Capterra focus on enterprise use cases, leaving a gap for practical creator-focused feature-by-feature comparisons.",
-    "search_promise": "A direct side-by-side breakdown of render times, auto-captions, template quality, and export limits for Instagram/TikTok creators.",
-    "slug": "invideo-ai-vs-capcut-for-reels"
-  },
-  {
     "keyword": "best ai video generator for faceless youtube channel",
     "cluster": "video-ai",
     "intent": "commercial",
@@ -99,6 +55,17 @@
     "slug": "best-free-ai-blog-automation-tool-for-wordpress"
   },
   {
+    "keyword": "how to build automated youtube workflow in n8n",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 380,
+    "est_difficulty": 18,
+    "format": "how-to",
+    "why_winnable": "n8n community forum threads rank on page one; a well-structured article with downloadable JSON blueprints easily captures the featured snippet.",
+    "search_promise": "A downloadable n8n workflow template connecting OpenAI, Google Sheets, and YouTube upload API with complete node configurations.",
+    "slug": "how-to-build-automated-youtube-workflow-in-n8n"
+  },
+  {
     "keyword": "how to clone your voice for podcast intro ai",
     "cluster": "voice-ai",
     "intent": "informational",
@@ -108,6 +75,17 @@
     "why_winnable": "Hyper-focused application query answered mainly by low-quality vendor documentation rather than practical creator tutorials.",
     "search_promise": "Audio recording checklist and quick 3-step setup guide to get natural-sounding podcast intros in under 10 minutes.",
     "slug": "how-to-clone-your-voice-for-podcast-intro-ai"
+  },
+  {
+    "keyword": "how to automate social media posts with n8n and chatgpt",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 680,
+    "est_difficulty": 22,
+    "format": "how-to",
+    "why_winnable": "Searchers seek specific multi-platform pipelines; existing blogs only show partial Zapier examples without self-hosted cost benefits.",
+    "search_promise": "Step-by-step setup to turn a single blog post or script into scheduled Twitter threads and LinkedIn posts via n8n webhook.",
+    "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
   },
   {
     "keyword": "how to generate consistent characters in midjourney v6",

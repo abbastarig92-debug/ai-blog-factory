@@ -183,5 +183,48 @@
     "slug": "best-open-source-ai-agent-framework-for-beginners",
     "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-open-source-ai-agent-framework-for-beginners/",
     "status": "queued"
+  },
+  {
+    "x": "90% of AI video tools output flat raster files. Here is how motion designers are keeping true vector control and layer hierarchies in After Effects instead: https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-ai-motion-graphics-generator-after-effects/",
+    "linkedin": "Most AI video generators treat your timeline like a flat video file, destroying your vector shapes and layer organization the second you export.\n\nFor After Effects users, that makes most AI tools useless for actual client work where you need to tweak curves, adjust paths, and re-animate properties later.\n\nWe looked at the bridge tools and plugins bridging the gap between AI generation and true vector control inside AE: https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-ai-motion-graphics-generator-after-effects/",
+    "reddit": {
+      "subreddit_suggestions": [
+        "AfterEffects",
+        "MotionDesign"
+      ],
+      "title": "How are you handling AI video generation without losing vector control in AE?",
+      "comment_first_body": "Most of the current AI video tools just spit out flat rasterized mp4s or image sequences, which completely defeats the purpose if you need to go in and tweak shapes, paths, or layer hierarchies later. \n\nI've been looking into specialized bridge tools and plugins that let you maintain editable vectors inside After Effects rather than just dropping in flat footage. Put together a breakdown of how the current workflow options compare for 2024 if anyone is trying to solve the same pipeline bottleneck: https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-ai-motion-graphics-generator-after-effects/"
+    },
+    "newsletter": "If you work in After Effects, you've probably hit a wall with AI video tools. Most of them output flat, rasterized files that completely destroy your layer hierarchies and vector control the second you bring them into a project. That is a dealbreaker for professional motion design work where revisions are constant. Fortunately, a new category of specialized bridge tools and plugins is changing how AI integrates with traditional pipelines. These utilities allow motion designers to generate assets while retaining true vector control and editable properties directly inside After Effects. If you want to speed up your workflow without sacrificing the flexibility of vector shapes, read the full breakdown to see which tools are worth adopting this year.",
+    "pinterest": "Keep true vector control and layer hierarchies in After Effects using specialized AI bridge tools. #MotionDesign #AfterEffects",
+    "quora_targets": [
+      "After Effects",
+      "Motion Design",
+      "Artificial Intelligence"
+    ],
+    "slug": "best-ai-motion-graphics-generator-after-effects",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-ai-motion-graphics-generator-after-effects/",
+    "status": "queued"
+  },
+  {
+    "x": "InVideo AI generates complete Reels from text, while CapCut requires manual timeline editing. Which fits your workflow? https://abbastarig92-debug.github.io/ai-blog-factory/blog/invideo-ai-vs-capcut-for-reels/",
+    "linkedin": "Choosing the right tool for Instagram Reels usually comes down to whether you want automation or manual control. \n\nInVideo AI is built for speed, generating complete videos from a simple text prompt. CapCut, on the other hand, is designed for creators who want granular timeline control over raw footage and transitions.\n\nWe compared both tools for 2026 workflows to see which actually saves time depending on your production style. Read the full breakdown here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/invideo-ai-vs-capcut-for-reels/",
+    "reddit": {
+      "subreddit_suggestions": [
+        "InstagramReels",
+        "VideoEditing"
+      ],
+      "title": "InVideo AI vs CapCut for Reels (2026 comparison)",
+      "comment_first_body": "If you're trying to decide between these two for Reels, the main difference comes down to your process. InVideo AI is great if you want to skip the editing timeline entirely and generate videos from a text prompt. If you already have raw footage and want precise control over cuts, text, and effects, CapCut is still the better fit. We put together a direct comparison of how their workflows compare in 2026: https://abbastarig92-debug.github.io/ai-blog-factory/blog/invideo-ai-vs-capcut-for-reels/"
+    },
+    "newsletter": "Are you spending too much time editing Instagram Reels, or struggling to pump out enough content? The right tool depends entirely on your workflow. In our latest 2026 comparison, we look at InVideo AI and CapCut head-to-head. InVideo AI is built for automation, turning simple text prompts into finished videos without touching a timeline. Meanwhile, CapCut remains the go-to for creators who need granular control over raw footage, precise cuts, and custom effects. If you want to know which one fits your content strategy and actually saves you hours each week, read the full breakdown on the blog today.",
+    "pinterest": "InVideo AI vs CapCut for Reels: Compare AI text-to-video automation with manual timeline editing. Read the full 2026 review!",
+    "quora_targets": [
+      "Instagram Reels",
+      "Video Editing"
+    ],
+    "slug": "invideo-ai-vs-capcut-for-reels",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/invideo-ai-vs-capcut-for-reels/",
+    "status": "queued"
   }
 ]
