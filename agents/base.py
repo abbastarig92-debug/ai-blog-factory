@@ -136,9 +136,12 @@ class LLM:
     # ---- Gemini: REST مباشر، بلا مكتبات إضافية -------------------------
     GEMINI_API = "https://generativelanguage.googleapis.com/v1beta"
 
+    # مهلة قصيرة عمداً: الطلب المعلّق يُقطع ويُجرَّب البديل بدل انتظار ٣ دقائق بلا رد
+    GEMINI_TIMEOUT = 90
+
     def _gemini_request(self, path: str, body: dict | None = None) -> dict:
         """نداء REST مع إظهار نص الخطأ الحقيقي من Google بدل رسالة HTTP مبهمة."""
-        import json as _json, urllib.request, urllib.error
+        import json as _json, socket, urllib.request, urllib.error
         sep = "&" if "?" in path else "?"
         url = f"{self.GEMINI_API}/{path}{sep}key={self.gemini_key}"
         data = _json.dumps(body).encode() if body is not None else None
@@ -147,11 +150,17 @@ class LLM:
             headers={"Content-Type": "application/json"} if data else {},
         )
         try:
-            with urllib.request.urlopen(req, timeout=180) as r:
+            with urllib.request.urlopen(req, timeout=self.GEMINI_TIMEOUT) as r:
                 return _json.load(r)
         except urllib.error.HTTPError as e:
             detail = e.read().decode("utf-8", "replace")[:600]
             raise RuntimeError(f"Gemini HTTP {e.code} على {path} — {detail}") from None
+        except (socket.timeout, TimeoutError) as e:
+            raise RuntimeError(
+                f"Gemini انتهت المهلة ({self.GEMINI_TIMEOUT}s) على {path} — timeout"
+            ) from None
+        except urllib.error.URLError as e:
+            raise RuntimeError(f"Gemini تعذّر الاتصال بـ{path} — {e.reason}") from None
 
     def _gemini_models(self) -> list[str]:
         """أسماء الموديلات المتاحة فعلياً لهذا المفتاح والتي تدعم generateContent."""
@@ -191,7 +200,10 @@ class LLM:
         """ازدحام مؤقت أو تجاوز حصة — البديل أجدى من إعادة المحاولة."""
         t = str(err)
         return ("HTTP 503" in t or "HTTP 429" in t
-                or "UNAVAILABLE" in t or "RESOURCE_EXHAUSTED" in t)
+                or "UNAVAILABLE" in t or "RESOURCE_EXHAUSTED" in t
+                # انتهاء المهلة أو تعذّر الاتصال: الموديل لا يرد — البديل أجدى
+                or "انتهت المهلة" in t or "timeout" in t or "timed out" in t
+                or "تعذّر الاتصال" in t)
 
     @staticmethod
     def _gemini_gone(err: Exception) -> bool:
