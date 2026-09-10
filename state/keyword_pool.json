@@ -1,38 +1,5 @@
 [
   {
-    "keyword": "make com vs n8n for content creators",
-    "cluster": "automation",
-    "intent": "commercial",
-    "est_volume": 720,
-    "est_difficulty": 26,
-    "format": "comparison",
-    "why_winnable": "Existing comparisons target general IT developers rather than non-technical creators trying to automate social media and content feeds.",
-    "search_promise": "A clear cost comparison based on operations/executions and ease of use for non-technical creator automation.",
-    "slug": "make-com-vs-n8n-for-content-creators"
-  },
-  {
-    "keyword": "best free ai blog automation tool for wordpress",
-    "cluster": "writing-ai",
-    "intent": "commercial",
-    "est_volume": 780,
-    "est_difficulty": 29,
-    "format": "listicle",
-    "why_winnable": "Dominated by outdated plugin directory listings rather than tested end-to-end automation stacks.",
-    "search_promise": "A ranked breakdown of WordPress AI plugins offering functional free tiers with direct draft scheduling capabilities.",
-    "slug": "best-free-ai-blog-automation-tool-for-wordpress"
-  },
-  {
-    "keyword": "best open source ai agent framework for beginners",
-    "cluster": "automation",
-    "intent": "commercial",
-    "est_volume": 890,
-    "est_difficulty": 31,
-    "format": "listicle",
-    "why_winnable": "Most agent content is either too academic (research papers) or developer-heavy (raw GitHub repos), leaving a void for accessible beginner rundowns.",
-    "search_promise": "Comparison of CrewAI, AutoGen, and LangGraph rated strictly by ease of local setup, UI availability, and no-code friendliness.",
-    "slug": "best-open-source-ai-agent-framework-for-beginners"
-  },
-  {
     "keyword": "how to build automated youtube workflow in n8n",
     "cluster": "automation",
     "intent": "informational",
@@ -53,17 +20,6 @@
     "why_winnable": "Searchers seek specific multi-platform pipelines; existing blogs only show partial Zapier examples without self-hosted cost benefits.",
     "search_promise": "Step-by-step setup to turn a single blog post or script into scheduled Twitter threads and LinkedIn posts via n8n webhook.",
     "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
-  },
-  {
-    "keyword": "how to bypass ai content detectors for client work",
-    "cluster": "writing-ai",
-    "intent": "informational",
-    "est_volume": 1200,
-    "est_difficulty": 32,
-    "format": "how-to",
-    "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
-    "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
-    "slug": "how-to-bypass-ai-content-detectors-for-client-work"
   },
   {
     "keyword": "best ai motion graphics generator for after effects",
@@ -132,6 +88,17 @@
     "slug": "elevenlabs-alternatives-for-commercial-voiceover-free"
   },
   {
+    "keyword": "best free ai blog automation tool for wordpress",
+    "cluster": "writing-ai",
+    "intent": "commercial",
+    "est_volume": 780,
+    "est_difficulty": 29,
+    "format": "listicle",
+    "why_winnable": "Dominated by outdated plugin directory listings rather than tested end-to-end automation stacks.",
+    "search_promise": "A ranked breakdown of WordPress AI plugins offering functional free tiers with direct draft scheduling capabilities.",
+    "slug": "best-free-ai-blog-automation-tool-for-wordpress"
+  },
+  {
     "keyword": "how to clone your voice for podcast intro ai",
     "cluster": "voice-ai",
     "intent": "informational",
@@ -152,5 +119,16 @@
     "why_winnable": "High search volume with low domain competition because prompt syntax frequently updates and older guides break.",
     "search_promise": "The exact parameter syntax (--cref, --cw) with copy-paste prompt templates and visual side-by-side examples.",
     "slug": "how-to-generate-consistent-characters-in-midjourney-v6"
+  },
+  {
+    "keyword": "how to bypass ai content detectors for client work",
+    "cluster": "writing-ai",
+    "intent": "informational",
+    "est_volume": 1200,
+    "est_difficulty": 32,
+    "format": "how-to",
+    "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
+    "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
+    "slug": "how-to-bypass-ai-content-detectors-for-client-work"
   }
 ]
