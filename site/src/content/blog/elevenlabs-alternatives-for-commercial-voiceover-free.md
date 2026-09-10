@@ -44,7 +44,7 @@ sources:
   url: https://medium.com/gptcommands/best-elevenlabs-alternatives-for-ai-voiceovers-in-2026-fbd0a6a3c3eb
 - title: The Best Alternatives to ElevenLabs 2026 (Free and Paid)
   url: https://www.youtube.com/watch?v=qzG8c6Gm1zg&vl=en-US
-draft: true
+draft: false
 ---
 
 > *We may earn a commission from links on this page, at no extra cost to you.*
