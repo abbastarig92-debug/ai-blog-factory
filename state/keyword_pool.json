@@ -1,38 +1,5 @@
 [
   {
-    "keyword": "best free ai blog automation tool for wordpress",
-    "cluster": "writing-ai",
-    "intent": "commercial",
-    "est_volume": 780,
-    "est_difficulty": 29,
-    "format": "listicle",
-    "why_winnable": "Dominated by outdated plugin directory listings rather than tested end-to-end automation stacks.",
-    "search_promise": "A ranked breakdown of WordPress AI plugins offering functional free tiers with direct draft scheduling capabilities.",
-    "slug": "best-free-ai-blog-automation-tool-for-wordpress"
-  },
-  {
-    "keyword": "how to build automated youtube workflow in n8n",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 380,
-    "est_difficulty": 18,
-    "format": "how-to",
-    "why_winnable": "n8n community forum threads rank on page one; a well-structured article with downloadable JSON blueprints easily captures the featured snippet.",
-    "search_promise": "A downloadable n8n workflow template connecting OpenAI, Google Sheets, and YouTube upload API with complete node configurations.",
-    "slug": "how-to-build-automated-youtube-workflow-in-n8n"
-  },
-  {
-    "keyword": "how to clone your voice for podcast intro ai",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 280,
-    "est_difficulty": 18,
-    "format": "how-to",
-    "why_winnable": "Hyper-focused application query answered mainly by low-quality vendor documentation rather than practical creator tutorials.",
-    "search_promise": "Audio recording checklist and quick 3-step setup guide to get natural-sounding podcast intros in under 10 minutes.",
-    "slug": "how-to-clone-your-voice-for-podcast-intro-ai"
-  },
-  {
     "keyword": "how to automate social media posts with n8n and chatgpt",
     "cluster": "automation",
     "intent": "informational",
@@ -42,17 +9,6 @@
     "why_winnable": "Searchers seek specific multi-platform pipelines; existing blogs only show partial Zapier examples without self-hosted cost benefits.",
     "search_promise": "Step-by-step setup to turn a single blog post or script into scheduled Twitter threads and LinkedIn posts via n8n webhook.",
     "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
-  },
-  {
-    "keyword": "how to generate consistent characters in midjourney v6",
-    "cluster": "image-ai",
-    "intent": "informational",
-    "est_volume": 1600,
-    "est_difficulty": 29,
-    "format": "how-to",
-    "why_winnable": "High search volume with low domain competition because prompt syntax frequently updates and older guides break.",
-    "search_promise": "The exact parameter syntax (--cref, --cw) with copy-paste prompt templates and visual side-by-side examples.",
-    "slug": "how-to-generate-consistent-characters-in-midjourney-v6"
   },
   {
     "keyword": "how to bypass ai content detectors for client work",
@@ -77,6 +33,17 @@
     "slug": "best-ai-video-generator-for-faceless-youtube-channel"
   },
   {
+    "keyword": "how to clone your voice for podcast intro ai",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 280,
+    "est_difficulty": 18,
+    "format": "how-to",
+    "why_winnable": "Hyper-focused application query answered mainly by low-quality vendor documentation rather than practical creator tutorials.",
+    "search_promise": "Audio recording checklist and quick 3-step setup guide to get natural-sounding podcast intros in under 10 minutes.",
+    "slug": "how-to-clone-your-voice-for-podcast-intro-ai"
+  },
+  {
     "keyword": "how to make faceless youtube videos with ai free",
     "cluster": "video-ai",
     "intent": "informational",
@@ -86,5 +53,16 @@
     "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
     "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
     "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
+  },
+  {
+    "keyword": "how to generate consistent characters in midjourney v6",
+    "cluster": "image-ai",
+    "intent": "informational",
+    "est_volume": 1600,
+    "est_difficulty": 29,
+    "format": "how-to",
+    "why_winnable": "High search volume with low domain competition because prompt syntax frequently updates and older guides break.",
+    "search_promise": "The exact parameter syntax (--cref, --cw) with copy-paste prompt templates and visual side-by-side examples.",
+    "slug": "how-to-generate-consistent-characters-in-midjourney-v6"
   }
 ]

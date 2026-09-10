@@ -271,5 +271,54 @@
     "slug": "elevenlabs-alternatives-for-commercial-voiceover-free",
     "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/elevenlabs-alternatives-for-commercial-voiceover-free/",
     "status": "queued"
+  },
+  {
+    "x": "Monthly AI blog subscriptions run $40–$99/mo. By switching to open-framework WordPress plugins powered by your own API key, automated drafts cost under $2 a month for the same output. Here are the 5 best free tools to set it up: https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-free-ai-blog-automation-wordpress/",
+    "linkedin": "Most AI content tools charge a 500% markup on simple API calls. If you run WordPress, you don't need a $99/month SaaS subscription to build a scalable, automated publishing workflow.\n\nBy using open-framework WordPress plugins paired with your own OpenAI or Anthropic API keys, you get full control over your system prompts, custom post types, and schema while paying fractions of a cent per draft.\n\nWe tested the top free options available right now—here are the 5 best open-framework plugins to automate your WordPress content engine: https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-free-ai-blog-automation-wordpress/",
+    "reddit": {
+      "subreddit_suggestions": [
+        "r/WordPress",
+        "r/Blogging",
+        "r/SEO"
+      ],
+      "title": "Why pay $50/mo for AI content SaaS when open-framework WP plugins with bring-your-own-API cost pennies?",
+      "comment_first_body": "Most content creators fall into the trap of paying $50-$100/mo for proprietary AI wrappers. If you're on WordPress, the most cost-effective stack is using open-framework plugins paired with your own API key (OpenAI or Anthropic). You get direct control over system prompts, internal linking, and publishing schedules without arbitrary word caps.\n\nI put together a breakdown of the 5 best free plugins that let you bring your own API key to automate drafts safely: https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-free-ai-blog-automation-wordpress/"
+    },
+    "newsletter": "Stop overpaying for AI content SaaS platforms. If you run your site on WordPress, paying $50 to $100 per month for proprietary AI content generators is an unnecessary expense. Most of these platforms are just thin wrappers around standard LLM APIs with massive price markups.\n\nThe smarter move? Open-framework WordPress plugins that let you bring your own API key. By connecting your own OpenAI or Anthropic account directly to your site, you gain complete control over automated drafting, custom taxonomy mapping, and SEO meta generation—all while paying raw token costs (often under $2/month for dozens of long-form drafts). We compared the top free options to help you build a lean, automated publishing engine.",
+    "pinterest": "Cut your content creation costs. Discover the 5 best free AI blog automation plugins for WordPress using your own API key. #WordPress #ContentMarketing",
+    "quora_targets": [
+      "What are the best free AI writing tools for WordPress?",
+      "How can I automate my WordPress blog posts with AI?",
+      "Is it cheaper to use OpenAI API directly instead of AI writing SaaS platforms?",
+      "Which WordPress plugins allow you to use your own OpenAI API key?"
+    ],
+    "slug": "best-free-ai-blog-automation-wordpress",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-free-ai-blog-automation-wordpress/",
+    "status": "queued"
+  },
+  {
+    "x": "Manual YouTube uploads waste ~45 minutes per video on metadata and file transfers. An open-source n8n pipeline turns publishing into a zero-touch background process. Build it for free: https://abbastarig92-debug.github.io/ai-blog-factory/blog/n8n-automated-youtube-workflow/",
+    "linkedin": "Most video creators lose hours every month on post-production admin—manually transferring gigabytes of raw video files and copy-pasting metadata into YouTube Studio.\n\nYou can eliminate that bottleneck entirely by routing your publishing pipeline through n8n. By linking your cloud storage directly to the YouTube Data API, dropping a final render into a target folder triggers automatic file transfers and draft metadata generation in the background.\n\nHere is the complete step-by-step technical breakdown to build this workflow for free: https://abbastarig92-debug.github.io/ai-blog-factory/blog/n8n-automated-youtube-workflow/\n\n#n8n #Automation",
+    "reddit": {
+      "subreddit_suggestions": [
+        "n8n",
+        "selfhosted",
+        "YouTubeCreators",
+        "automation"
+      ],
+      "title": "How I automated my YouTube publishing pipeline using n8n (Free)",
+      "comment_first_body": "Manual video uploading and metadata entry is pure administrative friction. I built an n8n workflow that triggers when a finished file hits cloud storage: it streams the file directly to YouTube via the API and drafts metadata automatically without using paid middleware like Zapier.\n\nThe entire setup uses native n8n nodes and standard OAuth credentials. Full node configuration and step-by-step setup guide here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/n8n-automated-youtube-workflow/"
+    },
+    "newsletter": "Video editing requires creativity, but video uploading is just administrative overhead. If you are still manually moving multi-gigabyte video files and copy-pasting descriptions into YouTube Studio, you are burning valuable production time.\n\nIn our latest guide, we step through building an automated YouTube publishing pipeline using n8n. By connecting your cloud storage directly to the YouTube API, you can trigger automated background transfers, generate metadata, and stage videos as draft uploads simply by saving a render file.\n\nNo paid third-party automation tools required. Learn how to configure the full node workflow for free today: https://abbastarig92-debug.github.io/ai-blog-factory/blog/n8n-automated-youtube-workflow/",
+    "pinterest": "Automate your YouTube channel with n8n. Turn manual video uploads and metadata generation into a free background process. https://abbastarig92-debug.github.io/ai-blog-factory/blog/n8n-automated-youtube-workflow/",
+    "quora_targets": [
+      "How can I automate YouTube video uploads for free?",
+      "What are the best n8n workflows for video creators?",
+      "How do I connect cloud storage to YouTube API for automated publishing?",
+      "Is there a way to auto-generate and upload YouTube metadata?"
+    ],
+    "slug": "n8n-automated-youtube-workflow",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/n8n-automated-youtube-workflow/",
+    "status": "queued"
   }
 ]
