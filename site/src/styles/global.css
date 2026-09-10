@@ -15,8 +15,10 @@ a{color:inherit;text-underline-offset:3px}
 .prose{max-width:var(--max);margin:0 auto}
 header.site{border-bottom:1px solid var(--line);position:sticky;top:0;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);z-index:9}
 header.site .row{display:flex;align-items:center;justify-content:space-between;gap:24px;padding:14px 0}
-.logo{font-weight:800;letter-spacing:-.02em;text-decoration:none;font-size:20px}
-.logo span{color:var(--accent)}
+.logo{display:inline-flex;align-items:center;gap:10px;font-weight:800;letter-spacing:-.02em;
+  text-decoration:none;font-size:20px;color:var(--ink)}
+.logo img{display:block;width:30px;height:30px;border-radius:8px;flex:none}
+.logo-text span{color:var(--accent)}
 nav a{margin-left:18px;text-decoration:none;color:var(--muted);font-size:15px;font-weight:600}
 nav a:hover{color:var(--ink)}
 .hero{padding:64px 0 40px;border-bottom:1px solid var(--line)}
