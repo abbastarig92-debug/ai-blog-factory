@@ -26,6 +26,7 @@ def run(count: int | None = None) -> list[dict]:
     intent_rank = {"commercial": 0, "transactional": 1, "informational": 2}
     pool.sort(key=lambda k: (
         cluster_counts.get(k.get("cluster"), 0),
+        0 if k.get("paid_tool") else 1,   # داخل المحور: ما يُدرّ عمولة أولاً (وسمه a01)
         intent_rank.get(k.get("intent"), 3),
         k.get("est_difficulty", 50),
     ))
