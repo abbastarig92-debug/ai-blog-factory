@@ -1,49 +1,5 @@
 [
   {
-    "keyword": "best ai video generator for faceless youtube channel",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 850,
-    "est_difficulty": 26,
-    "format": "listicle",
-    "why_winnable": "Major software review sites target generic 'best ai video generator' head terms; targeting the specific sub-niche of faceless YouTube channels faces weaker, forum-heavy SERPs.",
-    "search_promise": "A comparison table ranking the top 5 tools specifically by script-to-video workflow, automated voice sync, and monetization safety.",
-    "slug": "best-ai-video-generator-for-faceless-youtube-channel"
-  },
-  {
-    "keyword": "how to make faceless youtube videos with ai free",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 1400,
-    "est_difficulty": 28,
-    "format": "how-to",
-    "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
-    "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
-    "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
-  },
-  {
-    "keyword": "best ai product photography app for shopify stores",
-    "cluster": "image-ai",
-    "intent": "commercial",
-    "est_volume": 610,
-    "est_difficulty": 23,
-    "format": "listicle",
-    "why_winnable": "E-commerce store owners search for direct Shopify integration and clean background generation; SERPs lack deep workflow reviews.",
-    "search_promise": "Top visual comparison of realistic shadow generation, batch processing, and Shopify app store ratings.",
-    "slug": "best-ai-product-photography-app-for-shopify-stores"
-  },
-  {
-    "keyword": "elevenlabs alternatives for commercial voiceover free",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 550,
-    "est_difficulty": 27,
-    "format": "alternatives",
-    "why_winnable": "Most ElevenLabs alternative lists fail to specify commercial usage rights in free tiers, creating a high-intent gap.",
-    "search_promise": "A matrix of free voiceover tools clearly highlighting which ones grant commercial monetization licenses without copyright strikes.",
-    "slug": "elevenlabs-alternatives-for-commercial-voiceover-free"
-  },
-  {
     "keyword": "best free ai blog automation tool for wordpress",
     "cluster": "writing-ai",
     "intent": "commercial",
@@ -108,5 +64,27 @@
     "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
     "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
     "slug": "how-to-bypass-ai-content-detectors-for-client-work"
+  },
+  {
+    "keyword": "best ai video generator for faceless youtube channel",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 850,
+    "est_difficulty": 26,
+    "format": "listicle",
+    "why_winnable": "Major software review sites target generic 'best ai video generator' head terms; targeting the specific sub-niche of faceless YouTube channels faces weaker, forum-heavy SERPs.",
+    "search_promise": "A comparison table ranking the top 5 tools specifically by script-to-video workflow, automated voice sync, and monetization safety.",
+    "slug": "best-ai-video-generator-for-faceless-youtube-channel"
+  },
+  {
+    "keyword": "how to make faceless youtube videos with ai free",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 1400,
+    "est_difficulty": 28,
+    "format": "how-to",
+    "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
+    "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
+    "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
   }
 ]
