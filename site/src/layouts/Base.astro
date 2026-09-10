@@ -1,4 +1,4 @@
----
+ ---
 import '../styles/global.css';
 import site from '../site.json';
 const { title, description, image, type = 'website', canonical, jsonld } = Astro.props;
@@ -22,6 +22,9 @@ const ogImage = new URL(image ?? `${B}/covers/default.svg`, Astro.site).toString
   <meta name="twitter:card" content="summary_large_image" />
   <link rel="alternate" type="application/rss+xml" title={site.name} href={`${B}/rss.xml`} />
   <link rel="sitemap" href={`${B}/sitemap-index.xml`} />
+  <link rel="icon" type="image/svg+xml" href={`${B}/favicon.svg`} />
+  <link rel="apple-touch-icon" href={`${B}/favicon.svg`} />
+  <meta name="theme-color" content="#0B1220" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" />
@@ -42,7 +45,10 @@ const ogImage = new URL(image ?? `${B}/covers/default.svg`, Astro.site).toString
 </head>
 <body>
   <header class="site"><div class="wrap row">
-    <a class="logo" href={`${B}/`}>{site.name.split(' ')[0]}<span>{site.name.split(' ').slice(1).join(' ')}</span></a>
+    <a class="logo" href={`${B}/`}>
+      <img src={`${B}/favicon.svg`} alt="" width="30" height="30" />
+      <span class="logo-text">{site.name.split(' ')[0]}<span>{site.name.split(' ').slice(1).join(' ')}</span></span>
+    </a>
     <nav>
       {site.clusters.slice(0,4).map((c) => <a href={`${B}/topics/${c.id}/`}>{c.title}</a>)}
       <a href={`${B}/about/`}>About</a>
