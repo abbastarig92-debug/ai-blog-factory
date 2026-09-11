@@ -110,5 +110,21 @@
     "keyword": "how to build automated youtube workflow in n8n",
     "cluster": "automation",
     "draft": false
+  },
+  {
+    "slug": "synthesia-review-small-business-training-videos",
+    "title": "Synthesia Review for Small Business Training Videos",
+    "date": "2026-09-11T09:34:32+00:00",
+    "keyword": "synthesia review for small business training videos",
+    "cluster": "video-ai",
+    "draft": false
+  },
+  {
+    "slug": "is-elevenlabs-worth-it-faceless-youtube",
+    "title": "Is ElevenLabs Worth It for YouTube Faceless Channels?",
+    "date": "2026-09-11T09:37:57+00:00",
+    "keyword": "is elevenlabs worth it for youtube faceless channels",
+    "cluster": "voice-ai",
+    "draft": false
   }
 ]

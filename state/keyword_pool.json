@@ -1,25 +1,87 @@
 [
   {
-    "keyword": "how to automate social media posts with n8n and chatgpt",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 680,
-    "est_difficulty": 22,
-    "format": "how-to",
-    "why_winnable": "Searchers seek specific multi-platform pipelines; existing blogs only show partial Zapier examples without self-hosted cost benefits.",
-    "search_promise": "Step-by-step setup to turn a single blog post or script into scheduled Twitter threads and LinkedIn posts via n8n webhook.",
-    "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
+    "keyword": "elevenlabs review for audiobook narrators",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 24,
+    "format": "review",
+    "why_winnable": "Hyper-niched long-tail searcher intent that big software review portals ignore; targets long-form voice synthesis specs specific to self-publishers.",
+    "search_promise": "Direct audio comparison samples showing long-form narration quality, ACX compliance breakdown, and exact pricing math for 50k-word books.",
+    "slug": "elevenlabs-review-for-audiobook-narrators",
+    "paid_tool": "ElevenLabs"
   },
   {
-    "keyword": "how to bypass ai content detectors for client work",
+    "keyword": "synthesia vs heygen for corporate training videos",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 590,
+    "est_difficulty": 28,
+    "format": "comparison",
+    "why_winnable": "Head-to-head comparison framed around internal L&D training rather than general social media avatars.",
+    "search_promise": "Feature comparison matrix covering avatar naturalness, multi-language lip-sync quality, enterprise compliance, and cost per minute.",
+    "slug": "synthesia-vs-heygen-for-corporate-training-videos",
+    "paid_tool": "Synthesia"
+  },
+  {
+    "keyword": "pabbly connect vs make com for automated publishing",
+    "cluster": "automation",
+    "intent": "commercial",
+    "est_volume": 340,
+    "est_difficulty": 20,
+    "format": "comparison",
+    "why_winnable": "Content creators shifting away from expensive Zapier pricing seek specific operational comparisons between lifetime and monthly plans.",
+    "search_promise": "Detailed breakdown of task consumption rates, webhooks reliability, and multi-platform content scheduling features.",
+    "slug": "pabbly-connect-vs-make-com-for-automated-publishing",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "best free ai image generator for book cover design",
+    "cluster": "image-ai",
+    "intent": "commercial",
+    "est_volume": 390,
+    "est_difficulty": 22,
+    "format": "listicle",
+    "why_winnable": "Self-published authors seek commercial licensing details and typography overlay capabilities that stock art tools lack.",
+    "search_promise": "List of top generators rated on resolution, aspect ratio support, commercial copyright rules, and text rendering.",
+    "slug": "best-free-ai-image-generator-for-book-cover-design",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "best ai blog writer for shopify ecommerce stores",
     "cluster": "writing-ai",
-    "intent": "informational",
-    "est_volume": 1200,
-    "est_difficulty": 32,
-    "format": "how-to",
-    "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
-    "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
-    "slug": "how-to-bypass-ai-content-detectors-for-client-work"
+    "intent": "commercial",
+    "est_volume": 350,
+    "est_difficulty": 23,
+    "format": "listicle",
+    "why_winnable": "E-commerce owners need auto product linking and schema integration rather than generic marketing copy generators.",
+    "search_promise": "Comparison of Shopify-native AI blog apps testing automated product embedding and SEO ranking capability.",
+    "slug": "best-ai-blog-writer-for-shopify-ecommerce-stores",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "best ai video editor for course creators",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 410,
+    "est_difficulty": 25,
+    "format": "listicle",
+    "why_winnable": "Course creators need auto-silence removal, script trimming, and avatar inserts; high-LTV audience ignored by general roundups.",
+    "search_promise": "Top 5 editors evaluated on auto-captioning accuracy, B-roll generation, and avatar integration for educational modules.",
+    "slug": "best-ai-video-editor-for-course-creators",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "best free ai dubbing software for multi language youtube",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 510,
+    "est_difficulty": 25,
+    "format": "listicle",
+    "why_winnable": "YouTube multi-language audio track feature created urgent demand that legacy blog posts haven't addressed.",
+    "search_promise": "Tool ranking based on voice clone accuracy, lip-sync matching, and language support, spotlighting paid upgrade paths.",
+    "slug": "best-free-ai-dubbing-software-for-multi-language-youtube",
+    "paid_tool": ""
   },
   {
     "keyword": "best ai video generator for faceless youtube channel",
@@ -33,6 +95,90 @@
     "slug": "best-ai-video-generator-for-faceless-youtube-channel"
   },
   {
+    "keyword": "best text to speech ai for documentary youtube channels",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 480,
+    "est_difficulty": 26,
+    "format": "listicle",
+    "why_winnable": "Niche context requires specific narrative pacing and dramatic cadence that generic TTS roundups do not cover.",
+    "search_promise": "Curated list ranked by vocal emotion and realism, highlighting ElevenLabs as top pick with embedded audio samples.",
+    "slug": "best-text-to-speech-ai-for-documentary-youtube-channels",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "neuronwriter vs surfer seo for small agency content",
+    "cluster": "writing-ai",
+    "intent": "commercial",
+    "est_volume": 520,
+    "est_difficulty": 27,
+    "format": "comparison",
+    "why_winnable": "Agencies look specifically at tier-based pricing and client management features rather than baseline content scoring.",
+    "search_promise": "Cost-per-article matrix, agency seat breakdown, and content optimization quality comparison.",
+    "slug": "neuronwriter-vs-surfer-seo-for-small-agency-content",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "best ai logo generator for custom vector graphics",
+    "cluster": "image-ai",
+    "intent": "commercial",
+    "est_volume": 460,
+    "est_difficulty": 29,
+    "format": "listicle",
+    "why_winnable": "Designers and founders want scalable SVG outputs rather than flat raster PNGs generated by basic AI image tools.",
+    "search_promise": "Tested list of tools exporting genuine vector SVG files with editable text layers and color palettes.",
+    "slug": "best-ai-logo-generator-for-custom-vector-graphics",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "best free text to video ai without watermark for reels",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 880,
+    "est_difficulty": 31,
+    "format": "listicle",
+    "why_winnable": "High-intent mobile-first creators looking for unbranded output; easily captures traffic converting to paid tools like Synthesia.",
+    "search_promise": "Verified table of free video generators listing export resolution, watermark rules, and commercial usage rights.",
+    "slug": "best-free-text-to-video-ai-without-watermark-for-reels",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "best n8n workflow templates for content marketing teams",
+    "cluster": "automation",
+    "intent": "transactional",
+    "est_volume": 290,
+    "est_difficulty": 17,
+    "format": "listicle",
+    "why_winnable": "Self-hosted automation users actively search for pre-built JSON blueprints rather than introductory tutorials.",
+    "search_promise": "5 downloadable n8n blueprint files for AI auto-drafting, image generation, and multi-channel publishing.",
+    "slug": "best-n8n-workflow-templates-for-content-marketing-teams",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to automate pinterest pin creation with spreadsheet and ai",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 270,
+    "est_difficulty": 15,
+    "format": "how-to",
+    "why_winnable": "Ultra-specific workflow query for bloggers driving organic visual traffic on autopilot.",
+    "search_promise": "Complete guide linking Google Sheets prompts to visual design templates for batch generating 50 pins at once.",
+    "slug": "how-to-automate-pinterest-pin-creation-with-spreadsheet-and-ai",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to use ai to write newsletter content fast",
+    "cluster": "writing-ai",
+    "intent": "informational",
+    "est_volume": 410,
+    "est_difficulty": 16,
+    "format": "how-to",
+    "why_winnable": "Action-oriented query for solo creators experiencing newsletter burnout; easily bridges into AI workflow tool recommendations.",
+    "search_promise": "Copy-paste prompt framework to outline, draft, and format a weekly broadcast in under 15 minutes.",
+    "slug": "how-to-use-ai-to-write-newsletter-content-fast",
+    "paid_tool": ""
+  },
+  {
     "keyword": "how to clone your voice for podcast intro ai",
     "cluster": "voice-ai",
     "intent": "informational",
@@ -42,6 +188,53 @@
     "why_winnable": "Hyper-focused application query answered mainly by low-quality vendor documentation rather than practical creator tutorials.",
     "search_promise": "Audio recording checklist and quick 3-step setup guide to get natural-sounding podcast intros in under 10 minutes.",
     "slug": "how-to-clone-your-voice-for-podcast-intro-ai"
+  },
+  {
+    "keyword": "how to create video captions automatically with capcut desktop",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 650,
+    "est_difficulty": 18,
+    "format": "how-to",
+    "why_winnable": "Software-specific tutorial with low keyword difficulty; targets creators looking to speed up short-form video production.",
+    "search_promise": "3-minute visual step-by-step guide with custom styling presets and translation settings explained.",
+    "slug": "how-to-create-video-captions-automatically-with-capcut-desktop",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to clean background noise from podcast audio with ai",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 720,
+    "est_difficulty": 19,
+    "format": "how-to",
+    "why_winnable": "Low-competition instructional query dominated by outdated forum threads and generic audio editing blogs.",
+    "search_promise": "Step-by-step workflow comparing free and paid AI audio cleaners with before-and-after audio files.",
+    "slug": "how-to-clean-background-noise-from-podcast-audio-with-ai",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to automate social media posts with n8n and chatgpt",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 680,
+    "est_difficulty": 22,
+    "format": "how-to",
+    "why_winnable": "Searchers seek specific multi-platform pipelines; existing blogs only show partial Zapier examples without self-hosted cost benefits.",
+    "search_promise": "Step-by-step setup to turn a single blog post or script into scheduled Twitter threads and LinkedIn posts via n8n webhook.",
+    "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
+  },
+  {
+    "keyword": "how to connect chatgpt to wordpress with webhooks",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 380,
+    "est_difficulty": 24,
+    "format": "how-to",
+    "why_winnable": "Technical long-tail search for creators building custom automated publishing pipes without bloated plugins.",
+    "search_promise": "No-code setup guide detailing API payload formatting, webhook receivers, and draft post creation.",
+    "slug": "how-to-connect-chatgpt-to-wordpress-with-webhooks",
+    "paid_tool": ""
   },
   {
     "keyword": "how to make faceless youtube videos with ai free",
@@ -64,5 +257,28 @@
     "why_winnable": "High search volume with low domain competition because prompt syntax frequently updates and older guides break.",
     "search_promise": "The exact parameter syntax (--cref, --cw) with copy-paste prompt templates and visual side-by-side examples.",
     "slug": "how-to-generate-consistent-characters-in-midjourney-v6"
+  },
+  {
+    "keyword": "how to bypass ai content detectors for client work",
+    "cluster": "writing-ai",
+    "intent": "informational",
+    "est_volume": 1200,
+    "est_difficulty": 32,
+    "format": "how-to",
+    "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
+    "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
+    "slug": "how-to-bypass-ai-content-detectors-for-client-work"
+  },
+  {
+    "keyword": "how to upscale low resolution photos with ai free",
+    "cluster": "image-ai",
+    "intent": "informational",
+    "est_volume": 950,
+    "est_difficulty": 32,
+    "format": "how-to",
+    "why_winnable": "High volume searcher intent solved by concise web tools; low competition for direct step-by-step web tutorials.",
+    "search_promise": "3-step guide detailing free online upscalers that increase resolution to 4k without adding visual artifacts.",
+    "slug": "how-to-upscale-low-resolution-photos-with-ai-free",
+    "paid_tool": ""
   }
 ]
