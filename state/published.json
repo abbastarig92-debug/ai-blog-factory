@@ -126,5 +126,21 @@
     "keyword": "is elevenlabs worth it for youtube faceless channels",
     "cluster": "voice-ai",
     "draft": false
+  },
+  {
+    "slug": "pabbly-connect-vs-make-com-publishing",
+    "title": "Pabbly Connect vs Make.com for Automated Publishing",
+    "date": "2026-09-11T17:31:01+00:00",
+    "keyword": "pabbly connect vs make com for automated publishing",
+    "cluster": "automation",
+    "draft": false
+  },
+  {
+    "slug": "best-free-ai-book-cover-generator",
+    "title": "Best Free AI Image Generator for Book Cover Design",
+    "date": "2026-09-11T17:35:29+00:00",
+    "keyword": "best free ai image generator for book cover design",
+    "cluster": "image-ai",
+    "draft": true
   }
 ]
