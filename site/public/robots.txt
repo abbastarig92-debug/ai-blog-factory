@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://abbastarig92-debug.github.io/sitemap-index.xml
+Sitemap: https://abbastarig92-debug.github.io/ai-blog-factory/sitemap-index.xml
