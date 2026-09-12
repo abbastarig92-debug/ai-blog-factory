@@ -1,52 +1,5 @@
 [
   {
-    "keyword": "how to use ai to write newsletter content fast",
-    "cluster": "writing-ai",
-    "intent": "informational",
-    "est_volume": 410,
-    "est_difficulty": 16,
-    "format": "how-to",
-    "why_winnable": "Action-oriented query for solo creators experiencing newsletter burnout; easily bridges into AI workflow tool recommendations.",
-    "search_promise": "Copy-paste prompt framework to outline, draft, and format a weekly broadcast in under 15 minutes.",
-    "slug": "how-to-use-ai-to-write-newsletter-content-fast",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to bypass ai content detectors for client work",
-    "cluster": "writing-ai",
-    "intent": "informational",
-    "est_volume": 1200,
-    "est_difficulty": 32,
-    "format": "how-to",
-    "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
-    "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
-    "slug": "how-to-bypass-ai-content-detectors-for-client-work"
-  },
-  {
-    "keyword": "elevenlabs review for audiobook narrators",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 24,
-    "format": "review",
-    "why_winnable": "Hyper-niched long-tail searcher intent that big software review portals ignore; targets long-form voice synthesis specs specific to self-publishers.",
-    "search_promise": "Direct audio comparison samples showing long-form narration quality, ACX compliance breakdown, and exact pricing math for 50k-word books.",
-    "slug": "elevenlabs-review-for-audiobook-narrators",
-    "paid_tool": "ElevenLabs"
-  },
-  {
-    "keyword": "synthesia vs heygen for corporate training videos",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 590,
-    "est_difficulty": 28,
-    "format": "comparison",
-    "why_winnable": "Head-to-head comparison framed around internal L&D training rather than general social media avatars.",
-    "search_promise": "Feature comparison matrix covering avatar naturalness, multi-language lip-sync quality, enterprise compliance, and cost per minute.",
-    "slug": "synthesia-vs-heygen-for-corporate-training-videos",
-    "paid_tool": "Synthesia"
-  },
-  {
     "keyword": "best ai video editor for course creators",
     "cluster": "video-ai",
     "intent": "commercial",
@@ -232,5 +185,28 @@
     "search_promise": "3-step guide detailing free online upscalers that increase resolution to 4k without adding visual artifacts.",
     "slug": "how-to-upscale-low-resolution-photos-with-ai-free",
     "paid_tool": ""
+  },
+  {
+    "keyword": "how to use ai to write newsletter content fast",
+    "cluster": "writing-ai",
+    "intent": "informational",
+    "est_volume": 410,
+    "est_difficulty": 16,
+    "format": "how-to",
+    "why_winnable": "Action-oriented query for solo creators experiencing newsletter burnout; easily bridges into AI workflow tool recommendations.",
+    "search_promise": "Copy-paste prompt framework to outline, draft, and format a weekly broadcast in under 15 minutes.",
+    "slug": "how-to-use-ai-to-write-newsletter-content-fast",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to bypass ai content detectors for client work",
+    "cluster": "writing-ai",
+    "intent": "informational",
+    "est_volume": 1200,
+    "est_difficulty": 32,
+    "format": "how-to",
+    "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
+    "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
+    "slug": "how-to-bypass-ai-content-detectors-for-client-work"
   }
 ]
