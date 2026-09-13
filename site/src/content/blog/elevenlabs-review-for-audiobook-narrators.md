@@ -4,7 +4,7 @@ slug: elevenlabs-review-for-audiobook-narrators
 description: In this ElevenLabs review for audiobook narrators, discover why raw exports
   fail ACX standards and how to fix your mastering chain to pass Audible QA.
 pubDate: '2026-09-12T16:39:53+00:00'
-updatedDate: '2026-09-12T16:39:53+00:00'
+updatedDate: '2026-09-13T07:00:00+00:00'
 author: ToolStack Lab Editorial
 cluster: voice-ai
 format: review
@@ -219,20 +219,22 @@ Despite its voice rendering capabilities, ElevenLabs presents specific workflow 
 
 ## ElevenLabs Alternatives for Long-Form Audio Production
 
-| Feature / Metric | ElevenLabs Projects | Play.ht Studio | Human Narrator (Mid-Tier) |
-| :--- | :--- | :--- | :--- |
-| **Long-Form Workflow Engine** | Dedicated Projects Studio | Play.ht Studio | Manual Performance / Studio Setup |
-| **Voice Cloning Type** | PVC (High Fidelity) & IVC | High-Fidelity Voice Cloning | N/A (Original Human Voice) |
-| **Native Audio Quality** | 44.1 kHz PCM | High Bitrate WAV | Studio Grade Audio |
-| **ACX Pass Rate Out-of-Box** | Low (Requires DAW Mastering) | Low (Requires DAW Mastering) | High (Ready for Upload) |
-| **Language Support** | 74 Languages (v3 Model) | Multi-Language Support | Single/Multi-lingual Native |
-| **Pricing Model** | Credit / Character Tiers | Character / Word Tiers | Per-Finished-Hour (PFH) |
+| Feature / Metric | ElevenLabs Projects | Human Narrator (Mid-Tier) |
+| :--- | :--- | :--- |
+| **Long-Form Workflow Engine** | Dedicated Projects Studio | Manual Performance / Studio Setup |
+| **Voice Cloning Type** | PVC (High Fidelity) & IVC | N/A (Original Human Voice) |
+| **Native Audio Quality** | 44.1 kHz PCM | Studio Grade Audio |
+| **ACX Pass Rate Out-of-Box** | Low (Requires DAW Mastering) | High (Ready for Upload) |
+| **Language Support** | 74 Languages (v3 Model) | Single/Multi-lingual Native |
+| **Pricing Model** | Credit / Character Tiers | Per-Finished-Hour (PFH) |
 
 ### Alternative Platform Summaries
 
-*   **Play.ht:** Offers manuscript importing tools and direct audio mastering options suited for long-form publishing, though vocal performance depth varies depending on the selected voice model.
-*   **Speechify Audiobooks:** Useful for generating preliminary audio drafts and self-proofing manuscripts aloud before committing to full production.
+*   **Speechify Studio:** Useful for generating preliminary audio drafts and self-proofing manuscripts aloud before committing to full production, and the closest like-for-like alternative if ElevenLabs pricing does not fit your manuscript length.
 *   **Murf.ai:** Focuses on timed voice synchronization and fine-grained pitch editing, making it better suited for short audio-first projects and picture books rather than full-length novels.
+*   **Play.ht — no longer available.** Play.ht (later PlayAI) was widely recommended for long-form narration, but the company wound down: Meta acquired the team in July 2025 and all products were permanently discontinued on 31 December 2025, with user accounts and cloned voices deleted at sunset. If you are migrating off it, Speechify Studio and Murf.ai are the closest active replacements for a manuscript workflow.
+
+> **Editor's note (13 September 2026):** This comparison originally listed Play.ht as an active alternative. It was corrected after Play.ht's shutdown was confirmed.
 
 ---
 
