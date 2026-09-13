@@ -1,87 +1,5 @@
 [
   {
-    "keyword": "how to automate pinterest pin creation with spreadsheet and ai",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 270,
-    "est_difficulty": 15,
-    "format": "how-to",
-    "why_winnable": "Ultra-specific workflow query for bloggers driving organic visual traffic on autopilot.",
-    "search_promise": "Complete guide linking Google Sheets prompts to visual design templates for batch generating 50 pins at once.",
-    "slug": "how-to-automate-pinterest-pin-creation-with-spreadsheet-and-ai",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to automate social media posts with n8n and chatgpt",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 680,
-    "est_difficulty": 22,
-    "format": "how-to",
-    "why_winnable": "Searchers seek specific multi-platform pipelines; existing blogs only show partial Zapier examples without self-hosted cost benefits.",
-    "search_promise": "Step-by-step setup to turn a single blog post or script into scheduled Twitter threads and LinkedIn posts via n8n webhook.",
-    "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
-  },
-  {
-    "keyword": "how to connect chatgpt to wordpress with webhooks",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 380,
-    "est_difficulty": 24,
-    "format": "how-to",
-    "why_winnable": "Technical long-tail search for creators building custom automated publishing pipes without bloated plugins.",
-    "search_promise": "No-code setup guide detailing API payload formatting, webhook receivers, and draft post creation.",
-    "slug": "how-to-connect-chatgpt-to-wordpress-with-webhooks",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to generate consistent characters in midjourney v6",
-    "cluster": "image-ai",
-    "intent": "informational",
-    "est_volume": 1600,
-    "est_difficulty": 29,
-    "format": "how-to",
-    "why_winnable": "High search volume with low domain competition because prompt syntax frequently updates and older guides break.",
-    "search_promise": "The exact parameter syntax (--cref, --cw) with copy-paste prompt templates and visual side-by-side examples.",
-    "slug": "how-to-generate-consistent-characters-in-midjourney-v6"
-  },
-  {
-    "keyword": "how to upscale low resolution photos with ai free",
-    "cluster": "image-ai",
-    "intent": "informational",
-    "est_volume": 950,
-    "est_difficulty": 32,
-    "format": "how-to",
-    "why_winnable": "High volume searcher intent solved by concise web tools; low competition for direct step-by-step web tutorials.",
-    "search_promise": "3-step guide detailing free online upscalers that increase resolution to 4k without adding visual artifacts.",
-    "slug": "how-to-upscale-low-resolution-photos-with-ai-free",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "best ai video editor for course creators",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 410,
-    "est_difficulty": 25,
-    "format": "listicle",
-    "why_winnable": "Course creators need auto-silence removal, script trimming, and avatar inserts; high-LTV audience ignored by general roundups.",
-    "search_promise": "Top 5 editors evaluated on auto-captioning accuracy, B-roll generation, and avatar integration for educational modules.",
-    "slug": "best-ai-video-editor-for-course-creators",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "best free ai dubbing software for multi language youtube",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 510,
-    "est_difficulty": 25,
-    "format": "listicle",
-    "why_winnable": "YouTube multi-language audio track feature created urgent demand that legacy blog posts haven't addressed.",
-    "search_promise": "Tool ranking based on voice clone accuracy, lip-sync matching, and language support, spotlighting paid upgrade paths.",
-    "slug": "best-free-ai-dubbing-software-for-multi-language-youtube",
-    "paid_tool": ""
-  },
-  {
     "keyword": "best ai video generator for faceless youtube channel",
     "cluster": "video-ai",
     "intent": "commercial",
@@ -114,6 +32,18 @@
     "why_winnable": "High-intent mobile-first creators looking for unbranded output; easily captures traffic converting to paid tools like Synthesia.",
     "search_promise": "Verified table of free video generators listing export resolution, watermark rules, and commercial usage rights.",
     "slug": "best-free-text-to-video-ai-without-watermark-for-reels",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to automate pinterest pin creation with spreadsheet and ai",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 270,
+    "est_difficulty": 15,
+    "format": "how-to",
+    "why_winnable": "Ultra-specific workflow query for bloggers driving organic visual traffic on autopilot.",
+    "search_promise": "Complete guide linking Google Sheets prompts to visual design templates for batch generating 50 pins at once.",
+    "slug": "how-to-automate-pinterest-pin-creation-with-spreadsheet-and-ai",
     "paid_tool": ""
   },
   {
@@ -164,6 +94,29 @@
     "paid_tool": ""
   },
   {
+    "keyword": "how to automate social media posts with n8n and chatgpt",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 680,
+    "est_difficulty": 22,
+    "format": "how-to",
+    "why_winnable": "Searchers seek specific multi-platform pipelines; existing blogs only show partial Zapier examples without self-hosted cost benefits.",
+    "search_promise": "Step-by-step setup to turn a single blog post or script into scheduled Twitter threads and LinkedIn posts via n8n webhook.",
+    "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
+  },
+  {
+    "keyword": "how to connect chatgpt to wordpress with webhooks",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 380,
+    "est_difficulty": 24,
+    "format": "how-to",
+    "why_winnable": "Technical long-tail search for creators building custom automated publishing pipes without bloated plugins.",
+    "search_promise": "No-code setup guide detailing API payload formatting, webhook receivers, and draft post creation.",
+    "slug": "how-to-connect-chatgpt-to-wordpress-with-webhooks",
+    "paid_tool": ""
+  },
+  {
     "keyword": "how to make faceless youtube videos with ai free",
     "cluster": "video-ai",
     "intent": "informational",
@@ -173,6 +126,29 @@
     "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
     "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
     "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
+  },
+  {
+    "keyword": "how to generate consistent characters in midjourney v6",
+    "cluster": "image-ai",
+    "intent": "informational",
+    "est_volume": 1600,
+    "est_difficulty": 29,
+    "format": "how-to",
+    "why_winnable": "High search volume with low domain competition because prompt syntax frequently updates and older guides break.",
+    "search_promise": "The exact parameter syntax (--cref, --cw) with copy-paste prompt templates and visual side-by-side examples.",
+    "slug": "how-to-generate-consistent-characters-in-midjourney-v6"
+  },
+  {
+    "keyword": "how to upscale low resolution photos with ai free",
+    "cluster": "image-ai",
+    "intent": "informational",
+    "est_volume": 950,
+    "est_difficulty": 32,
+    "format": "how-to",
+    "why_winnable": "High volume searcher intent solved by concise web tools; low competition for direct step-by-step web tutorials.",
+    "search_promise": "3-step guide detailing free online upscalers that increase resolution to 4k without adding visual artifacts.",
+    "slug": "how-to-upscale-low-resolution-photos-with-ai-free",
+    "paid_tool": ""
   },
   {
     "keyword": "how to bypass ai content detectors for client work",
