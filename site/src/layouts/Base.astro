@@ -29,6 +29,7 @@ const ogImage = new URL(image ?? `${B}/covers/default.svg`, Astro.site).toString
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" />
   {site.analytics.gsc_verification && <meta name="google-site-verification" content={site.analytics.gsc_verification} />}
+  <meta name="impact-site-verification" content="b4fdb3b5-16ec-4ffe-8448-01268a161ae3" />
   {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
   {site.adsense.adsense_client && (
     <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.adsense.adsense_client}`} crossorigin="anonymous"></script>
