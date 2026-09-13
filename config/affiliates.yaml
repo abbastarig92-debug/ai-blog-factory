@@ -55,6 +55,11 @@ programs:
     url: ""
     commission: "$65+/sale"
     category: automation
+  - tool: "Speechify"
+    aliases: ["speechify", "speechify studio"]
+    url: "https://speechify.com/text-to-speech-online/?utm_campaign=partners&utm_content=rewardful&via=abbas"
+    commission: "30% USD per yearly subscription"
+    category: voice-ai
 
 # روابط بلا برنامج أفلييت تُترك nofollow عادية
 link_policy:
