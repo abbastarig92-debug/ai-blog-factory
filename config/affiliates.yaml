@@ -55,6 +55,11 @@ programs:
     url: ""
     commission: "$65+/sale"
     category: automation
+  - tool: "Koala AI"
+    aliases: ["koala", "koala ai", "koala writer", "koala.sh"]
+    url: "https://koala.sh/?via=abbas-tarig"
+    commission: "recurring"
+    category: writing-ai
   - tool: "Speechify"
     aliases: ["speechify", "speechify studio"]
     url: "https://speechify.com/text-to-speech-online/?utm_campaign=partners&utm_content=rewardful&via=abbas"
