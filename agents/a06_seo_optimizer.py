@@ -46,7 +46,19 @@ Return JSON:
         and audit["word_count"] >= SITE["publishing"]["min_words"] * 0.8
         and audit["keyword_in_first_100"]
     )
+    # أسباب الرسوب صراحةً — بدونها تبقى المقالة عالقة بلا تفسير
+    reasons = []
+    if audit["h2_count"] < 4:
+        reasons.append(f'عناوين H2 = {audit["h2_count"]} (المطلوب 4)')
+    if audit["word_count"] < SITE["publishing"]["min_words"] * 0.8:
+        reasons.append(f'الكلمات = {audit["word_count"]} (المطلوب {int(SITE["publishing"]["min_words"] * 0.8)})')
+    if not audit["keyword_in_first_100"]:
+        reasons.append(f'الكلمة المفتاحية "{kw}" غير موجودة حرفياً في أول 100 كلمة')
+    audit["fail_reasons"] = reasons
+
     meta["audit"] = audit
     L.info("سيو: %s كلمة، %s عناوين H2، اجتاز=%s",
            audit["word_count"], audit["h2_count"], audit["passes"])
+    if reasons:
+        L.warning("حُجزت كمسودة — السبب: %s", " · ".join(reasons))
     return meta
