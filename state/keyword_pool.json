@@ -1,111 +1,5 @@
 [
   {
-    "keyword": "best ai writer for real estate listing descriptions",
-    "cluster": "writing-ai",
-    "intent": "commercial",
-    "est_volume": 720,
-    "est_difficulty": 31,
-    "format": "listicle",
-    "why_winnable": "Highly commercial niche query underserved by generic AI writing overviews.",
-    "search_promise": "Comparison of dedicated real estate copywriting prompt tools, MLS compliance check, and tone settings.",
-    "slug": "best-ai-writer-for-real-estate-listing-descriptions",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "best n8n nodes for scraping website content automatically",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 210,
-    "est_difficulty": 15,
-    "format": "listicle",
-    "why_winnable": "Extremely low difficulty search term aimed directly at workflow developers building content scrapers.",
-    "search_promise": "Config guide for HTTP Request node, HTML Parser node, and AI summarization webhooks with code snippets.",
-    "slug": "best-n8n-nodes-for-scraping-website-content-automatically",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to auto post instagram reels with n8n workflow",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 360,
-    "est_difficulty": 19,
-    "format": "how-to",
-    "why_winnable": "Technical open-source automation tutorial targeting active builders; Zapier and blog sites don't cover n8n JSON nodes.",
-    "search_promise": "Downloadable n8n workflow JSON file, Meta Graph API setup instructions, and trigger interval logic.",
-    "slug": "how-to-auto-post-instagram-reels-with-n8n-workflow",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to set up automated email newsletter with chatgpt",
-    "cluster": "writing-ai",
-    "intent": "informational",
-    "est_volume": 380,
-    "est_difficulty": 20,
-    "format": "how-to",
-    "why_winnable": "Practical implementation query where clear system prompts and basic webhooks outperform general AI news sites.",
-    "search_promise": "Copy-paste ChatGPT master prompt, curation workflow outline, and RSS feed setup guide.",
-    "slug": "how-to-set-up-automated-email-newsletter-with-chatgpt",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to automate social media posts with n8n and chatgpt",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 680,
-    "est_difficulty": 22,
-    "format": "how-to",
-    "why_winnable": "Searchers seek specific multi-platform pipelines; existing blogs only show partial Zapier examples without self-hosted cost benefits.",
-    "search_promise": "Step-by-step setup to turn a single blog post or script into scheduled Twitter threads and LinkedIn posts via n8n webhook.",
-    "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
-  },
-  {
-    "keyword": "how to connect chatgpt to wordpress with webhooks",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 380,
-    "est_difficulty": 24,
-    "format": "how-to",
-    "why_winnable": "Technical long-tail search for creators building custom automated publishing pipes without bloated plugins.",
-    "search_promise": "No-code setup guide detailing API payload formatting, webhook receivers, and draft post creation.",
-    "slug": "how-to-connect-chatgpt-to-wordpress-with-webhooks",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to bypass ai content detectors for client work",
-    "cluster": "writing-ai",
-    "intent": "informational",
-    "est_volume": 1200,
-    "est_difficulty": 32,
-    "format": "how-to",
-    "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
-    "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
-    "slug": "how-to-bypass-ai-content-detectors-for-client-work"
-  },
-  {
-    "keyword": "speechify review for students with dyslexia",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 22,
-    "format": "review",
-    "why_winnable": "Specific accessibility angle with high purchase intent; ranking pages are general affiliate blogs rather than high-DA authority sites.",
-    "search_promise": "In-depth breakdown of text highlighting, reading speed controls, OCR book scanning, and educational pricing discounts.",
-    "slug": "speechify-review-for-students-with-dyslexia",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "elevenlabs vs play ht for audiobooks",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 320,
-    "est_difficulty": 24,
-    "format": "comparison",
-    "why_winnable": "Hyper-niche comparison query targeting long-form narrators; major sites focus on general voice cloning rather than audiobook pacing and file export capabilities.",
-    "search_promise": "Side-by-side audio snippet quality comparisons, pricing tier limits for long audiobooks, and direct workflow comparison.",
-    "slug": "elevenlabs-vs-play-ht-for-audiobooks",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "best synthesia alternatives for small business marketing",
     "cluster": "video-ai",
     "intent": "commercial",
@@ -189,6 +83,18 @@
     "paid_tool": ""
   },
   {
+    "keyword": "best ai writer for real estate listing descriptions",
+    "cluster": "writing-ai",
+    "intent": "commercial",
+    "est_volume": 720,
+    "est_difficulty": 31,
+    "format": "listicle",
+    "why_winnable": "Highly commercial niche query underserved by generic AI writing overviews.",
+    "search_promise": "Comparison of dedicated real estate copywriting prompt tools, MLS compliance check, and tone settings.",
+    "slug": "best-ai-writer-for-real-estate-listing-descriptions",
+    "paid_tool": ""
+  },
+  {
     "keyword": "best free text to video ai without watermark for reels",
     "cluster": "video-ai",
     "intent": "commercial",
@@ -198,6 +104,18 @@
     "why_winnable": "High-intent mobile-first creators looking for unbranded output; easily captures traffic converting to paid tools like Synthesia.",
     "search_promise": "Verified table of free video generators listing export resolution, watermark rules, and commercial usage rights.",
     "slug": "best-free-text-to-video-ai-without-watermark-for-reels",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "best n8n nodes for scraping website content automatically",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 210,
+    "est_difficulty": 15,
+    "format": "listicle",
+    "why_winnable": "Extremely low difficulty search term aimed directly at workflow developers building content scrapers.",
+    "search_promise": "Config guide for HTTP Request node, HTML Parser node, and AI summarization webhooks with code snippets.",
+    "slug": "best-n8n-nodes-for-scraping-website-content-automatically",
     "paid_tool": ""
   },
   {
@@ -248,6 +166,18 @@
     "paid_tool": ""
   },
   {
+    "keyword": "how to auto post instagram reels with n8n workflow",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 360,
+    "est_difficulty": 19,
+    "format": "how-to",
+    "why_winnable": "Technical open-source automation tutorial targeting active builders; Zapier and blog sites don't cover n8n JSON nodes.",
+    "search_promise": "Downloadable n8n workflow JSON file, Meta Graph API setup instructions, and trigger interval logic.",
+    "slug": "how-to-auto-post-instagram-reels-with-n8n-workflow",
+    "paid_tool": ""
+  },
+  {
     "keyword": "how to clean background noise from podcast audio with ai",
     "cluster": "voice-ai",
     "intent": "informational",
@@ -257,6 +187,41 @@
     "why_winnable": "Low-competition instructional query dominated by outdated forum threads and generic audio editing blogs.",
     "search_promise": "Step-by-step workflow comparing free and paid AI audio cleaners with before-and-after audio files.",
     "slug": "how-to-clean-background-noise-from-podcast-audio-with-ai",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to set up automated email newsletter with chatgpt",
+    "cluster": "writing-ai",
+    "intent": "informational",
+    "est_volume": 380,
+    "est_difficulty": 20,
+    "format": "how-to",
+    "why_winnable": "Practical implementation query where clear system prompts and basic webhooks outperform general AI news sites.",
+    "search_promise": "Copy-paste ChatGPT master prompt, curation workflow outline, and RSS feed setup guide.",
+    "slug": "how-to-set-up-automated-email-newsletter-with-chatgpt",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to automate social media posts with n8n and chatgpt",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 680,
+    "est_difficulty": 22,
+    "format": "how-to",
+    "why_winnable": "Searchers seek specific multi-platform pipelines; existing blogs only show partial Zapier examples without self-hosted cost benefits.",
+    "search_promise": "Step-by-step setup to turn a single blog post or script into scheduled Twitter threads and LinkedIn posts via n8n webhook.",
+    "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
+  },
+  {
+    "keyword": "how to connect chatgpt to wordpress with webhooks",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 380,
+    "est_difficulty": 24,
+    "format": "how-to",
+    "why_winnable": "Technical long-tail search for creators building custom automated publishing pipes without bloated plugins.",
+    "search_promise": "No-code setup guide detailing API payload formatting, webhook receivers, and draft post creation.",
+    "slug": "how-to-connect-chatgpt-to-wordpress-with-webhooks",
     "paid_tool": ""
   },
   {
@@ -292,6 +257,17 @@
     "why_winnable": "High search volume with low domain competition because prompt syntax frequently updates and older guides break.",
     "search_promise": "The exact parameter syntax (--cref, --cw) with copy-paste prompt templates and visual side-by-side examples.",
     "slug": "how-to-generate-consistent-characters-in-midjourney-v6"
+  },
+  {
+    "keyword": "how to bypass ai content detectors for client work",
+    "cluster": "writing-ai",
+    "intent": "informational",
+    "est_volume": 1200,
+    "est_difficulty": 32,
+    "format": "how-to",
+    "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
+    "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
+    "slug": "how-to-bypass-ai-content-detectors-for-client-work"
   },
   {
     "keyword": "how to upscale low resolution photos with ai free",
