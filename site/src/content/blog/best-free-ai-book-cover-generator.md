@@ -43,10 +43,10 @@ sources:
 - title: Best Free AI Book Cover Generators for KDP Authors in 2026 | BookCoversLab
     | KDP Cover Creator & Print-Ready Cover Tools
   url: https://bookcoverslab.com/blog/best-free-ai-book-cover-generators-2026
-draft: true
+draft: false
 ---
 
-To find a suitable **free ai image generator for book cover design**, you need a tool that handles non-square aspect ratios, reserves empty space for title typography, and allows legal commercial use. While Midjourney requires a paid subscription [7], platforms like Leonardo.ai and Adobe Firefly offer powerful free tiers [11,16]. Here is how the top five free tools perform under actual publishing conditions.
+To find the **best free AI image generator for book cover design**, you need a tool that handles non-square aspect ratios, reserves empty space for title typography, and allows legal commercial use. While Midjourney requires a paid subscription [7], platforms like Leonardo.ai and Adobe Firefly offer powerful free tiers [11,16]. Here is how the top five free tools perform under actual publishing conditions.
 
 ## Quick Comparison: The Best Free AI Book Cover Generators at a Glance
 
