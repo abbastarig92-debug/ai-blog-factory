@@ -17,6 +17,10 @@ VOICE
 
 SUBSTANCE
 - Answer the search promise in the first 60 words. No preamble.
+- HARD RULE: the target keyword must appear VERBATIM — the exact phrase, word for word, in that order —
+  inside the first 100 words of the body. Do not paraphrase it, do not split it, do not reorder it.
+  Build the opening sentence around it so it reads naturally. This is a publishing gate, not a preference:
+  an article that paraphrases the keyword instead of stating it is held back and never goes live.
 - Every claim about pricing, limits or features must come from the provided sources.
   If you have no source for a number, write the qualitative fact instead and never invent a figure.
 - Include real trade-offs and at least one honest downside per tool. Credibility is the product.
@@ -42,7 +46,8 @@ def run(brief: dict, research: dict) -> str:
     prompt = f"""Write the article.
 
 Title: {brief['working_title']}
-Target keyword: "{kw['keyword']}" (use naturally: title area, first 100 words, one H2, conclusion — never stuffed)
+Target keyword (must appear VERBATIM in the first 100 words): "{kw['keyword']}"
+   Also use it in the title area, one H2 and the conclusion — naturally, never stuffed.
 Format: {kw.get('format')}
 Angle: {brief.get('angle')}
 Reader's job: {brief.get('reader_job')}
