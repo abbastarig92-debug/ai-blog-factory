@@ -1,53 +1,5 @@
 [
   {
-    "keyword": "best synthesia alternatives for small business marketing",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 390,
-    "est_difficulty": 27,
-    "format": "alternatives",
-    "why_winnable": "Long-tail modifier filters out enterprise-level buyers and targets budget-conscious SMBs where small blogs can rank.",
-    "search_promise": "Curated top 5 avatar video tools ranked by affordability, ease of use, and commercial licensing rights for ads.",
-    "slug": "best-synthesia-alternatives-for-small-business-marketing",
-    "paid_tool": "Synthesia"
-  },
-  {
-    "keyword": "speechify vs naturalreader for reading pdfs",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 510,
-    "est_difficulty": 28,
-    "format": "comparison",
-    "why_winnable": "Focused tool comparison built around document format handling rather than general text-to-speech features.",
-    "search_promise": "Direct feature check on PDF layout retention, voice quality on technical documents, and cross-device sync capabilities.",
-    "slug": "speechify-vs-naturalreader-for-reading-pdfs",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "best text to speech software with emotional tone controls",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 340,
-    "est_difficulty": 23,
-    "format": "listicle",
-    "why_winnable": "Feature-specific query where users want precise vocal dynamics rather than basic robot voices.",
-    "search_promise": "Ranked list of TTS platforms featuring dynamic emotion sliders, whispering/excitement tags, and natural pausing features.",
-    "slug": "best-text-to-speech-software-with-emotional-tone-controls",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "luma dream machine vs pika labs for motion designers",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 420,
-    "est_difficulty": 25,
-    "format": "comparison",
-    "why_winnable": "Recent AI video tool head-to-head matching high developer interest with low content competition.",
-    "search_promise": "Frame-rate performance breakdown, camera control capabilities, physics rendering test, and commercial rights comparison.",
-    "slug": "luma-dream-machine-vs-pika-labs-for-motion-designers",
-    "paid_tool": ""
-  },
-  {
     "keyword": "best ai video generator for faceless youtube channel",
     "cluster": "video-ai",
     "intent": "commercial",
@@ -57,18 +9,6 @@
     "why_winnable": "Major software review sites target generic 'best ai video generator' head terms; targeting the specific sub-niche of faceless YouTube channels faces weaker, forum-heavy SERPs.",
     "search_promise": "A comparison table ranking the top 5 tools specifically by script-to-video workflow, automated voice sync, and monetization safety.",
     "slug": "best-ai-video-generator-for-faceless-youtube-channel"
-  },
-  {
-    "keyword": "best text to speech ai for documentary youtube channels",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 480,
-    "est_difficulty": 26,
-    "format": "listicle",
-    "why_winnable": "Niche context requires specific narrative pacing and dramatic cadence that generic TTS roundups do not cover.",
-    "search_promise": "Curated list ranked by vocal emotion and realism, highlighting ElevenLabs as top pick with embedded audio samples.",
-    "slug": "best-text-to-speech-ai-for-documentary-youtube-channels",
-    "paid_tool": ""
   },
   {
     "keyword": "best ai avatar generator for real estate agents",
@@ -131,17 +71,6 @@
     "paid_tool": ""
   },
   {
-    "keyword": "how to clone your voice for podcast intro ai",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 280,
-    "est_difficulty": 18,
-    "format": "how-to",
-    "why_winnable": "Hyper-focused application query answered mainly by low-quality vendor documentation rather than practical creator tutorials.",
-    "search_promise": "Audio recording checklist and quick 3-step setup guide to get natural-sounding podcast intros in under 10 minutes.",
-    "slug": "how-to-clone-your-voice-for-podcast-intro-ai"
-  },
-  {
     "keyword": "how to create video captions automatically with capcut desktop",
     "cluster": "video-ai",
     "intent": "informational",
@@ -175,18 +104,6 @@
     "why_winnable": "Technical open-source automation tutorial targeting active builders; Zapier and blog sites don't cover n8n JSON nodes.",
     "search_promise": "Downloadable n8n workflow JSON file, Meta Graph API setup instructions, and trigger interval logic.",
     "slug": "how-to-auto-post-instagram-reels-with-n8n-workflow",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to clean background noise from podcast audio with ai",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 720,
-    "est_difficulty": 19,
-    "format": "how-to",
-    "why_winnable": "Low-competition instructional query dominated by outdated forum threads and generic audio editing blogs.",
-    "search_promise": "Step-by-step workflow comparing free and paid AI audio cleaners with before-and-after audio files.",
-    "slug": "how-to-clean-background-noise-from-podcast-audio-with-ai",
     "paid_tool": ""
   },
   {
@@ -236,18 +153,6 @@
     "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
   },
   {
-    "keyword": "how to generate ai voiceovers for short clips free",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 590,
-    "est_difficulty": 29,
-    "format": "how-to",
-    "why_winnable": "Actionable workflow term for TikTok/Reels creators looking to avoid paid software subscriptions.",
-    "search_promise": "Quick 3-step walkthrough utilizing free voice tools and capcut export without subscription watermarks.",
-    "slug": "how-to-generate-ai-voiceovers-for-short-clips-free",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to generate consistent characters in midjourney v6",
     "cluster": "image-ai",
     "intent": "informational",
@@ -279,6 +184,77 @@
     "why_winnable": "High volume searcher intent solved by concise web tools; low competition for direct step-by-step web tutorials.",
     "search_promise": "3-step guide detailing free online upscalers that increase resolution to 4k without adding visual artifacts.",
     "slug": "how-to-upscale-low-resolution-photos-with-ai-free",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "speechify vs naturalreader for reading pdfs",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 510,
+    "est_difficulty": 28,
+    "format": "comparison",
+    "why_winnable": "Focused tool comparison built around document format handling rather than general text-to-speech features.",
+    "search_promise": "Direct feature check on PDF layout retention, voice quality on technical documents, and cross-device sync capabilities.",
+    "slug": "speechify-vs-naturalreader-for-reading-pdfs",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "best text to speech software with emotional tone controls",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 340,
+    "est_difficulty": 23,
+    "format": "listicle",
+    "why_winnable": "Feature-specific query where users want precise vocal dynamics rather than basic robot voices.",
+    "search_promise": "Ranked list of TTS platforms featuring dynamic emotion sliders, whispering/excitement tags, and natural pausing features.",
+    "slug": "best-text-to-speech-software-with-emotional-tone-controls",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "best text to speech ai for documentary youtube channels",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 480,
+    "est_difficulty": 26,
+    "format": "listicle",
+    "why_winnable": "Niche context requires specific narrative pacing and dramatic cadence that generic TTS roundups do not cover.",
+    "search_promise": "Curated list ranked by vocal emotion and realism, highlighting ElevenLabs as top pick with embedded audio samples.",
+    "slug": "best-text-to-speech-ai-for-documentary-youtube-channels",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to clone your voice for podcast intro ai",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 280,
+    "est_difficulty": 18,
+    "format": "how-to",
+    "why_winnable": "Hyper-focused application query answered mainly by low-quality vendor documentation rather than practical creator tutorials.",
+    "search_promise": "Audio recording checklist and quick 3-step setup guide to get natural-sounding podcast intros in under 10 minutes.",
+    "slug": "how-to-clone-your-voice-for-podcast-intro-ai"
+  },
+  {
+    "keyword": "how to clean background noise from podcast audio with ai",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 720,
+    "est_difficulty": 19,
+    "format": "how-to",
+    "why_winnable": "Low-competition instructional query dominated by outdated forum threads and generic audio editing blogs.",
+    "search_promise": "Step-by-step workflow comparing free and paid AI audio cleaners with before-and-after audio files.",
+    "slug": "how-to-clean-background-noise-from-podcast-audio-with-ai",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to generate ai voiceovers for short clips free",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 590,
+    "est_difficulty": 29,
+    "format": "how-to",
+    "why_winnable": "Actionable workflow term for TikTok/Reels creators looking to avoid paid software subscriptions.",
+    "search_promise": "Quick 3-step walkthrough utilizing free voice tools and capcut export without subscription watermarks.",
+    "slug": "how-to-generate-ai-voiceovers-for-short-clips-free",
     "paid_tool": ""
   }
 ]
