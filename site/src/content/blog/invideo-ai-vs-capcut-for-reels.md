@@ -45,7 +45,7 @@ sources:
   url: https://fluxnote.io/guides/capcut-ai-features-free-vs-paid-2026
 - title: 'InVideo AI Review 2026: Hidden Costs vs. Unlimited Alternatives Step'
   url: https://leadde.ai/blog/invideo-ai-review
-draft: true
+draft: false
 ---
 
 ## The Verdict Up Front: Which Tool Wins Your Workflow?
