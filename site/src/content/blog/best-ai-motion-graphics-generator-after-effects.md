@@ -45,12 +45,12 @@ sources:
   url: https://tapvid.ai/blog/motion-graphics-software-comparison
 - title: 'Motion Graphics for Teachers 2026: AI vs After Effects | X-Pilot'
   url: https://www.x-pilot.ai/blog/best-motion-graphics-tools-course-creation-2026
-draft: true
+draft: false
 ---
 
 ## The Top AI Motion Graphics Generators for After Effects at a Glance
 
-When looking for an AI motion graphics generator for After Effects, working motion designers run into a hard wall: most [AI video tools](/ai-blog-factory/blog/ai-video-tools-which-camp/) output flat rasterized files rather than native comps. If you need true vector control, tools like Overlord bridge parametric vector workflows directly into After Effects shape layers. If you are compositing complex background plates, generative tools like Adobe Firefly deliver raster assets with alpha channel integration. 
+When hunting for the **best AI motion graphics generator for After Effects**, working motion designers run into a hard wall: most [AI video tools](/ai-blog-factory/blog/ai-video-tools-which-camp/) output flat rasterized files rather than native comps. If you need true vector control, tools like Overlord bridge parametric vector workflows directly into After Effects shape layers. If you are compositing complex background plates, generative tools like Adobe Firefly deliver raster assets with alpha channel integration. 
 
 Solo YouTubers chasing quick explainers often rely on template-driven cloud tools, while agency motion designers demand tight timeline integration without breaking layer hierarchies.
 
