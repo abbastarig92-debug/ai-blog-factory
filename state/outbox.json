@@ -927,5 +927,50 @@
     "slug": "best-n8n-nodes-for-scraping-content",
     "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-n8n-nodes-for-scraping-content/",
     "status": "queued"
+  },
+  {
+    "x": "AI generates logo concepts in under 10 seconds, but PNG outputs fail in production. The fix: treat Ideogram AI as a rapid concept generator, then route raster files through a dedicated vector conversion pipeline. Full workflow: https://abbastarig92-debug.github.io/ai-blog-factory/blog/design-modern-logos-using-ideogram-ai/",
+    "linkedin": "Ideogram AI has set a new standard for text rendering in generative image models, but delivering raw AI exports as final client logos is a major mistake.\n\nThe key to a professional workflow is treating Ideogram strictly as a high-speed concept engine. Instead of handing off static raster pixels, run your generated outputs through a dedicated vector conversion pipeline—turning initial ideas into clean, scalable SVG assets ready for print and brand systems.\n\nHere is the full step-by-step pipeline for building modern logos with Ideogram: https://abbastarig92-debug.github.io/ai-blog-factory/blog/design-modern-logos-using-ideogram-ai/",
+    "reddit": {
+      "subreddit_suggestions": [
+        "r/graphicdesign",
+        "r/logodesign",
+        "r/aiArt"
+      ],
+      "title": "Why raw AI logo exports fail in production (and how to fix your Ideogram pipeline)",
+      "comment_first_body": "The biggest trap with AI logo tools like Ideogram is treating the output as a finished asset. While Ideogram handles letterforms and typography better than most models, it still outputs fixed-resolution raster images (PNG/JPG).\n\nTo make these assets production-ready, treat the AI as a rapid ideation engine. Once you generate a strong direction, pass the raster output through a vector conversion pipeline (or re-trace manually in Illustrator). This preserves scalable geometry, fixes symmetry artifacts, and yields clean SVGs for client handoff.\n\nFull breakdown of the prompting structure and vector conversion process: https://abbastarig92-debug.github.io/ai-blog-factory/blog/design-modern-logos-using-ideogram-ai/"
+    },
+    "newsletter": "Generative AI tools have made rapid branding iteration effortless, but most outputs fall short of production standards. Ideogram AI stands out for its uncanny ability to render clean text inside generated graphics, making it an ideal choice for modern logo ideation. However, treating its raster outputs as final deliverables is a trap. To build actual production-grade brand assets, you must treat Ideogram strictly as an ideation engine, routing its generated outputs through a dedicated vector conversion and refinement pipeline. In our latest guide, we break down the exact prompting techniques for clean geometric logos and explain how to convert raster AI generations into crisp, scalable vector files. Read the full guide: https://abbastarig92-debug.github.io/ai-blog-factory/blog/design-modern-logos-using-ideogram-ai/",
+    "pinterest": "Learn how to use Ideogram AI for rapid logo ideation and convert raster outputs into clean vector assets. Full design guide: https://abbastarig92-debug.github.io/ai-blog-factory/blog/design-modern-logos-using-ideogram-ai/",
+    "quora_targets": [
+      "How do I design a professional logo using AI tools?",
+      "Can Ideogram AI generate clean vector logos for clients?",
+      "What is the best workflow to convert an AI-generated logo into an SVG?"
+    ],
+    "slug": "design-modern-logos-using-ideogram-ai",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/design-modern-logos-using-ideogram-ai/",
+    "status": "queued"
+  },
+  {
+    "x": "Setting `--cw 0` or low values in Midjourney v6 preserves facial features while letting you change clothing and settings entirely. Here is a practical breakdown on using `--cref` and character weight effectively: https://abbastarig92-debug.github.io/ai-blog-factory/blog/generate-consistent-characters-midjourney-v6/",
+    "linkedin": "Most creators struggle with character consistency in Midjourney because they stick with the default character weight (`--cw 100`). This forces the model to copy the reference image's original clothes and background alongside the face.\n\nBy dropping `--cw` to lower values (like `--cw 20` or `0`), Midjourney focuses exclusively on facial geometry. This allows you to place the exact same character into new environments, eras, or wardrobes without face distortion.\n\nIf you are building graphic novels, storyboards, or brand assets, tuning `--cw` is essential. Read the full step-by-step guide: https://abbastarig92-debug.github.io/ai-blog-factory/blog/generate-consistent-characters-midjourney-v6/",
+    "reddit": {
+      "subreddit_suggestions": [
+        "r/midjourney",
+        "r/AiArt"
+      ],
+      "title": "Quick tip for v6 --cref: Drop --cw below 20 if you want to change clothing or backgrounds without breaking facial likeness",
+      "comment_first_body": "When using the `--cref` (character reference) tag in Midjourney v6, the default weight is set to `--cw 100`. This tells the model to replicate the character's face, hair, AND outfit.\n\nIf you are trying to place your character in a new scene or change their wardrobe, `--cw 100` usually bleeds the old clothes and background into the new generation.\n\nLowering the weight (e.g., `--cw 20` or `--cw 0`) forces Midjourney to focus strictly on facial features while leaving the rest open to prompt changes.\n\nFull parameter breakdown and test examples: https://abbastarig92-debug.github.io/ai-blog-factory/blog/generate-consistent-characters-midjourney-v6/"
+    },
+    "newsletter": "Achieving character consistency in AI image generation used to require complex LoRA training or ControlNet setups. With Midjourney v6, the character reference tag (`--cref`) simplified the workflow, but many prompts still yield stubborn, inconsistent results.\n\nThe secret lies in the character weight parameter (`--cw`). By default, Midjourney sets `--cw` to 100, which copies the original image’s entire composition—including clothing, hair, and background. To swap outfits or shift environments without morphing your character’s face, lower the weight to `--cw 20` or even `--cw 0`. This isolates facial features and gives you complete artistic control over the surrounding scene.\n\nRead our full technical breakdown to master `--cw` and `--cref` for your next project: https://abbastarig92-debug.github.io/ai-blog-factory/blog/generate-consistent-characters-midjourney-v6/",
+    "pinterest": "Master character consistency in Midjourney v6. Learn how lowering --cw preserves facial features while changing outfits and backgrounds. #Midjourney #AIArt",
+    "quora_targets": [
+      "How do you keep characters consistent in Midjourney v6?",
+      "What does --cw do in Midjourney?",
+      "How can I change a character's clothes in Midjourney without changing their face?"
+    ],
+    "slug": "generate-consistent-characters-midjourney-v6",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/generate-consistent-characters-midjourney-v6/",
+    "status": "queued"
   }
 ]

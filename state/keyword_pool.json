@@ -1,14 +1,14 @@
 [
   {
-    "keyword": "how to design modern logos using ideogram ai",
+    "keyword": "how to upscale low resolution photos with ai free",
     "cluster": "image-ai",
     "intent": "informational",
-    "est_volume": 290,
-    "est_difficulty": 17,
+    "est_volume": 950,
+    "est_difficulty": 32,
     "format": "how-to",
-    "why_winnable": "Ideogram's superior text rendering makes this a highly searched practical tutorial with fresh demand.",
-    "search_promise": "Tested text logo prompts, vector trace conversion steps, and typography style keyphrase cheatsheet.",
-    "slug": "how-to-design-modern-logos-using-ideogram-ai",
+    "why_winnable": "High volume searcher intent solved by concise web tools; low competition for direct step-by-step web tutorials.",
+    "search_promise": "3-step guide detailing free online upscalers that increase resolution to 4k without adding visual artifacts.",
+    "slug": "how-to-upscale-low-resolution-photos-with-ai-free",
     "paid_tool": ""
   },
   {
@@ -59,17 +59,6 @@
     "paid_tool": ""
   },
   {
-    "keyword": "how to generate consistent characters in midjourney v6",
-    "cluster": "image-ai",
-    "intent": "informational",
-    "est_volume": 1600,
-    "est_difficulty": 29,
-    "format": "how-to",
-    "why_winnable": "High search volume with low domain competition because prompt syntax frequently updates and older guides break.",
-    "search_promise": "The exact parameter syntax (--cref, --cw) with copy-paste prompt templates and visual side-by-side examples.",
-    "slug": "how-to-generate-consistent-characters-in-midjourney-v6"
-  },
-  {
     "keyword": "how to bypass ai content detectors for client work",
     "cluster": "writing-ai",
     "intent": "informational",
@@ -79,18 +68,6 @@
     "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
     "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
     "slug": "how-to-bypass-ai-content-detectors-for-client-work"
-  },
-  {
-    "keyword": "how to upscale low resolution photos with ai free",
-    "cluster": "image-ai",
-    "intent": "informational",
-    "est_volume": 950,
-    "est_difficulty": 32,
-    "format": "how-to",
-    "why_winnable": "High volume searcher intent solved by concise web tools; low competition for direct step-by-step web tutorials.",
-    "search_promise": "3-step guide detailing free online upscalers that increase resolution to 4k without adding visual artifacts.",
-    "slug": "how-to-upscale-low-resolution-photos-with-ai-free",
-    "paid_tool": ""
   },
   {
     "keyword": "speechify vs naturalreader for reading pdfs",
