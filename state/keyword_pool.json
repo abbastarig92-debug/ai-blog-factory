@@ -1,63 +1,5 @@
 [
   {
-    "keyword": "how to automate social media posts with n8n and chatgpt",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 680,
-    "est_difficulty": 22,
-    "format": "how-to",
-    "why_winnable": "Searchers seek specific multi-platform pipelines; existing blogs only show partial Zapier examples without self-hosted cost benefits.",
-    "search_promise": "Step-by-step setup to turn a single blog post or script into scheduled Twitter threads and LinkedIn posts via n8n webhook.",
-    "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
-  },
-  {
-    "keyword": "how to connect chatgpt to wordpress with webhooks",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 380,
-    "est_difficulty": 24,
-    "format": "how-to",
-    "why_winnable": "Technical long-tail search for creators building custom automated publishing pipes without bloated plugins.",
-    "search_promise": "No-code setup guide detailing API payload formatting, webhook receivers, and draft post creation.",
-    "slug": "how-to-connect-chatgpt-to-wordpress-with-webhooks",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to bypass ai content detectors for client work",
-    "cluster": "writing-ai",
-    "intent": "informational",
-    "est_volume": 1200,
-    "est_difficulty": 32,
-    "format": "how-to",
-    "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
-    "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
-    "slug": "how-to-bypass-ai-content-detectors-for-client-work"
-  },
-  {
-    "keyword": "speechify vs naturalreader for reading pdfs",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 510,
-    "est_difficulty": 28,
-    "format": "comparison",
-    "why_winnable": "Focused tool comparison built around document format handling rather than general text-to-speech features.",
-    "search_promise": "Direct feature check on PDF layout retention, voice quality on technical documents, and cross-device sync capabilities.",
-    "slug": "speechify-vs-naturalreader-for-reading-pdfs",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "best text to speech software with emotional tone controls",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 340,
-    "est_difficulty": 23,
-    "format": "listicle",
-    "why_winnable": "Feature-specific query where users want precise vocal dynamics rather than basic robot voices.",
-    "search_promise": "Ranked list of TTS platforms featuring dynamic emotion sliders, whispering/excitement tags, and natural pausing features.",
-    "slug": "best-text-to-speech-software-with-emotional-tone-controls",
-    "paid_tool": ""
-  },
-  {
     "keyword": "best ai video generator for faceless youtube channel",
     "cluster": "video-ai",
     "intent": "commercial",
@@ -152,6 +94,29 @@
     "paid_tool": ""
   },
   {
+    "keyword": "how to automate social media posts with n8n and chatgpt",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 680,
+    "est_difficulty": 22,
+    "format": "how-to",
+    "why_winnable": "Searchers seek specific multi-platform pipelines; existing blogs only show partial Zapier examples without self-hosted cost benefits.",
+    "search_promise": "Step-by-step setup to turn a single blog post or script into scheduled Twitter threads and LinkedIn posts via n8n webhook.",
+    "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
+  },
+  {
+    "keyword": "how to connect chatgpt to wordpress with webhooks",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 380,
+    "est_difficulty": 24,
+    "format": "how-to",
+    "why_winnable": "Technical long-tail search for creators building custom automated publishing pipes without bloated plugins.",
+    "search_promise": "No-code setup guide detailing API payload formatting, webhook receivers, and draft post creation.",
+    "slug": "how-to-connect-chatgpt-to-wordpress-with-webhooks",
+    "paid_tool": ""
+  },
+  {
     "keyword": "how to make faceless youtube videos with ai free",
     "cluster": "video-ai",
     "intent": "informational",
@@ -173,6 +138,17 @@
     "search_promise": "Quick 3-step walkthrough utilizing free voice tools and capcut export without subscription watermarks.",
     "slug": "how-to-generate-ai-voiceovers-for-short-clips-free",
     "paid_tool": ""
+  },
+  {
+    "keyword": "how to bypass ai content detectors for client work",
+    "cluster": "writing-ai",
+    "intent": "informational",
+    "est_volume": 1200,
+    "est_difficulty": 32,
+    "format": "how-to",
+    "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
+    "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
+    "slug": "how-to-bypass-ai-content-detectors-for-client-work"
   },
   {
     "keyword": "how to upscale low resolution photos with ai free",
