@@ -334,5 +334,21 @@
     "keyword": "how to generate consistent characters in midjourney v6",
     "cluster": "image-ai",
     "draft": true
+  },
+  {
+    "slug": "auto-post-instagram-reels-n8n-workflow",
+    "title": "Auto Post Instagram Reels with n8n Workflow (Free JSON)",
+    "date": "2026-09-18T09:39:14+00:00",
+    "keyword": "how to auto post instagram reels with n8n workflow",
+    "cluster": "automation",
+    "draft": false
+  },
+  {
+    "slug": "set-up-automated-email-newsletter-chatgpt",
+    "title": "How to Set Up Automated Email Newsletter With ChatGPT",
+    "date": "2026-09-18T09:47:21+00:00",
+    "keyword": "how to set up automated email newsletter with chatgpt",
+    "cluster": "writing-ai",
+    "draft": false
   }
 ]

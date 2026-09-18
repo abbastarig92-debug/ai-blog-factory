@@ -1,41 +1,5 @@
 [
   {
-    "keyword": "how to upscale low resolution photos with ai free",
-    "cluster": "image-ai",
-    "intent": "informational",
-    "est_volume": 950,
-    "est_difficulty": 32,
-    "format": "how-to",
-    "why_winnable": "High volume searcher intent solved by concise web tools; low competition for direct step-by-step web tutorials.",
-    "search_promise": "3-step guide detailing free online upscalers that increase resolution to 4k without adding visual artifacts.",
-    "slug": "how-to-upscale-low-resolution-photos-with-ai-free",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to auto post instagram reels with n8n workflow",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 360,
-    "est_difficulty": 19,
-    "format": "how-to",
-    "why_winnable": "Technical open-source automation tutorial targeting active builders; Zapier and blog sites don't cover n8n JSON nodes.",
-    "search_promise": "Downloadable n8n workflow JSON file, Meta Graph API setup instructions, and trigger interval logic.",
-    "slug": "how-to-auto-post-instagram-reels-with-n8n-workflow",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to set up automated email newsletter with chatgpt",
-    "cluster": "writing-ai",
-    "intent": "informational",
-    "est_volume": 380,
-    "est_difficulty": 20,
-    "format": "how-to",
-    "why_winnable": "Practical implementation query where clear system prompts and basic webhooks outperform general AI news sites.",
-    "search_promise": "Copy-paste ChatGPT master prompt, curation workflow outline, and RSS feed setup guide.",
-    "slug": "how-to-set-up-automated-email-newsletter-with-chatgpt",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to automate social media posts with n8n and chatgpt",
     "cluster": "automation",
     "intent": "informational",
@@ -208,6 +172,18 @@
     "why_winnable": "Actionable workflow term for TikTok/Reels creators looking to avoid paid software subscriptions.",
     "search_promise": "Quick 3-step walkthrough utilizing free voice tools and capcut export without subscription watermarks.",
     "slug": "how-to-generate-ai-voiceovers-for-short-clips-free",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to upscale low resolution photos with ai free",
+    "cluster": "image-ai",
+    "intent": "informational",
+    "est_volume": 950,
+    "est_difficulty": 32,
+    "format": "how-to",
+    "why_winnable": "High volume searcher intent solved by concise web tools; low competition for direct step-by-step web tutorials.",
+    "search_promise": "3-step guide detailing free online upscalers that increase resolution to 4k without adding visual artifacts.",
+    "slug": "how-to-upscale-low-resolution-photos-with-ai-free",
     "paid_tool": ""
   }
 ]

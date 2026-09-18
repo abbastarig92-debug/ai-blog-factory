@@ -972,5 +972,52 @@
     "slug": "generate-consistent-characters-midjourney-v6",
     "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/generate-consistent-characters-midjourney-v6/",
     "status": "queued"
+  },
+  {
+    "x": "Stop paying $30/mo for social schedulers. Build a self-hosted Instagram Reels automation engine using n8n and native Meta API polling for $0. Full workflow and JSON here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/auto-post-instagram-reels-n8n-workflow/ #n8n #automation",
+    "linkedin": "Most social media tools lock Instagram Reels scheduling behind expensive monthly tiers. If you're already running n8n, you can bypass these costs by building your own engine.\n\nBy using native Meta API polling logic, you can handle video uploads and publishing directly. This self-hosted approach gives you full control over your content pipeline without third-party SaaS limits.\n\nI've shared the full technical breakdown and the free JSON workflow here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/auto-post-instagram-reels-n8n-workflow/",
+    "reddit": {
+      "subreddit_suggestions": [
+        "n8n",
+        "selfhosted",
+        "automation"
+      ],
+      "title": "How to automate Instagram Reels for free using n8n (No Buffer/Hootsuite needed)",
+      "comment_first_body": "Most people don't realize the Meta API allows for direct Reel publishing if you handle the polling logic correctly. Instead of paying for a scheduler, I built a workflow in n8n that checks upload status and triggers the publish once ready. It's self-hosted and costs nothing but your server time. Link to the logic and JSON: https://abbastarig92-debug.github.io/ai-blog-factory/blog/auto-post-instagram-reels-n8n-workflow/"
+    },
+    "newsletter": "Tired of monthly subscriptions for social media scheduling? You can now automate your Instagram Reels for free using n8n. This guide breaks down how to build a self-hosted automation engine that communicates directly with the Meta API. Unlike standard integrations that often fail or require paid tiers, this method uses native polling logic to ensure your videos are fully processed before they go live. It’s a robust, 'set it and forget it' solution for creators and developers who prefer owning their tech stack. The post includes a free JSON workflow you can import directly into your n8n instance to start posting today: https://abbastarig92-debug.github.io/ai-blog-factory/blog/auto-post-instagram-reels-n8n-workflow/",
+    "pinterest": "Automate Instagram Reels for free. Build a self-hosted engine using n8n and Meta API polling to eliminate subscription costs. Includes free JSON workflow. #n8n #automation",
+    "quora_targets": [
+      "How can I automate Instagram posts for free?",
+      "What is the best alternative to Buffer or Hootsuite?",
+      "How to use n8n for social media automation?"
+    ],
+    "slug": "auto-post-instagram-reels-n8n-workflow",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/auto-post-instagram-reels-n8n-workflow/",
+    "status": "queued"
+  },
+  {
+    "x": "Generative AI newsletters fail when writing from scratch. The fix? Use ChatGPT as a dynamic curation editor for raw RSS feeds to filter signal from noise before drafting. Here is the full automation setup: https://abbastarig92-debug.github.io/ai-blog-factory/blog/set-up-automated-email-newsletter-chatgpt/ #EmailMarketing",
+    "linkedin": "Most teams attempting to automate newsletters with ChatGPT make the same mistake: asking the model to write content from thin air. The result is generic, uninspired fluff that tanks reader engagement.\n\nThe secret to high-value AI automation is treating LLMs as dynamic curation editors. Pipe raw RSS inputs, industry feeds, or internal notes into the pipeline, and let ChatGPT rank, categorize, and synthesize the signal from the noise.\n\nHere is the step-by-step workflow for setting up an automated newsletter pipeline that preserves editorial quality: https://abbastarig92-debug.github.io/ai-blog-factory/blog/set-up-automated-email-newsletter-chatgpt/",
+    "reddit": {
+      "subreddit_suggestions": [
+        "r/EmailMarketing",
+        "r/Automate",
+        "r/ChatGPTCoding"
+      ],
+      "title": "How to build an automated newsletter with ChatGPT without generating AI slop",
+      "comment_first_body": "If you ask an LLM to 'write a weekly newsletter about industry news,' it outputs generic, hallucinated text. The missing piece is separating curation from generation.\n\nInstead of writing from scratch, configure your pipeline to feed raw text (RSS feeds, Twitter lists, web scrapers) into ChatGPT. Have the prompt act strictly as an editor: rank stories by relevance, extract 2-bullet summaries, and format the output into clean HTML for your ESP.\n\nFull architecture guide and prompt breakdown here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/set-up-automated-email-newsletter-chatgpt/"
+    },
+    "newsletter": "If you've tried automating your email newsletter with ChatGPT, you've likely ended up with generic, uninspired drafts that read like a textbook. The issue isn't the AI—it's the architecture. Prompting an LLM to create content out of thin air guarantees low engagement. The real unlock comes from changing the model's role from writer to dynamic curation editor. By piping raw content feeds (like RSS or custom scrapers) directly into ChatGPT, you can instruct it to analyze, score, and summarize incoming news against strict criteria before formatting. Check out our step-by-step technical breakdown to build an automated newsletter engine that delivers high-signal content on autopilot.",
+    "pinterest": "Stop using ChatGPT to write generic newsletters from scratch. Learn how to set up an automated curation system using raw RSS feeds and AI. https://abbastarig92-debug.github.io/ai-blog-factory/blog/set-up-automated-email-newsletter-chatgpt/",
+    "quora_targets": [
+      "How can I automate my email newsletter using AI?",
+      "Can I use ChatGPT to curate and send weekly newsletters?",
+      "What is the best way to integrate RSS feeds with ChatGPT for content curation?",
+      "How do you automate newsletter creation without losing content quality?"
+    ],
+    "slug": "set-up-automated-email-newsletter-chatgpt",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/set-up-automated-email-newsletter-chatgpt/",
+    "status": "queued"
   }
 ]
