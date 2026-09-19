@@ -1,5 +1,40 @@
 [
   {
+    "keyword": "how to bypass ai content detectors for client work",
+    "cluster": "writing-ai",
+    "intent": "informational",
+    "est_volume": 1200,
+    "est_difficulty": 32,
+    "format": "how-to",
+    "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
+    "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
+    "slug": "how-to-bypass-ai-content-detectors-for-client-work"
+  },
+  {
+    "keyword": "how to upscale low resolution photos with ai free",
+    "cluster": "image-ai",
+    "intent": "informational",
+    "est_volume": 950,
+    "est_difficulty": 32,
+    "format": "how-to",
+    "why_winnable": "High volume searcher intent solved by concise web tools; low competition for direct step-by-step web tutorials.",
+    "search_promise": "3-step guide detailing free online upscalers that increase resolution to 4k without adding visual artifacts.",
+    "slug": "how-to-upscale-low-resolution-photos-with-ai-free",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "best text to speech ai for documentary youtube channels",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 480,
+    "est_difficulty": 26,
+    "format": "listicle",
+    "why_winnable": "Niche context requires specific narrative pacing and dramatic cadence that generic TTS roundups do not cover.",
+    "search_promise": "Curated list ranked by vocal emotion and realism, highlighting ElevenLabs as top pick with embedded audio samples.",
+    "slug": "best-text-to-speech-ai-for-documentary-youtube-channels",
+    "paid_tool": ""
+  },
+  {
     "keyword": "best free text to video ai without watermark for reels",
     "cluster": "video-ai",
     "intent": "commercial",
@@ -36,75 +71,6 @@
     "paid_tool": ""
   },
   {
-    "keyword": "how to automate social media posts with n8n and chatgpt",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 680,
-    "est_difficulty": 22,
-    "format": "how-to",
-    "why_winnable": "Searchers seek specific multi-platform pipelines; existing blogs only show partial Zapier examples without self-hosted cost benefits.",
-    "search_promise": "Step-by-step setup to turn a single blog post or script into scheduled Twitter threads and LinkedIn posts via n8n webhook.",
-    "slug": "how-to-automate-social-media-posts-with-n8n-and-chatgpt"
-  },
-  {
-    "keyword": "how to connect chatgpt to wordpress with webhooks",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 380,
-    "est_difficulty": 24,
-    "format": "how-to",
-    "why_winnable": "Technical long-tail search for creators building custom automated publishing pipes without bloated plugins.",
-    "search_promise": "No-code setup guide detailing API payload formatting, webhook receivers, and draft post creation.",
-    "slug": "how-to-connect-chatgpt-to-wordpress-with-webhooks",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to make faceless youtube videos with ai free",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 1400,
-    "est_difficulty": 28,
-    "format": "how-to",
-    "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
-    "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
-    "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
-  },
-  {
-    "keyword": "how to bypass ai content detectors for client work",
-    "cluster": "writing-ai",
-    "intent": "informational",
-    "est_volume": 1200,
-    "est_difficulty": 32,
-    "format": "how-to",
-    "why_winnable": "Competitors focus on basic spinsters; an editorial-level guide covering burstiness, perplexity, and manual editing wins authority fast.",
-    "search_promise": "A repeatable manual editing framework and prompt adjustments to make AI-assisted copy pass Turnitin and Originality.ai.",
-    "slug": "how-to-bypass-ai-content-detectors-for-client-work"
-  },
-  {
-    "keyword": "how to upscale low resolution photos with ai free",
-    "cluster": "image-ai",
-    "intent": "informational",
-    "est_volume": 950,
-    "est_difficulty": 32,
-    "format": "how-to",
-    "why_winnable": "High volume searcher intent solved by concise web tools; low competition for direct step-by-step web tutorials.",
-    "search_promise": "3-step guide detailing free online upscalers that increase resolution to 4k without adding visual artifacts.",
-    "slug": "how-to-upscale-low-resolution-photos-with-ai-free",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "best text to speech ai for documentary youtube channels",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 480,
-    "est_difficulty": 26,
-    "format": "listicle",
-    "why_winnable": "Niche context requires specific narrative pacing and dramatic cadence that generic TTS roundups do not cover.",
-    "search_promise": "Curated list ranked by vocal emotion and realism, highlighting ElevenLabs as top pick with embedded audio samples.",
-    "slug": "best-text-to-speech-ai-for-documentary-youtube-channels",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to clone your voice for podcast intro ai",
     "cluster": "voice-ai",
     "intent": "informational",
@@ -126,6 +92,17 @@
     "search_promise": "Step-by-step workflow comparing free and paid AI audio cleaners with before-and-after audio files.",
     "slug": "how-to-clean-background-noise-from-podcast-audio-with-ai",
     "paid_tool": ""
+  },
+  {
+    "keyword": "how to make faceless youtube videos with ai free",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 1400,
+    "est_difficulty": 28,
+    "format": "how-to",
+    "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
+    "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
+    "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
   },
   {
     "keyword": "how to generate ai voiceovers for short clips free",

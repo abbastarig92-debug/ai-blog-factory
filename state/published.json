@@ -382,5 +382,21 @@
     "keyword": "best ai avatar generator for real estate agents",
     "cluster": "video-ai",
     "draft": false
+  },
+  {
+    "slug": "automate-social-media-posts-n8n-chatgpt",
+    "title": "Automate Social Media Posts with n8n and ChatGPT",
+    "date": "2026-09-19T16:55:22+00:00",
+    "keyword": "how to automate social media posts with n8n and chatgpt",
+    "cluster": "automation",
+    "draft": false
+  },
+  {
+    "slug": "connect-chatgpt-to-wordpress-webhooks",
+    "title": "How to Connect ChatGPT to WordPress with Webhooks",
+    "date": "2026-09-19T16:58:21+00:00",
+    "keyword": "how to connect chatgpt to wordpress with webhooks",
+    "cluster": "automation",
+    "draft": false
   }
 ]

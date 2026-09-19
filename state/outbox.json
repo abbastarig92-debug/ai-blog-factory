@@ -1112,5 +1112,51 @@
     "slug": "best-ai-avatar-generator-real-estate",
     "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-ai-avatar-generator-real-estate/",
     "status": "queued"
+  },
+  {
+    "x": "Stop paying $50/mo for social schedulers. Building a custom n8n + ChatGPT pipeline gives you 100% control over AI formatting and distribution without the middleman markup. Here is the full blueprint: https://abbastarig92-debug.github.io/ai-blog-factory/blog/automate-social-media-posts-n8n-chatgpt/ #n8n #automation",
+    "linkedin": "Most social media automation tools lock you into their rigid templates and monthly subscriptions. By moving the logic into n8n, you reclaim control over how ChatGPT formats your content for every specific platform.\n\nThis workflow connects your CMS directly to OpenAI and your social APIs. It’s not just about scheduling; it’s about building a custom content engine that understands your brand voice without the typical 'AI-generated' look.\n\nFull technical breakdown and workflow setup here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/automate-social-media-posts-n8n-chatgpt/",
+    "reddit": {
+      "subreddit_suggestions": [
+        "n8n",
+        "automation",
+        "selfhosted"
+      ],
+      "title": "How to replace paid social schedulers with a custom n8n + ChatGPT pipeline",
+      "comment_first_body": "I got tired of paying for Buffer/Hootsuite just to have my AI posts look generic. I built an n8n workflow that pulls from my blog, runs it through a specific prompt chain in ChatGPT, and pushes to APIs directly. It handles the formatting nuances that standard tools miss. Link to the guide: https://abbastarig92-debug.github.io/ai-blog-factory/blog/automate-social-media-posts-n8n-chatgpt/"
+    },
+    "newsletter": "Tired of the 'black box' of social media scheduling tools? While platforms like Buffer are convenient, they often strip away the granular control needed for high-quality AI content. This week, we’re diving into how to build a self-hosted automation pipeline using n8n and ChatGPT. This setup allows you to transform a single blog post into platform-specific snippets, maintain a consistent brand voice via custom prompts, and bypass monthly subscription fees. By leveraging direct API connections, you can ensure your content looks native to every platform while keeping your overhead at zero. Check out the full technical guide to start building your own content factory today.",
+    "pinterest": "Learn how to build a custom social media automation engine using n8n and ChatGPT. Stop paying for schedulers and get full control over your AI content. #automation #n8n",
+    "quora_targets": [
+      "How can I automate my social media posts for free?",
+      "What are the best n8n use cases for marketing?",
+      "How to use ChatGPT for social media management?"
+    ],
+    "slug": "automate-social-media-posts-n8n-chatgpt",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/automate-social-media-posts-n8n-chatgpt/",
+    "status": "queued"
+  },
+  {
+    "x": "You don't need custom PHP or heavy plugins to push AI content to WordPress. Webhooks let you stream structured ChatGPT drafts directly into your WP dashboard in under 10 minutes. Setup guide: https://abbastarig92-debug.github.io/ai-blog-factory/blog/connect-chatgpt-to-wordpress-webhooks/",
+    "linkedin": "Most AI content workflows still rely on manual copy-pasting or bloated third-party plugins. That approach slows down content operations and creates unnecessary technical debt on your WordPress site.\n\nUsing native webhooks provides a much cleaner architecture. By pairing ChatGPT outputs with an automation endpoint, you can push structured JSON payloads straight into your WordPress draft queue—populating titles, body formatting, and categories automatically.\n\nIf you want to streamline your AI pipeline without writing custom PHP, here is the full technical breakdown: https://abbastarig92-debug.github.io/ai-blog-factory/blog/connect-chatgpt-to-wordpress-webhooks/",
+    "reddit": {
+      "subreddit_suggestions": [
+        "r/WordPress",
+        "r/Automate",
+        "r/Blogging"
+      ],
+      "title": "How to push structured ChatGPT drafts directly to WordPress using Webhooks (no custom PHP)",
+      "comment_first_body": "Copying AI drafts manually into Gutenberg gets tedious fast, and many auto-posting plugins mess up basic formatting or bloat your database.\n\nA cleaner alternative is using webhooks paired with the WordPress REST API. By prompting ChatGPT to return a structured JSON response, you can automatically map outputs directly into specific CMS fields (title, slug, post status, and body HTML) via tools like Make or Zapier—without writing custom PHP code.\n\nI put together a complete technical breakdown covering payload structure and endpoint security here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/connect-chatgpt-to-wordpress-webhooks/"
+    },
+    "newsletter": "If your publishing workflow involves generating text in ChatGPT and manually pasting it into WordPress, you are losing hours to low-value formatting tasks. While dedicated auto-posting plugins exist, they frequently introduce site bloat and database clutter.\n\nA far cleaner architecture uses webhooks to bridge OpenAI outputs directly to your CMS. By structuring ChatGPT responses into JSON, you can stream draft posts—complete with categories, meta descriptions, and clean HTML—straight into your WordPress dashboard without touching custom PHP.\n\nWe put together a step-by-step implementation guide detailing how to configure the webhook payload and connect the endpoints securely. Read the complete setup tutorial here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/connect-chatgpt-to-wordpress-webhooks/",
+    "pinterest": "Connect ChatGPT to WordPress via webhooks. Automatically push structured AI drafts to your CMS dashboard without writing custom PHP code: https://abbastarig92-debug.github.io/ai-blog-factory/blog/connect-chatgpt-to-wordpress-webhooks/",
+    "quora_targets": [
+      "How can I automatically publish ChatGPT generated content to WordPress?",
+      "What is the best way to send webhooks to the WordPress REST API?",
+      "How do I automate blog posts in WordPress without using heavy plugins?"
+    ],
+    "slug": "connect-chatgpt-to-wordpress-webhooks",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/connect-chatgpt-to-wordpress-webhooks/",
+    "status": "queued"
   }
 ]
