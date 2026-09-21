@@ -222,6 +222,9 @@ class LLM:
             "generationConfig": {"temperature": temperature,
                                  "maxOutputTokens": budget},
         }
+        # وضع JSON: يُجبر Gemini على إخراج JSON صالح بدل نص يشبهه
+        if getattr(self, "_json_mode", False):
+            body["generationConfig"]["responseMimeType"] = "application/json"
         data = self._gemini_request(f"models/{model}:generateContent", body)
         cands = data.get("candidates") or []
         if not cands:
@@ -264,13 +267,23 @@ class LLM:
         raise RuntimeError(f"كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: {last}")
 
     def json(self, system: str, user: str, max_tokens: int = 4000, temperature: float = 0.4) -> Any:
-        raw = self.chat(
-            system + "\n\nReturn ONLY valid JSON. No markdown fences, no commentary.",
-            user,
-            max_tokens,
-            temperature,
-        )
-        return parse_json(raw)
+        """يطلب JSON ويعيد المحاولة إن عاد تالفاً — رد واحد مكسور لا يُسقط التشغيل كله."""
+        sys_msg = system + "\n\nReturn ONLY valid JSON. No markdown fences, no commentary."
+        last = None
+        self._json_mode = True
+        try:
+            for attempt in range(3):
+                raw = self.chat(sys_msg, user, max_tokens, temperature)
+                try:
+                    return parse_json(raw)
+                except json.JSONDecodeError as e:
+                    last = e
+                    self.log.warning("JSON تالف (محاولة %s/3): %s — إعادة الطلب", attempt + 1, e)
+                    sys_msg = (system + "\n\nReturn ONLY valid JSON. No markdown fences, no commentary. "
+                               "Escape every double quote inside string values. Keep strings short.")
+            raise RuntimeError(f"النموذج أعاد JSON تالفاً ثلاث مرات: {last}")
+        finally:
+            self._json_mode = False
 
 
 def parse_json(raw: str) -> Any:
