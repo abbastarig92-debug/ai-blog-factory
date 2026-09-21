@@ -1,53 +1,5 @@
 [
   {
-    "keyword": "best ai writing assistant for freelance ghostwriters",
-    "cluster": "writing-ai",
-    "intent": "commercial",
-    "est_volume": 290,
-    "est_difficulty": 23,
-    "format": "listicle",
-    "why_winnable": "Ghostwriters have unique needs for style mimicking and research that general AI writing tools don't always highlight.",
-    "search_promise": "A comparison of tools that offer 'style training' and 'first-person' narrative controls.",
-    "slug": "best-ai-writing-assistant-for-freelance-ghostwriters",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "best ai product photography tool for amazon fba sellers",
-    "cluster": "image-ai",
-    "intent": "commercial",
-    "est_volume": 520,
-    "est_difficulty": 27,
-    "format": "listicle",
-    "why_winnable": "Amazon sellers are a high-intent commercial audience looking for specific ROI (saving on photographers).",
-    "search_promise": "A review of tools that can place products in lifestyle settings while maintaining brand accuracy.",
-    "slug": "best-ai-product-photography-tool-for-amazon-fba-sellers",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to create consistent ai characters for brand storytelling",
-    "cluster": "image-ai",
-    "intent": "informational",
-    "est_volume": 610,
-    "est_difficulty": 32,
-    "format": "how-to",
-    "why_winnable": "Solves a major pain point in AI image generation (character drift) that many generic guides ignore.",
-    "search_promise": "A tutorial on using Midjourney 'Character Reference' (--cref) for marketing campaigns.",
-    "slug": "how-to-create-consistent-ai-characters-for-brand-storytelling",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to use ai for programmatic seo on wordpress",
-    "cluster": "writing-ai",
-    "intent": "informational",
-    "est_volume": 480,
-    "est_difficulty": 34,
-    "format": "how-to",
-    "why_winnable": "Technical but highly valuable for small marketing teams; low competition from mainstream SEO blogs.",
-    "search_promise": "A guide on connecting Google Sheets to WP All Import using Koala AI for bulk page generation.",
-    "slug": "how-to-use-ai-for-programmatic-seo-on-wordpress",
-    "paid_tool": ""
-  },
-  {
     "keyword": "best n8n nodes for automated social media listening",
     "cluster": "automation",
     "intent": "commercial",
@@ -192,6 +144,18 @@
     "paid_tool": ""
   },
   {
+    "keyword": "best ai writing assistant for freelance ghostwriters",
+    "cluster": "writing-ai",
+    "intent": "commercial",
+    "est_volume": 290,
+    "est_difficulty": 23,
+    "format": "listicle",
+    "why_winnable": "Ghostwriters have unique needs for style mimicking and research that general AI writing tools don't always highlight.",
+    "search_promise": "A comparison of tools that offer 'style training' and 'first-person' narrative controls.",
+    "slug": "best-ai-writing-assistant-for-freelance-ghostwriters",
+    "paid_tool": ""
+  },
+  {
     "keyword": "how to create video captions automatically with capcut desktop",
     "cluster": "video-ai",
     "intent": "informational",
@@ -283,6 +247,18 @@
     "why_winnable": "High search volume but fragmented competition; most results are generic and don't focus on the TikTok format.",
     "search_promise": "A 5-minute workflow using HeyGen or Synthesia to create viral-style vertical talking head clips.",
     "slug": "how-to-create-ai-talking-head-videos-for-tiktok",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to use ai for programmatic seo on wordpress",
+    "cluster": "writing-ai",
+    "intent": "informational",
+    "est_volume": 480,
+    "est_difficulty": 34,
+    "format": "how-to",
+    "why_winnable": "Technical but highly valuable for small marketing teams; low competition from mainstream SEO blogs.",
+    "search_promise": "A guide on connecting Google Sheets to WP All Import using Koala AI for bulk page generation.",
+    "slug": "how-to-use-ai-for-programmatic-seo-on-wordpress",
     "paid_tool": ""
   }
 ]
