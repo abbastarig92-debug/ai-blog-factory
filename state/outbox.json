@@ -1318,5 +1318,52 @@
     "slug": "best-ai-product-photography-amazon-fba",
     "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-ai-product-photography-amazon-fba/",
     "status": "queued"
+  },
+  {
+    "x": "Enterprise social listening tools cost $500+/mo. You can build your own for free using 9 native n8n nodes + OpenAI to filter and route brand mentions at scale. Here is the full breakdown: https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-n8n-nodes-social-media-listening/",
+    "linkedin": "Paying $500/month for social listening SaaS just to filter noise from Twitter and Reddit is a huge money sink for lean teams.\n\nBy pairing n8n's native webhooks, HTTP Request, and RSS nodes with OpenAI, you can construct a self-hosted monitoring stack that categorizes sentiment, flags high-intent leads, and routes alerts directly to Slack.\n\nHere are the 9 essential n8n nodes to build an automated monitoring pipeline without enterprise SaaS bloat: https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-n8n-nodes-social-media-listening/",
+    "reddit": {
+      "subreddit_suggestions": [
+        "r/n8n",
+        "r/selfhosted",
+        "r/Automation"
+      ],
+      "title": "How to build a self-hosted social listening stack using n8n and OpenAI (and ditch expensive SaaS tools)",
+      "comment_first_body": "Most social listening SaaS tools charge exorbitant fees for basic keyword matching and sentiment analysis. If you're running n8n, you can easily build your own pipeline using native nodes (RSS, HTTP Request, Slack) combined with OpenAI for sentiment classification. Here's a breakdown of the 9 core n8n nodes needed to scrape brand mentions, parse intent, and auto-route alerts without paying $500/mo.\n\nFull node breakdown and workflow guide: https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-n8n-nodes-social-media-listening/"
+    },
+    "newsletter": "Most social listening platforms cost hundreds of dollars a month just to deliver noisy, unfiltered brand mentions. But if you already use n8n, you can build a custom, self-hosted monitoring engine for a fraction of the cost. By orchestrating a few key nodes—like RSS triggers, HTTP Requests, and OpenAI integrations—you can pull live data from platforms like Twitter and Reddit, run automated sentiment analysis, and route high-priority leads straight to your Slack or CRM. We put together a guide detailing the 9 essential n8n nodes required to build this setup from scratch. Read the full tutorial here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-n8n-nodes-social-media-listening/",
+    "pinterest": "Stop paying high SaaS fees for brand monitoring. Learn the 9 essential n8n nodes to build an automated social listening workflow with AI: https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-n8n-nodes-social-media-listening/",
+    "quora_targets": [
+      "What are the best social media listening tools?",
+      "How can I automate brand mention monitoring for free?",
+      "What are some practical use cases for n8n automation?"
+    ],
+    "slug": "best-n8n-nodes-social-media-listening",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/best-n8n-nodes-social-media-listening/",
+    "status": "queued"
+  },
+  {
+    "x": "Firmographic data is a commodity. The highest-converting AI lead gen workflows now focus on identifying creative quality gaps rather than just company size. Here are 3 agent frameworks to automate high-intent prospecting: https://abbastarig92-debug.github.io/ai-blog-factory/blog/ai-agent-workflow-automated-lead-generation/ #AI #LeadGen",
+    "linkedin": "Most lead generation workflows fail because they focus on the wrong data. Firmographic filters like company size or industry are table stakes; they don't tell you if a prospect actually needs your help right now.\n\nThe most effective AI agents today are programmed to identify 'creative quality gaps.' By analyzing a prospect's current output—whether it's their ad copy, SEO content, or social presence—AI can flag exactly where they are underperforming compared to their competitors.\n\nWe've mapped out the three specific agent workflows that move beyond basic scraping to deliver high-intent leads. Full breakdown here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/ai-agent-workflow-automated-lead-generation/ #SalesAutomation",
+    "reddit": {
+      "subreddit_suggestions": [
+        "sales",
+        "marketingautomation",
+        "growthhacking"
+      ],
+      "title": "Why firmographic data is a trap for AI lead gen (and what to use instead)",
+      "comment_first_body": "Most people use AI agents to scrape LinkedIn for 'Head of Marketing' at 'Series B' companies. The problem? Everyone else is doing that too. The real value in automation right now is using LLMs to audit a prospect's public-facing assets in real-time. If an agent can see their landing page has a low conversion layout or their blog is 100% unedited AI fluff, that's a much stronger signal than a job title. I've documented three specific workflows that handle this audit-first approach if anyone wants to see the logic."
+    },
+    "newsletter": "Stop chasing leads based on company size alone. In the age of AI, firmographic data is a commodity that leads to crowded inboxes and low response rates. To stand out, your automated workflows need to identify specific pain points before you ever send an email. This means building agents that can analyze a prospect's creative output—like their ad copy or content strategy—to find 'quality gaps' that your service can fill. We’ve put together a guide on the 3 best AI agent workflows for automated lead generation that prioritize intent over demographics. Learn how to build agents that act like researchers, not just scrapers, to transform your outbound pipeline and increase your conversion rates.",
+    "pinterest": "Automate your sales pipeline with these 3 AI agent workflows. Learn why identifying creative quality gaps beats raw firmographic data for high-converting lead generation. #AI #LeadGen",
+    "quora_targets": [
+      "What are the best AI tools for lead generation?",
+      "How can I automate my sales prospecting?",
+      "What is the future of AI in B2B sales?",
+      "How to use AI agents for business growth?"
+    ],
+    "slug": "ai-agent-workflow-automated-lead-generation",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/ai-agent-workflow-automated-lead-generation/",
+    "status": "queued"
   }
 ]

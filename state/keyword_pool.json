@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "best n8n nodes for automated social media listening",
-    "cluster": "automation",
-    "intent": "commercial",
-    "est_volume": 220,
-    "est_difficulty": 15,
-    "format": "listicle",
-    "why_winnable": "Extremely niche technical query; provides high authority for a new site in the automation space.",
-    "search_promise": "A list of specific HTTP nodes and community nodes for tracking brand mentions on Reddit and Twitter.",
-    "slug": "best-n8n-nodes-for-automated-social-media-listening",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "best ai agent workflow for automated lead generation",
-    "cluster": "automation",
-    "intent": "commercial",
-    "est_volume": 420,
-    "est_difficulty": 31,
-    "format": "listicle",
-    "why_winnable": "Lead gen is the most profitable automation niche; focusing on 'workflows' attracts high-intent business owners.",
-    "search_promise": "A breakdown of 3 proven workflows that combine web scraping, AI filtering, and automated email outreach.",
-    "slug": "best-ai-agent-workflow-for-automated-lead-generation",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to automate youtube shorts creation with n8n",
     "cluster": "automation",
     "intent": "informational",
