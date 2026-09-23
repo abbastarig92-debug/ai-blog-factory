@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "elevenlabs vs murf ai for youtube narrators",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 28,
-    "format": "comparison",
-    "why_winnable": "Specific creator sub-niche (narrators) avoids the broader 'best AI voice' competition dominated by tech giants.",
-    "search_promise": "A side-by-side comparison table focusing on emotional range and pricing for high-volume video production.",
-    "slug": "elevenlabs-vs-murf-ai-for-youtube-narrators",
-    "paid_tool": "ElevenLabs"
-  },
-  {
-    "keyword": "speechify vs wellsaid labs for professional voiceovers",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 380,
-    "est_difficulty": 29,
-    "format": "comparison",
-    "why_winnable": "Targets the high-end audio quality segment where users are willing to pay for premium subscriptions.",
-    "search_promise": "Audio samples comparing the naturalness of 'pro' voices for commercial advertisements.",
-    "slug": "speechify-vs-wellsaid-labs-for-professional-voiceovers",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "elevenlabs review for independent game developers",
     "cluster": "voice-ai",
     "intent": "transactional",
@@ -46,18 +22,6 @@
     "search_promise": "A practical test of the mobile app's OCR and Kindle integration speed.",
     "slug": "is-speechify-worth-it-for-heavy-kindle-readers",
     "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "best ai video generator for linkedin thought leaders",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 240,
-    "est_difficulty": 19,
-    "format": "listicle",
-    "why_winnable": "LinkedIn personal branding is a surging niche with low competition compared to 'YouTube AI'.",
-    "search_promise": "Tools that specialize in square/vertical video with automatic captions and professional aesthetics.",
-    "slug": "best-ai-video-generator-for-linkedin-thought-leaders",
-    "paid_tool": ""
   },
   {
     "keyword": "best text to speech ai for meditation videos",
@@ -84,30 +48,6 @@
     "paid_tool": ""
   },
   {
-    "keyword": "how to create video captions automatically with capcut desktop",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 650,
-    "est_difficulty": 18,
-    "format": "how-to",
-    "why_winnable": "Software-specific tutorial with low keyword difficulty; targets creators looking to speed up short-form video production.",
-    "search_promise": "3-minute visual step-by-step guide with custom styling presets and translation settings explained.",
-    "slug": "how-to-create-video-captions-automatically-with-capcut-desktop",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to create animated video intros with runway gen 2",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 310,
-    "est_difficulty": 18,
-    "format": "how-to",
-    "why_winnable": "Tutorial query where step-by-step clarity and visual prompts beat high-DA domain authority.",
-    "search_promise": "Step-by-step prompt formula, seed settings guide, and camera movement parameters for sleek motion intros.",
-    "slug": "how-to-create-animated-video-intros-with-runway-gen-2",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to clone your voice for podcast intro ai",
     "cluster": "voice-ai",
     "intent": "informational",
@@ -131,17 +71,6 @@
     "paid_tool": ""
   },
   {
-    "keyword": "how to make faceless youtube videos with ai free",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 1400,
-    "est_difficulty": 28,
-    "format": "how-to",
-    "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
-    "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
-    "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
-  },
-  {
     "keyword": "how to generate ai voiceovers for short clips free",
     "cluster": "voice-ai",
     "intent": "informational",
@@ -163,18 +92,6 @@
     "why_winnable": "Creators are looking for global reach; this targets the 'how-to' intent which leads naturally to tool recommendations.",
     "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
     "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to create ai talking head videos for tiktok",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 850,
-    "est_difficulty": 33,
-    "format": "how-to",
-    "why_winnable": "High search volume but fragmented competition; most results are generic and don't focus on the TikTok format.",
-    "search_promise": "A 5-minute workflow using HeyGen or Synthesia to create viral-style vertical talking head clips.",
-    "slug": "how-to-create-ai-talking-head-videos-for-tiktok",
     "paid_tool": ""
   },
   {
@@ -211,6 +128,65 @@
     "why_winnable": "Small teams need internal efficiency; this targets the 'builder' mindset which is underserved by enterprise reviews.",
     "search_promise": "A step-by-step guide using OpenAI Assistants API and n8n to answer team FAQs in Slack.",
     "slug": "how-to-build-an-ai-agent-for-customer-support-on-slack",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "best ai video generator for linkedin thought leaders",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 240,
+    "est_difficulty": 19,
+    "format": "listicle",
+    "why_winnable": "LinkedIn personal branding is a surging niche with low competition compared to 'YouTube AI'.",
+    "search_promise": "Tools that specialize in square/vertical video with automatic captions and professional aesthetics.",
+    "slug": "best-ai-video-generator-for-linkedin-thought-leaders",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to create video captions automatically with capcut desktop",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 650,
+    "est_difficulty": 18,
+    "format": "how-to",
+    "why_winnable": "Software-specific tutorial with low keyword difficulty; targets creators looking to speed up short-form video production.",
+    "search_promise": "3-minute visual step-by-step guide with custom styling presets and translation settings explained.",
+    "slug": "how-to-create-video-captions-automatically-with-capcut-desktop",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to create animated video intros with runway gen 2",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 310,
+    "est_difficulty": 18,
+    "format": "how-to",
+    "why_winnable": "Tutorial query where step-by-step clarity and visual prompts beat high-DA domain authority.",
+    "search_promise": "Step-by-step prompt formula, seed settings guide, and camera movement parameters for sleek motion intros.",
+    "slug": "how-to-create-animated-video-intros-with-runway-gen-2",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to make faceless youtube videos with ai free",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 1400,
+    "est_difficulty": 28,
+    "format": "how-to",
+    "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
+    "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
+    "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
+  },
+  {
+    "keyword": "how to create ai talking head videos for tiktok",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 850,
+    "est_difficulty": 33,
+    "format": "how-to",
+    "why_winnable": "High search volume but fragmented competition; most results are generic and don't focus on the TikTok format.",
+    "search_promise": "A 5-minute workflow using HeyGen or Synthesia to create viral-style vertical talking head clips.",
+    "slug": "how-to-create-ai-talking-head-videos-for-tiktok",
     "paid_tool": ""
   }
 ]
