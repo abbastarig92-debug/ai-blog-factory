@@ -100,7 +100,10 @@ class LLM:
                 if attempt == 3:
                     self.log.error("محاولة %s فشلت نهائياً: %s", attempt + 1, e)
                     break
-                wait = 2 ** attempt * 3
+                # ازدحام عام على كل الموديلات (503): الانتظار القصير لا يكفي،
+                # لأن الموجة تستمر دقائق. نُمهل أطول بدل أن يسقط التشغيل في ٧٥ ثانية.
+                busy_all = "مزدحمة الآن" in str(e)
+                wait = (30, 120, 300)[attempt] if busy_all else 2 ** attempt * 3
                 self.log.warning("محاولة %s فشلت (%s) — إعادة بعد %ss", attempt + 1, e, wait)
                 time.sleep(wait)
         raise RuntimeError(f"فشل نداء النموذج بعد 4 محاولات: {last}")
