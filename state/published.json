@@ -494,5 +494,21 @@
     "keyword": "synthesia vs elai io for internal training videos",
     "cluster": "video-ai",
     "draft": false
+  },
+  {
+    "slug": "elevenlabs-review-for-independent-game-developers",
+    "title": "ElevenLabs Review for Independent Game Developers: Worth It?",
+    "date": "2026-09-24T09:49:41+00:00",
+    "keyword": "elevenlabs review for independent game developers",
+    "cluster": "voice-ai",
+    "draft": true
+  },
+  {
+    "slug": "speechify-worth-it-heavy-kindle-readers",
+    "title": "Is Speechify Worth It for Heavy Kindle Readers?",
+    "date": "2026-09-24T09:57:54+00:00",
+    "keyword": "is speechify worth it for heavy kindle readers",
+    "cluster": "voice-ai",
+    "draft": false
   }
 ]

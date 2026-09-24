@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "elevenlabs review for independent game developers",
-    "cluster": "voice-ai",
-    "intent": "transactional",
-    "est_volume": 320,
-    "est_difficulty": 22,
-    "format": "review",
-    "why_winnable": "Targets a specific technical audience looking for API integration and character voice consistency.",
-    "search_promise": "A deep dive into the API costs and character voice cloning capabilities for indie RPG development.",
-    "slug": "elevenlabs-review-for-independent-game-developers",
-    "paid_tool": "ElevenLabs"
-  },
-  {
-    "keyword": "is speechify worth it for heavy kindle readers",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 600,
-    "est_difficulty": 25,
-    "format": "review",
-    "why_winnable": "Addresses a specific lifestyle pain point (reading fatigue) rather than a general software search.",
-    "search_promise": "A practical test of the mobile app's OCR and Kindle integration speed.",
-    "slug": "is-speechify-worth-it-for-heavy-kindle-readers",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "best text to speech ai for meditation videos",
     "cluster": "voice-ai",
     "intent": "commercial",
