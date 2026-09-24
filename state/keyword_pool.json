@@ -1,88 +1,5 @@
 [
   {
-    "keyword": "best text to speech ai for meditation videos",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 310,
-    "est_difficulty": 21,
-    "format": "listicle",
-    "why_winnable": "Requires specific 'whisper' or 'calm' vocal tones, allowing for a curated list that excludes aggressive AI voices.",
-    "search_promise": "A list of tools featuring 'soft' and 'breathy' voice models specifically for wellness content.",
-    "slug": "best-text-to-speech-ai-for-meditation-videos",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "best ai writing assistant for freelance ghostwriters",
-    "cluster": "writing-ai",
-    "intent": "commercial",
-    "est_volume": 290,
-    "est_difficulty": 23,
-    "format": "listicle",
-    "why_winnable": "Ghostwriters have unique needs for style mimicking and research that general AI writing tools don't always highlight.",
-    "search_promise": "A comparison of tools that offer 'style training' and 'first-person' narrative controls.",
-    "slug": "best-ai-writing-assistant-for-freelance-ghostwriters",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to clone your voice for podcast intro ai",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 280,
-    "est_difficulty": 18,
-    "format": "how-to",
-    "why_winnable": "Hyper-focused application query answered mainly by low-quality vendor documentation rather than practical creator tutorials.",
-    "search_promise": "Audio recording checklist and quick 3-step setup guide to get natural-sounding podcast intros in under 10 minutes.",
-    "slug": "how-to-clone-your-voice-for-podcast-intro-ai"
-  },
-  {
-    "keyword": "how to clean background noise from podcast audio with ai",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 720,
-    "est_difficulty": 19,
-    "format": "how-to",
-    "why_winnable": "Low-competition instructional query dominated by outdated forum threads and generic audio editing blogs.",
-    "search_promise": "Step-by-step workflow comparing free and paid AI audio cleaners with before-and-after audio files.",
-    "slug": "how-to-clean-background-noise-from-podcast-audio-with-ai",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to generate ai voiceovers for short clips free",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 590,
-    "est_difficulty": 29,
-    "format": "how-to",
-    "why_winnable": "Actionable workflow term for TikTok/Reels creators looking to avoid paid software subscriptions.",
-    "search_promise": "Quick 3-step walkthrough utilizing free voice tools and capcut export without subscription watermarks.",
-    "slug": "how-to-generate-ai-voiceovers-for-short-clips-free",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to translate youtube videos with ai dubbing",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 720,
-    "est_difficulty": 30,
-    "format": "how-to",
-    "why_winnable": "Creators are looking for global reach; this targets the 'how-to' intent which leads naturally to tool recommendations.",
-    "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
-    "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to use ai for programmatic seo on wordpress",
-    "cluster": "writing-ai",
-    "intent": "informational",
-    "est_volume": 480,
-    "est_difficulty": 34,
-    "format": "how-to",
-    "why_winnable": "Technical but highly valuable for small marketing teams; low competition from mainstream SEO blogs.",
-    "search_promise": "A guide on connecting Google Sheets to WP All Import using Koala AI for bulk page generation.",
-    "slug": "how-to-use-ai-for-programmatic-seo-on-wordpress",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to automate youtube shorts creation with n8n",
     "cluster": "automation",
     "intent": "informational",
@@ -119,6 +36,29 @@
     "paid_tool": ""
   },
   {
+    "keyword": "best text to speech ai for meditation videos",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 310,
+    "est_difficulty": 21,
+    "format": "listicle",
+    "why_winnable": "Requires specific 'whisper' or 'calm' vocal tones, allowing for a curated list that excludes aggressive AI voices.",
+    "search_promise": "A list of tools featuring 'soft' and 'breathy' voice models specifically for wellness content.",
+    "slug": "best-text-to-speech-ai-for-meditation-videos",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to clone your voice for podcast intro ai",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 280,
+    "est_difficulty": 18,
+    "format": "how-to",
+    "why_winnable": "Hyper-focused application query answered mainly by low-quality vendor documentation rather than practical creator tutorials.",
+    "search_promise": "Audio recording checklist and quick 3-step setup guide to get natural-sounding podcast intros in under 10 minutes.",
+    "slug": "how-to-clone-your-voice-for-podcast-intro-ai"
+  },
+  {
     "keyword": "how to create video captions automatically with capcut desktop",
     "cluster": "video-ai",
     "intent": "informational",
@@ -143,6 +83,18 @@
     "paid_tool": ""
   },
   {
+    "keyword": "how to clean background noise from podcast audio with ai",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 720,
+    "est_difficulty": 19,
+    "format": "how-to",
+    "why_winnable": "Low-competition instructional query dominated by outdated forum threads and generic audio editing blogs.",
+    "search_promise": "Step-by-step workflow comparing free and paid AI audio cleaners with before-and-after audio files.",
+    "slug": "how-to-clean-background-noise-from-podcast-audio-with-ai",
+    "paid_tool": ""
+  },
+  {
     "keyword": "how to make faceless youtube videos with ai free",
     "cluster": "video-ai",
     "intent": "informational",
@@ -152,6 +104,30 @@
     "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
     "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
     "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
+  },
+  {
+    "keyword": "how to generate ai voiceovers for short clips free",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 590,
+    "est_difficulty": 29,
+    "format": "how-to",
+    "why_winnable": "Actionable workflow term for TikTok/Reels creators looking to avoid paid software subscriptions.",
+    "search_promise": "Quick 3-step walkthrough utilizing free voice tools and capcut export without subscription watermarks.",
+    "slug": "how-to-generate-ai-voiceovers-for-short-clips-free",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to translate youtube videos with ai dubbing",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 720,
+    "est_difficulty": 30,
+    "format": "how-to",
+    "why_winnable": "Creators are looking for global reach; this targets the 'how-to' intent which leads naturally to tool recommendations.",
+    "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
+    "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
+    "paid_tool": ""
   },
   {
     "keyword": "how to create ai talking head videos for tiktok",
