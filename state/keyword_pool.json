@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "best ai video generator for linkedin thought leaders",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 240,
-    "est_difficulty": 19,
-    "format": "listicle",
-    "why_winnable": "LinkedIn personal branding is a surging niche with low competition compared to 'YouTube AI'.",
-    "search_promise": "Tools that specialize in square/vertical video with automatic captions and professional aesthetics.",
-    "slug": "best-ai-video-generator-for-linkedin-thought-leaders",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "best text to speech ai for meditation videos",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 310,
-    "est_difficulty": 21,
-    "format": "listicle",
-    "why_winnable": "Requires specific 'whisper' or 'calm' vocal tones, allowing for a curated list that excludes aggressive AI voices.",
-    "search_promise": "A list of tools featuring 'soft' and 'breathy' voice models specifically for wellness content.",
-    "slug": "best-text-to-speech-ai-for-meditation-videos",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to clone your voice for podcast intro ai",
     "cluster": "voice-ai",
     "intent": "informational",
