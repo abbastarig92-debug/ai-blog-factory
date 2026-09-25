@@ -1458,5 +1458,51 @@
     "slug": "speechify-worth-it-heavy-kindle-readers",
     "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/speechify-worth-it-heavy-kindle-readers/",
     "status": "queued"
+  },
+  {
+    "x": "n8n bills per execution, not per node. This makes complex YouTube Shorts automation significantly cheaper than Zapier for high-volume video pipelines. Full workflow here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/automate-youtube-shorts-with-n8n/ #n8n #automation",
+    "linkedin": "Scaling a YouTube Shorts pipeline often hits a wall when using Zapier or Make due to per-step pricing. If your workflow involves AI script generation, voiceovers, and video editing, those costs compound instantly.\n\nSwitching to n8n changes the math. Because they bill per execution rather than per node, you can build a 20-step automation for the same price as a 2-step one. It is the only way to realistically scale faceless channels without massive overhead.\n\nI have documented the full technical setup for connecting n8n to video APIs here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/automate-youtube-shorts-with-n8n/",
+    "reddit": {
+      "subreddit_suggestions": [
+        "n8n",
+        "automation",
+        "YouTubeCreators"
+      ],
+      "title": "Why I moved my YouTube Shorts automation from Zapier to n8n",
+      "comment_first_body": "The biggest hurdle in video automation is the 'node tax.' A typical Shorts workflow (Script -> Voiceover -> Footage -> Edit -> Upload) uses at least 5-8 steps. On Zapier, that eats your task quota instantly. n8n's execution-based billing means you can add as many logic branches as you want without the price going up. I put together a guide on the architecture here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/automate-youtube-shorts-with-n8n/"
+    },
+    "newsletter": "Most creators fail at video automation because they underestimate the cost of complexity. A standard YouTube Shorts workflow requires multiple steps: generating a script, converting text-to-speech, fetching stock footage, and rendering. On platforms like Zapier, this becomes prohibitively expensive at scale. This week, we are diving into why n8n is the superior choice for video engineers. By billing per execution rather than per node, n8n allows for infinite complexity within a single workflow without increasing your monthly bill. We break down the exact architecture needed to connect AI models and video rendering engines to automate your content calendar. Read the full guide: https://abbastarig92-debug.github.io/ai-blog-factory/blog/automate-youtube-shorts-with-n8n/",
+    "pinterest": "Stop paying per automation step. Learn how to use n8n to build a scalable YouTube Shorts pipeline for a fraction of the cost of Zapier. #automation #n8n",
+    "quora_targets": [
+      "What is the best tool for YouTube automation?",
+      "How does n8n compare to Zapier for complex workflows?",
+      "How can I automate the creation of YouTube Shorts?"
+    ],
+    "slug": "automate-youtube-shorts-with-n8n",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/automate-youtube-shorts-with-n8n/",
+    "status": "queued"
+  },
+  {
+    "x": "Automate 100% of routine technical queries in Slack. This guide shows you how to build an AI agent using n8n and OpenAI that pulls answers directly from your brand guides. https://abbastarig92-debug.github.io/ai-blog-factory/blog/build-ai-agent-customer-support-slack/ #n8n #AI",
+    "linkedin": "Most technical support teams spend nearly half their day repeating answers already found in their documentation. We built a workflow to solve this bottleneck using low-code automation.\n\nBy integrating n8n with OpenAI, we created a Slack agent that references specific brand guides to provide instant, accurate responses. This isn't a generic chatbot; it is a context-aware assistant that handles the first line of defense for your support team.\n\nRead the full technical breakdown and workflow setup here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/build-ai-agent-customer-support-slack/ #Automation #Slack",
+    "reddit": {
+      "subreddit_suggestions": [
+        "n8n",
+        "automation",
+        "selfhosted"
+      ],
+      "title": "How to build a Slack AI support agent using n8n and OpenAI (Step-by-step)",
+      "comment_first_body": "I put together a guide on reducing Slack support overhead. The stack uses n8n as the orchestrator and OpenAI to process technical queries against your existing brand guides. It basically acts as a RAG (Retrieval-Augmented Generation) system for your internal docs so you don't have to answer the same questions every day. Link to the full build: https://abbastarig92-debug.github.io/ai-blog-factory/blog/build-ai-agent-customer-support-slack/"
+    },
+    "newsletter": "Scaling technical support doesn’t always require more headcount. By leveraging n8n and OpenAI, you can build a Slack agent that acts as a first-line responder for your technical documentation. This guide breaks down the architecture needed to ingest brand guides and output accurate, context-aware answers directly in your channels. You’ll learn how to set up the n8n workflow, connect the OpenAI API, and ensure the bot maintains your brand voice. It’s a practical solution for teams looking to reduce manual ticket volume without sacrificing response quality. Stop repeating yourself in threads and let the agent handle the routine stuff while you focus on complex problem-solving. Full guide here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/build-ai-agent-customer-support-slack/",
+    "pinterest": "Build a custom AI agent for Slack using n8n and OpenAI. Automate your customer support by answering technical questions instantly using your brand guides. #Automation #AI",
+    "quora_targets": [
+      "How can I automate customer support on Slack?",
+      "What are the best n8n workflows for business?",
+      "How to use OpenAI for customer service?"
+    ],
+    "slug": "build-ai-agent-customer-support-slack",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/build-ai-agent-customer-support-slack/",
+    "status": "queued"
   }
 ]

@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "how to automate youtube shorts creation with n8n",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 350,
-    "est_difficulty": 25,
-    "format": "how-to",
-    "why_winnable": "n8n is the 'pro' choice over Zapier; users searching for this are looking for specific, low-cost automation logic.",
-    "search_promise": "A visual workflow diagram showing how to trigger video generation from a RSS feed or spreadsheet.",
-    "slug": "how-to-automate-youtube-shorts-creation-with-n8n",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to build an ai agent for customer support on slack",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 390,
-    "est_difficulty": 28,
-    "format": "how-to",
-    "why_winnable": "Small teams need internal efficiency; this targets the 'builder' mindset which is underserved by enterprise reviews.",
-    "search_promise": "A step-by-step guide using OpenAI Assistants API and n8n to answer team FAQs in Slack.",
-    "slug": "how-to-build-an-ai-agent-for-customer-support-on-slack",
-    "paid_tool": ""
-  },
-  {
     "keyword": "best ai video generator for linkedin thought leaders",
     "cluster": "video-ai",
     "intent": "commercial",

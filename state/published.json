@@ -510,5 +510,21 @@
     "keyword": "is speechify worth it for heavy kindle readers",
     "cluster": "voice-ai",
     "draft": false
+  },
+  {
+    "slug": "automate-youtube-shorts-with-n8n",
+    "title": "How to Automate YouTube Shorts Creation with n8n",
+    "date": "2026-09-25T10:25:30+00:00",
+    "keyword": "how to automate youtube shorts creation with n8n",
+    "cluster": "automation",
+    "draft": false
+  },
+  {
+    "slug": "build-ai-agent-customer-support-slack",
+    "title": "How to Build an AI Agent for Customer Support on Slack",
+    "date": "2026-09-25T10:36:40+00:00",
+    "keyword": "how to build an ai agent for customer support on slack",
+    "cluster": "automation",
+    "draft": false
   }
 ]
