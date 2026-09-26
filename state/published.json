@@ -526,5 +526,21 @@
     "keyword": "how to build an ai agent for customer support on slack",
     "cluster": "automation",
     "draft": false
+  },
+  {
+    "slug": "how-to-clone-your-voice-podcast-intro-ai",
+    "title": "How to Clone Your Voice for Podcast Intro AI: 10-Min Guide",
+    "date": "2026-09-26T09:49:30+00:00",
+    "keyword": "how to clone your voice for podcast intro ai",
+    "cluster": "voice-ai",
+    "draft": false
+  },
+  {
+    "slug": "auto-captions-capcut-desktop",
+    "title": "Create Video Captions Automatically in CapCut Desktop",
+    "date": "2026-09-26T09:51:17+00:00",
+    "keyword": "how to create video captions automatically with capcut desktop",
+    "cluster": "video-ai",
+    "draft": false
   }
 ]

@@ -1,28 +1,5 @@
 [
   {
-    "keyword": "how to clone your voice for podcast intro ai",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 280,
-    "est_difficulty": 18,
-    "format": "how-to",
-    "why_winnable": "Hyper-focused application query answered mainly by low-quality vendor documentation rather than practical creator tutorials.",
-    "search_promise": "Audio recording checklist and quick 3-step setup guide to get natural-sounding podcast intros in under 10 minutes.",
-    "slug": "how-to-clone-your-voice-for-podcast-intro-ai"
-  },
-  {
-    "keyword": "how to create video captions automatically with capcut desktop",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 650,
-    "est_difficulty": 18,
-    "format": "how-to",
-    "why_winnable": "Software-specific tutorial with low keyword difficulty; targets creators looking to speed up short-form video production.",
-    "search_promise": "3-minute visual step-by-step guide with custom styling presets and translation settings explained.",
-    "slug": "how-to-create-video-captions-automatically-with-capcut-desktop",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to create animated video intros with runway gen 2",
     "cluster": "video-ai",
     "intent": "informational",
