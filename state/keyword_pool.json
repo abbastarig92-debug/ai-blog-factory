@@ -1,14 +1,14 @@
 [
   {
-    "keyword": "best ai thumbnail maker for vlogs",
+    "keyword": "how to create realistic product photos with clipdrop",
     "cluster": "image-ai",
-    "intent": "commercial",
-    "est_volume": 330,
-    "est_difficulty": 18,
-    "format": "listicle",
-    "why_winnable": "Vloggers need face-swapping and expressive text overlays rather than generic product backgrounds, which standard tools don't emphasize.",
-    "search_promise": "A review of 4 thumbnail generators that excel at extracting high-quality expressions and generating click-worthy text layouts.",
-    "slug": "best-ai-thumbnail-maker-for-vlogs",
+    "intent": "informational",
+    "est_volume": 260,
+    "est_difficulty": 14,
+    "format": "how-to",
+    "why_winnable": "E-commerce sellers want to avoid expensive studio shoots; a practical guide using Clipdrop's relighting and background replacement tools is highly valuable.",
+    "search_promise": "A before-and-after tutorial showing how to turn a smartphone photo into a studio-grade product shot using Clipdrop.",
+    "slug": "how-to-create-realistic-product-photos-with-clipdrop",
     "paid_tool": ""
   },
   {
@@ -21,30 +21,6 @@
     "why_winnable": "Freelance editors need high-accuracy detectors with batch-upload features to verify writer submissions without false positives.",
     "search_promise": "An empirical test of 5 detectors against human, AI, and hybrid-written texts, showing false-positive rates and pricing.",
     "slug": "best-ai-content-detector-for-freelance-editors",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "midjourney vs stable diffusion for commercial design",
-    "cluster": "image-ai",
-    "intent": "commercial",
-    "est_volume": 420,
-    "est_difficulty": 29,
-    "format": "comparison",
-    "why_winnable": "Commercial designers care deeply about licensing, model training ethics, and control features (ControlNet) which standard reviews ignore.",
-    "search_promise": "A legal and technical comparison of both platforms regarding commercial usage rights, image consistency, and workflow integration.",
-    "slug": "midjourney-vs-stable-diffusion-for-commercial-design",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to create realistic product photos with clipdrop",
-    "cluster": "image-ai",
-    "intent": "informational",
-    "est_volume": 260,
-    "est_difficulty": 14,
-    "format": "how-to",
-    "why_winnable": "E-commerce sellers want to avoid expensive studio shoots; a practical guide using Clipdrop's relighting and background replacement tools is highly valuable.",
-    "search_promise": "A before-and-after tutorial showing how to turn a smartphone photo into a studio-grade product shot using Clipdrop.",
-    "slug": "how-to-create-realistic-product-photos-with-clipdrop",
     "paid_tool": ""
   },
   {
