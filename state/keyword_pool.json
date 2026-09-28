@@ -1,41 +1,5 @@
 [
   {
-    "keyword": "how to use surfer seo with jasper ai",
-    "cluster": "writing-ai",
-    "intent": "informational",
-    "est_volume": 280,
-    "est_difficulty": 19,
-    "format": "how-to",
-    "why_winnable": "Users of both platforms look for workflow optimization tips to speed up their content creation process without losing optimization scores.",
-    "search_promise": "A step-by-step integration guide showing how to write and optimize a 2,000-word article in under 15 minutes using both tools.",
-    "slug": "how-to-use-surfer-seo-with-jasper-ai",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "speechify vs read aloud for productivity",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 290,
-    "est_difficulty": 12,
-    "format": "comparison",
-    "why_winnable": "Compares a premium paid app with a free browser extension. Users want to know if Speechify's natural voices are worth the premium price.",
-    "search_promise": "A direct comparison of reading speeds, voice naturalness, and cross-device syncing capabilities.",
-    "slug": "speechify-vs-read-aloud-for-productivity",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "is synthesia worth it for product demo videos",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 240,
-    "est_difficulty": 15,
-    "format": "review",
-    "why_winnable": "Targets mid-funnel buyers searching for ROI proof. A detailed cost-benefit analysis of hiring actors vs. using Synthesia will rank quickly.",
-    "search_promise": "An honest ROI calculation comparing traditional video production costs against Synthesia's subscription plans.",
-    "slug": "is-synthesia-worth-it-for-product-demo-videos",
-    "paid_tool": "Synthesia"
-  },
-  {
     "keyword": "best speechify alternatives for audio learning",
     "cluster": "voice-ai",
     "intent": "commercial",
@@ -153,6 +117,18 @@
     "why_winnable": "Tutorial query where step-by-step clarity and visual prompts beat high-DA domain authority.",
     "search_promise": "Step-by-step prompt formula, seed settings guide, and camera movement parameters for sleek motion intros.",
     "slug": "how-to-create-animated-video-intros-with-runway-gen-2",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to use surfer seo with jasper ai",
+    "cluster": "writing-ai",
+    "intent": "informational",
+    "est_volume": 280,
+    "est_difficulty": 19,
+    "format": "how-to",
+    "why_winnable": "Users of both platforms look for workflow optimization tips to speed up their content creation process without losing optimization scores.",
+    "search_promise": "A step-by-step integration guide showing how to write and optimize a 2,000-word article in under 15 minutes using both tools.",
+    "slug": "how-to-use-surfer-seo-with-jasper-ai",
     "paid_tool": ""
   },
   {

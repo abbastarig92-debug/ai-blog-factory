@@ -1,7 +1,13 @@
 {
-  "published": [
-    "best-ai-content-detector-freelance-editors",
-    "create-realistic-product-photos-with-clipdrop"
-  ],
-  "failed": []
+  "published": [],
+  "failed": [
+    {
+      "title": "Speechify vs Read Aloud: Which TTS Tool Actually Boosts Creator Productivity?",
+      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini HTTP 503 على models/gemini-flash-latest:generateContent — {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "title": "Is Synthesia Worth It for Product Demos? Real ROI vs. Traditional Video Costs",
+      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini HTTP 503 على models/gemini-flash-latest:generateContent — {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    }
+  ]
 }
