@@ -1,65 +1,5 @@
 [
   {
-    "keyword": "make com vs n8n for agency workflows",
-    "cluster": "automation",
-    "intent": "commercial",
-    "est_volume": 310,
-    "est_difficulty": 25,
-    "format": "comparison",
-    "why_winnable": "Agencies look for specific multi-tenant management, pricing scalability, and custom webhook handling that general user reviews omit.",
-    "search_promise": "A detailed cost comparison at scale (10k+ runs/month) and a feature breakdown of team collaboration tools in both platforms.",
-    "slug": "make-com-vs-n8n-for-agency-workflows",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "best ai voice generator for audiobooks free",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 580,
-    "est_difficulty": 26,
-    "format": "listicle",
-    "why_winnable": "Indie authors searching for free options are highly likely to upgrade to paid tiers once they hit character limits, making this a great affiliate funnel.",
-    "search_promise": "A comparison of free tiers from top voice generators, focusing on commercial rights and character limits for audiobook production.",
-    "slug": "best-ai-voice-generator-for-audiobooks-free",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to clone your voice with adobe podcast",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 310,
-    "est_difficulty": 17,
-    "format": "how-to",
-    "why_winnable": "Users are confused about Adobe's audio suite capabilities; a clear, step-by-step tutorial on their voice enhancement and cloning tools will capture early search intent.",
-    "search_promise": "A visual, step-by-step walkthrough of recording, uploading, and training your voice clone using Adobe's platform.",
-    "slug": "how-to-clone-your-voice-with-adobe-podcast",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to use surfer seo with jasper ai",
-    "cluster": "writing-ai",
-    "intent": "informational",
-    "est_volume": 280,
-    "est_difficulty": 19,
-    "format": "how-to",
-    "why_winnable": "Users of both platforms look for workflow optimization tips to speed up their content creation process without losing optimization scores.",
-    "search_promise": "A step-by-step integration guide showing how to write and optimize a 2,000-word article in under 15 minutes using both tools.",
-    "slug": "how-to-use-surfer-seo-with-jasper-ai",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to clean background noise from podcast audio with ai",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 720,
-    "est_difficulty": 19,
-    "format": "how-to",
-    "why_winnable": "Low-competition instructional query dominated by outdated forum threads and generic audio editing blogs.",
-    "search_promise": "Step-by-step workflow comparing free and paid AI audio cleaners with before-and-after audio files.",
-    "slug": "how-to-clean-background-noise-from-podcast-audio-with-ai",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to connect n8n to google sheets for leads",
     "cluster": "automation",
     "intent": "informational",
@@ -69,30 +9,6 @@
     "why_winnable": "Small businesses want to migrate away from expensive Zapier tasks; a clear n8n tutorial targeting lead capture is highly sought after.",
     "search_promise": "A copy-pasteable n8n JSON workflow template that instantly maps webhook data directly to a Google Sheet.",
     "slug": "how-to-connect-n8n-to-google-sheets-for-leads",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to generate ai voiceovers for short clips free",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 590,
-    "est_difficulty": 29,
-    "format": "how-to",
-    "why_winnable": "Actionable workflow term for TikTok/Reels creators looking to avoid paid software subscriptions.",
-    "search_promise": "Quick 3-step walkthrough utilizing free voice tools and capcut export without subscription watermarks.",
-    "slug": "how-to-generate-ai-voiceovers-for-short-clips-free",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to translate youtube videos with ai dubbing",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 720,
-    "est_difficulty": 30,
-    "format": "how-to",
-    "why_winnable": "Creators are looking for global reach; this targets the 'how-to' intent which leads naturally to tool recommendations.",
-    "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
-    "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
     "paid_tool": ""
   },
   {
@@ -120,6 +36,30 @@
     "paid_tool": ""
   },
   {
+    "keyword": "best ai voice generator for audiobooks free",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 580,
+    "est_difficulty": 26,
+    "format": "listicle",
+    "why_winnable": "Indie authors searching for free options are highly likely to upgrade to paid tiers once they hit character limits, making this a great affiliate funnel.",
+    "search_promise": "A comparison of free tiers from top voice generators, focusing on commercial rights and character limits for audiobook production.",
+    "slug": "best-ai-voice-generator-for-audiobooks-free",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to clone your voice with adobe podcast",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 310,
+    "est_difficulty": 17,
+    "format": "how-to",
+    "why_winnable": "Users are confused about Adobe's audio suite capabilities; a clear, step-by-step tutorial on their voice enhancement and cloning tools will capture early search intent.",
+    "search_promise": "A visual, step-by-step walkthrough of recording, uploading, and training your voice clone using Adobe's platform.",
+    "slug": "how-to-clone-your-voice-with-adobe-podcast",
+    "paid_tool": ""
+  },
+  {
     "keyword": "how to create animated video intros with runway gen 2",
     "cluster": "video-ai",
     "intent": "informational",
@@ -129,6 +69,18 @@
     "why_winnable": "Tutorial query where step-by-step clarity and visual prompts beat high-DA domain authority.",
     "search_promise": "Step-by-step prompt formula, seed settings guide, and camera movement parameters for sleek motion intros.",
     "slug": "how-to-create-animated-video-intros-with-runway-gen-2",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to clean background noise from podcast audio with ai",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 720,
+    "est_difficulty": 19,
+    "format": "how-to",
+    "why_winnable": "Low-competition instructional query dominated by outdated forum threads and generic audio editing blogs.",
+    "search_promise": "Step-by-step workflow comparing free and paid AI audio cleaners with before-and-after audio files.",
+    "slug": "how-to-clean-background-noise-from-podcast-audio-with-ai",
     "paid_tool": ""
   },
   {
@@ -152,6 +104,30 @@
     "why_winnable": "Motion designers are looking for precise prompt structures and camera control settings, which general news articles fail to provide.",
     "search_promise": "A step-by-step guide with exact prompt formulas and settings to generate clean, loopable motion graphics.",
     "slug": "how-to-use-runway-gen-3-for-motion-design",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to generate ai voiceovers for short clips free",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 590,
+    "est_difficulty": 29,
+    "format": "how-to",
+    "why_winnable": "Actionable workflow term for TikTok/Reels creators looking to avoid paid software subscriptions.",
+    "search_promise": "Quick 3-step walkthrough utilizing free voice tools and capcut export without subscription watermarks.",
+    "slug": "how-to-generate-ai-voiceovers-for-short-clips-free",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to translate youtube videos with ai dubbing",
+    "cluster": "voice-ai",
+    "intent": "informational",
+    "est_volume": 720,
+    "est_difficulty": 30,
+    "format": "how-to",
+    "why_winnable": "Creators are looking for global reach; this targets the 'how-to' intent which leads naturally to tool recommendations.",
+    "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
+    "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
     "paid_tool": ""
   },
   {
