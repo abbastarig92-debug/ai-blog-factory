@@ -1,41 +1,5 @@
 [
   {
-    "keyword": "how to connect n8n to google sheets for leads",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 290,
-    "est_difficulty": 20,
-    "format": "how-to",
-    "why_winnable": "Small businesses want to migrate away from expensive Zapier tasks; a clear n8n tutorial targeting lead capture is highly sought after.",
-    "search_promise": "A copy-pasteable n8n JSON workflow template that instantly maps webhook data directly to a Google Sheet.",
-    "slug": "how-to-connect-n8n-to-google-sheets-for-leads",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "synthesia vs hourone for corporate onboarding",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 210,
-    "est_difficulty": 19,
-    "format": "comparison",
-    "why_winnable": "Corporate buyers look for specific compliance and LMS integration details which general software review sites gloss over.",
-    "search_promise": "A direct comparison of avatar realism, SCORM/LMS export capabilities, and enterprise pricing structures.",
-    "slug": "synthesia-vs-hourone-for-corporate-onboarding",
-    "paid_tool": "Synthesia"
-  },
-  {
-    "keyword": "best ai video generator for local business marketing",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 25,
-    "format": "listicle",
-    "why_winnable": "Local agencies and small business owners need simple templates and stock footage integrations rather than complex prompt-to-video tools.",
-    "search_promise": "A curated list of 4 video generators that specialize in social media ads and local business promo templates.",
-    "slug": "best-ai-video-generator-for-local-business-marketing",
-    "paid_tool": ""
-  },
-  {
     "keyword": "best ai voice generator for audiobooks free",
     "cluster": "voice-ai",
     "intent": "commercial",
@@ -81,6 +45,18 @@
     "why_winnable": "Low-competition instructional query dominated by outdated forum threads and generic audio editing blogs.",
     "search_promise": "Step-by-step workflow comparing free and paid AI audio cleaners with before-and-after audio files.",
     "slug": "how-to-clean-background-noise-from-podcast-audio-with-ai",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to connect n8n to google sheets for leads",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 290,
+    "est_difficulty": 20,
+    "format": "how-to",
+    "why_winnable": "Small businesses want to migrate away from expensive Zapier tasks; a clear n8n tutorial targeting lead capture is highly sought after.",
+    "search_promise": "A copy-pasteable n8n JSON workflow template that instantly maps webhook data directly to a Google Sheet.",
+    "slug": "how-to-connect-n8n-to-google-sheets-for-leads",
     "paid_tool": ""
   },
   {
