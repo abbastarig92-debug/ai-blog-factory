@@ -1,41 +1,5 @@
 [
   {
-    "keyword": "best ai voice generator for audiobooks free",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 580,
-    "est_difficulty": 26,
-    "format": "listicle",
-    "why_winnable": "Indie authors searching for free options are highly likely to upgrade to paid tiers once they hit character limits, making this a great affiliate funnel.",
-    "search_promise": "A comparison of free tiers from top voice generators, focusing on commercial rights and character limits for audiobook production.",
-    "slug": "best-ai-voice-generator-for-audiobooks-free",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to clone your voice with adobe podcast",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 310,
-    "est_difficulty": 17,
-    "format": "how-to",
-    "why_winnable": "Users are confused about Adobe's audio suite capabilities; a clear, step-by-step tutorial on their voice enhancement and cloning tools will capture early search intent.",
-    "search_promise": "A visual, step-by-step walkthrough of recording, uploading, and training your voice clone using Adobe's platform.",
-    "slug": "how-to-clone-your-voice-with-adobe-podcast",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to create animated video intros with runway gen 2",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 310,
-    "est_difficulty": 18,
-    "format": "how-to",
-    "why_winnable": "Tutorial query where step-by-step clarity and visual prompts beat high-DA domain authority.",
-    "search_promise": "Step-by-step prompt formula, seed settings guide, and camera movement parameters for sleek motion intros.",
-    "slug": "how-to-create-animated-video-intros-with-runway-gen-2",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to clean background noise from podcast audio with ai",
     "cluster": "voice-ai",
     "intent": "informational",
@@ -60,29 +24,6 @@
     "paid_tool": ""
   },
   {
-    "keyword": "how to make faceless youtube videos with ai free",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 1400,
-    "est_difficulty": 28,
-    "format": "how-to",
-    "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
-    "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
-    "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
-  },
-  {
-    "keyword": "how to use runway gen 3 for motion design",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 520,
-    "est_difficulty": 28,
-    "format": "how-to",
-    "why_winnable": "Motion designers are looking for precise prompt structures and camera control settings, which general news articles fail to provide.",
-    "search_promise": "A step-by-step guide with exact prompt formulas and settings to generate clean, loopable motion graphics.",
-    "slug": "how-to-use-runway-gen-3-for-motion-design",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to generate ai voiceovers for short clips free",
     "cluster": "voice-ai",
     "intent": "informational",
@@ -104,6 +45,41 @@
     "why_winnable": "Creators are looking for global reach; this targets the 'how-to' intent which leads naturally to tool recommendations.",
     "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
     "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to create animated video intros with runway gen 2",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 310,
+    "est_difficulty": 18,
+    "format": "how-to",
+    "why_winnable": "Tutorial query where step-by-step clarity and visual prompts beat high-DA domain authority.",
+    "search_promise": "Step-by-step prompt formula, seed settings guide, and camera movement parameters for sleek motion intros.",
+    "slug": "how-to-create-animated-video-intros-with-runway-gen-2",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to make faceless youtube videos with ai free",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 1400,
+    "est_difficulty": 28,
+    "format": "how-to",
+    "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
+    "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
+    "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
+  },
+  {
+    "keyword": "how to use runway gen 3 for motion design",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 520,
+    "est_difficulty": 28,
+    "format": "how-to",
+    "why_winnable": "Motion designers are looking for precise prompt structures and camera control settings, which general news articles fail to provide.",
+    "search_promise": "A step-by-step guide with exact prompt formulas and settings to generate clean, loopable motion graphics.",
+    "slug": "how-to-use-runway-gen-3-for-motion-design",
     "paid_tool": ""
   },
   {
