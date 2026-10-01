@@ -638,5 +638,21 @@
     "keyword": "best ai voice generator for audiobooks free",
     "cluster": "voice-ai",
     "draft": false
+  },
+  {
+    "slug": "connect-n8n-google-sheets-leads",
+    "title": "How to Connect n8n to Google Sheets for Leads",
+    "date": "2026-10-01T11:40:35+00:00",
+    "keyword": "how to connect n8n to google sheets for leads",
+    "cluster": "automation",
+    "draft": false
+  },
+  {
+    "slug": "clean-podcast-audio-noise-ai",
+    "title": "How to Clean Background Noise from Podcast Audio with AI",
+    "date": "2026-10-01T11:50:11+00:00",
+    "keyword": "how to clean background noise from podcast audio with ai",
+    "cluster": "voice-ai",
+    "draft": false
   }
 ]

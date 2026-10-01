@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "how to clean background noise from podcast audio with ai",
-    "cluster": "voice-ai",
-    "intent": "informational",
-    "est_volume": 720,
-    "est_difficulty": 19,
-    "format": "how-to",
-    "why_winnable": "Low-competition instructional query dominated by outdated forum threads and generic audio editing blogs.",
-    "search_promise": "Step-by-step workflow comparing free and paid AI audio cleaners with before-and-after audio files.",
-    "slug": "how-to-clean-background-noise-from-podcast-audio-with-ai",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to connect n8n to google sheets for leads",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 290,
-    "est_difficulty": 20,
-    "format": "how-to",
-    "why_winnable": "Small businesses want to migrate away from expensive Zapier tasks; a clear n8n tutorial targeting lead capture is highly sought after.",
-    "search_promise": "A copy-pasteable n8n JSON workflow template that instantly maps webhook data directly to a Google Sheet.",
-    "slug": "how-to-connect-n8n-to-google-sheets-for-leads",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to generate ai voiceovers for short clips free",
     "cluster": "voice-ai",
     "intent": "informational",
