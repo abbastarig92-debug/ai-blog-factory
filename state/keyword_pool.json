@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "best ai writing tool for amazon affiliate niche sites",
-    "cluster": "writing-ai",
-    "intent": "commercial",
-    "est_volume": 550,
-    "est_difficulty": 27,
-    "format": "listicle",
-    "why_winnable": "Niche site owners prioritize SEO-optimized formatting and product boxes which Koala AI excels at.",
-    "search_promise": "Review of writers that pull live Amazon data and format pros/cons lists automatically.",
-    "slug": "best-ai-writing-tool-for-amazon-affiliate-niche-sites",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "best ai seo tool for small shopify stores",
-    "cluster": "writing-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 29,
-    "format": "listicle",
-    "why_winnable": "Shopify owners need specific integrations (product descriptions/meta tags) that general SEO tools miss.",
-    "search_promise": "Comparison of AI tools that sync directly with Shopify to automate on-page SEO.",
-    "slug": "best-ai-seo-tool-for-small-shopify-stores",
-    "paid_tool": ""
-  },
-  {
     "keyword": "best zapier alternatives for small marketing agencies",
     "cluster": "automation",
     "intent": "commercial",
