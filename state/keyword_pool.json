@@ -12,18 +12,6 @@
     "paid_tool": ""
   },
   {
-    "keyword": "best ai image generator for children's book illustrations",
-    "cluster": "image-ai",
-    "intent": "commercial",
-    "est_volume": 550,
-    "est_difficulty": 27,
-    "format": "listicle",
-    "why_winnable": "Requires character consistency, a specific technical hurdle that allows for high-value advice.",
-    "search_promise": "Tools and prompts that maintain the same character across multiple storybook pages.",
-    "slug": "best-ai-image-generator-for-childrens-book-illustrations",
-    "paid_tool": ""
-  },
-  {
     "keyword": "best ai seo tool for small shopify stores",
     "cluster": "writing-ai",
     "intent": "commercial",
@@ -33,18 +21,6 @@
     "why_winnable": "Shopify owners need specific integrations (product descriptions/meta tags) that general SEO tools miss.",
     "search_promise": "Comparison of AI tools that sync directly with Shopify to automate on-page SEO.",
     "slug": "best-ai-seo-tool-for-small-shopify-stores",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to create professional headshots with ai for free",
-    "cluster": "image-ai",
-    "intent": "informational",
-    "est_volume": 1200,
-    "est_difficulty": 33,
-    "format": "how-to",
-    "why_winnable": "High search volume but can be won by showing a specific 'hack' using free tiers of tools like Aragon or Remini.",
-    "search_promise": "A walkthrough of the best free trials and open-source methods for LinkedIn-ready headshots.",
-    "slug": "how-to-create-professional-headshots-with-ai-for-free",
     "paid_tool": ""
   },
   {
