@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "best zapier alternatives for small marketing agencies",
-    "cluster": "automation",
-    "intent": "commercial",
-    "est_volume": 750,
-    "est_difficulty": 30,
-    "format": "alternatives",
-    "why_winnable": "Agencies are price-sensitive to Zapier's task costs; they are actively looking for Make/n8n/Pabbly.",
-    "search_promise": "A cost-per-task breakdown comparing Zapier to more affordable agency-friendly alternatives.",
-    "slug": "best-zapier-alternatives-for-small-marketing-agencies",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "best n8n workflow for automated linkedin outreach",
-    "cluster": "automation",
-    "intent": "transactional",
-    "est_volume": 240,
-    "est_difficulty": 19,
-    "format": "listicle",
-    "why_winnable": "n8n users are technical and look for specific 'workflows' rather than general software reviews.",
-    "search_promise": "Downloadable JSON templates for connecting LinkedIn scrapers to AI personalization nodes.",
-    "slug": "best-n8n-workflow-for-automated-linkedin-outreach",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to build an ai research agent with n8n",
     "cluster": "automation",
     "intent": "informational",
