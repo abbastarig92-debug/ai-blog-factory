@@ -710,5 +710,21 @@
     "keyword": "best n8n workflow for automated linkedin outreach",
     "cluster": "automation",
     "draft": true
+  },
+  {
+    "slug": "is-speechify-worth-it-voice-actors",
+    "title": "Is Speechify Worth It for Professional Voice Actors? Review",
+    "date": "2026-10-03T17:43:42+00:00",
+    "keyword": "is speechify worth it for professional voice actors",
+    "cluster": "voice-ai",
+    "draft": false
+  },
+  {
+    "slug": "speechify-vs-pocket-audio-articles",
+    "title": "Speechify vs Pocket for Saving Articles to Audio",
+    "date": "2026-10-03T17:46:27+00:00",
+    "keyword": "speechify vs pocket for saving articles to audio",
+    "cluster": "voice-ai",
+    "draft": false
   }
 ]

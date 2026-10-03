@@ -1,53 +1,5 @@
 [
   {
-    "keyword": "how to build an ai research agent with n8n",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 310,
-    "est_difficulty": 21,
-    "format": "how-to",
-    "why_winnable": "'AI Agents' is a trending topic but n8n-specific implementations are still low-competition.",
-    "search_promise": "Step-by-step tutorial on using the n8n AI Agent node to scrape and summarize news.",
-    "slug": "how-to-build-an-ai-research-agent-with-n8n",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to automate wordpress posts with n8n and chatgpt",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 380,
-    "est_difficulty": 23,
-    "format": "how-to",
-    "why_winnable": "Specific tech stack (n8n + WP) is less competitive than 'Zapier + WP'.",
-    "search_promise": "A technical guide on setting up the webhook and the prompt engineering for full-length posts.",
-    "slug": "how-to-automate-wordpress-posts-with-n8n-and-chatgpt",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "is speechify worth it for professional voice actors",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 210,
-    "est_difficulty": 20,
-    "format": "review",
-    "why_winnable": "Niche audience (voice actors) looking for productivity tools to speed up script reading.",
-    "search_promise": "Analysis of how voice actors can use AI to proofread scripts and practice timing.",
-    "slug": "is-speechify-worth-it-for-professional-voice-actors",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "speechify vs pocket for saving articles to audio",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 400,
-    "est_difficulty": 24,
-    "format": "comparison",
-    "why_winnable": "Compares a premium tool (Speechify) with a common free alternative for a specific productivity habit.",
-    "search_promise": "A feature comparison focusing on natural voice quality and offline listening capabilities.",
-    "slug": "speechify-vs-pocket-for-saving-articles-to-audio",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "best elevenlabs alternatives for video game developers",
     "cluster": "voice-ai",
     "intent": "commercial",
@@ -212,6 +164,30 @@
     "why_winnable": "High search volume but fragmented competition; most results are generic and don't focus on the TikTok format.",
     "search_promise": "A 5-minute workflow using HeyGen or Synthesia to create viral-style vertical talking head clips.",
     "slug": "how-to-create-ai-talking-head-videos-for-tiktok",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to build an ai research agent with n8n",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 310,
+    "est_difficulty": 21,
+    "format": "how-to",
+    "why_winnable": "'AI Agents' is a trending topic but n8n-specific implementations are still low-competition.",
+    "search_promise": "Step-by-step tutorial on using the n8n AI Agent node to scrape and summarize news.",
+    "slug": "how-to-build-an-ai-research-agent-with-n8n",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to automate wordpress posts with n8n and chatgpt",
+    "cluster": "automation",
+    "intent": "informational",
+    "est_volume": 380,
+    "est_difficulty": 23,
+    "format": "how-to",
+    "why_winnable": "Specific tech stack (n8n + WP) is less competitive than 'Zapier + WP'.",
+    "search_promise": "A technical guide on setting up the webhook and the prompt engineering for full-length posts.",
+    "slug": "how-to-automate-wordpress-posts-with-n8n-and-chatgpt",
     "paid_tool": ""
   }
 ]
