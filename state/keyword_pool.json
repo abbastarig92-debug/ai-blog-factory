@@ -1,100 +1,5 @@
 [
   {
-    "keyword": "best ai video generator for instagram fashion brands",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 280,
-    "est_difficulty": 24,
-    "format": "listicle",
-    "why_winnable": "Fashion brands have specific aesthetic needs that general AI video tools often fail to meet.",
-    "search_promise": "Curated list of AI tools that excel at fabric texture and high-end aesthetic video generation.",
-    "slug": "best-ai-video-generator-for-instagram-fashion-brands",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to create animated video intros with runway gen 2",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 310,
-    "est_difficulty": 18,
-    "format": "how-to",
-    "why_winnable": "Tutorial query where step-by-step clarity and visual prompts beat high-DA domain authority.",
-    "search_promise": "Step-by-step prompt formula, seed settings guide, and camera movement parameters for sleek motion intros.",
-    "slug": "how-to-create-animated-video-intros-with-runway-gen-2",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to make faceless youtube videos with ai free",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 1400,
-    "est_difficulty": 28,
-    "format": "how-to",
-    "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
-    "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
-    "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
-  },
-  {
-    "keyword": "how to use runway gen 3 for motion design",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 520,
-    "est_difficulty": 28,
-    "format": "how-to",
-    "why_winnable": "Motion designers are looking for precise prompt structures and camera control settings, which general news articles fail to provide.",
-    "search_promise": "A step-by-step guide with exact prompt formulas and settings to generate clean, loopable motion graphics.",
-    "slug": "how-to-use-runway-gen-3-for-motion-design",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to create faceless youtube videos with invideo ai",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 900,
-    "est_difficulty": 31,
-    "format": "how-to",
-    "why_winnable": "High volume but specific to one tool, allowing for a deep-dive tutorial that outranks general lists.",
-    "search_promise": "Step-by-step workflow from script to final render using InVideo's stock library and AI.",
-    "slug": "how-to-create-faceless-youtube-videos-with-invideo-ai",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to create ai talking head videos for tiktok",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 850,
-    "est_difficulty": 33,
-    "format": "how-to",
-    "why_winnable": "High search volume but fragmented competition; most results are generic and don't focus on the TikTok format.",
-    "search_promise": "A 5-minute workflow using HeyGen or Synthesia to create viral-style vertical talking head clips.",
-    "slug": "how-to-create-ai-talking-head-videos-for-tiktok",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to build an ai research agent with n8n",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 310,
-    "est_difficulty": 21,
-    "format": "how-to",
-    "why_winnable": "'AI Agents' is a trending topic but n8n-specific implementations are still low-competition.",
-    "search_promise": "Step-by-step tutorial on using the n8n AI Agent node to scrape and summarize news.",
-    "slug": "how-to-build-an-ai-research-agent-with-n8n",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to automate wordpress posts with n8n and chatgpt",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 380,
-    "est_difficulty": 23,
-    "format": "how-to",
-    "why_winnable": "Specific tech stack (n8n + WP) is less competitive than 'Zapier + WP'.",
-    "search_promise": "A technical guide on setting up the webhook and the prompt engineering for full-length posts.",
-    "slug": "how-to-automate-wordpress-posts-with-n8n-and-chatgpt",
-    "paid_tool": ""
-  },
-  {
     "keyword": "best elevenlabs alternatives for video game developers",
     "cluster": "voice-ai",
     "intent": "commercial",
@@ -131,6 +36,30 @@
     "paid_tool": ""
   },
   {
+    "keyword": "best ai video generator for instagram fashion brands",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 280,
+    "est_difficulty": 24,
+    "format": "listicle",
+    "why_winnable": "Fashion brands have specific aesthetic needs that general AI video tools often fail to meet.",
+    "search_promise": "Curated list of AI tools that excel at fabric texture and high-end aesthetic video generation.",
+    "slug": "best-ai-video-generator-for-instagram-fashion-brands",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to create animated video intros with runway gen 2",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 310,
+    "est_difficulty": 18,
+    "format": "how-to",
+    "why_winnable": "Tutorial query where step-by-step clarity and visual prompts beat high-DA domain authority.",
+    "search_promise": "Step-by-step prompt formula, seed settings guide, and camera movement parameters for sleek motion intros.",
+    "slug": "how-to-create-animated-video-intros-with-runway-gen-2",
+    "paid_tool": ""
+  },
+  {
     "keyword": "how to use ai dubbing for multi language podcasts",
     "cluster": "voice-ai",
     "intent": "informational",
@@ -140,6 +69,29 @@
     "why_winnable": "Podcasters are actively looking to expand reach; this targets the 'how' rather than just the tool.",
     "search_promise": "A guide on maintaining voice consistency across languages using tools like ElevenLabs or Dubverse.",
     "slug": "how-to-use-ai-dubbing-for-multi-language-podcasts",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to make faceless youtube videos with ai free",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 1400,
+    "est_difficulty": 28,
+    "format": "how-to",
+    "why_winnable": "Existing guides are outdated or promote expensive tool stacks; a step-by-step 100% free stack guide can outrank bloated blog posts.",
+    "search_promise": "A complete 5-step workflow using totally free tiers (scripting, voice, b-roll, editing) with zero upfront costs.",
+    "slug": "how-to-make-faceless-youtube-videos-with-ai-free"
+  },
+  {
+    "keyword": "how to use runway gen 3 for motion design",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 520,
+    "est_difficulty": 28,
+    "format": "how-to",
+    "why_winnable": "Motion designers are looking for precise prompt structures and camera control settings, which general news articles fail to provide.",
+    "search_promise": "A step-by-step guide with exact prompt formulas and settings to generate clean, loopable motion graphics.",
+    "slug": "how-to-use-runway-gen-3-for-motion-design",
     "paid_tool": ""
   },
   {
@@ -164,6 +116,30 @@
     "why_winnable": "Creators are looking for global reach; this targets the 'how-to' intent which leads naturally to tool recommendations.",
     "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
     "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to create faceless youtube videos with invideo ai",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 900,
+    "est_difficulty": 31,
+    "format": "how-to",
+    "why_winnable": "High volume but specific to one tool, allowing for a deep-dive tutorial that outranks general lists.",
+    "search_promise": "Step-by-step workflow from script to final render using InVideo's stock library and AI.",
+    "slug": "how-to-create-faceless-youtube-videos-with-invideo-ai",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to create ai talking head videos for tiktok",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 850,
+    "est_difficulty": 33,
+    "format": "how-to",
+    "why_winnable": "High search volume but fragmented competition; most results are generic and don't focus on the TikTok format.",
+    "search_promise": "A 5-minute workflow using HeyGen or Synthesia to create viral-style vertical talking head clips.",
+    "slug": "how-to-create-ai-talking-head-videos-for-tiktok",
     "paid_tool": ""
   }
 ]

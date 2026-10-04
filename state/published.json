@@ -742,5 +742,21 @@
     "keyword": "synthesia vs heygen for personalized sales videos",
     "cluster": "video-ai",
     "draft": false
+  },
+  {
+    "slug": "build-ai-research-agent-n8n",
+    "title": "How to Build an AI Research Agent with n8n",
+    "date": "2026-10-04T17:56:47+00:00",
+    "keyword": "how to build an ai research agent with n8n",
+    "cluster": "automation",
+    "draft": false
+  },
+  {
+    "slug": "automate-wordpress-posts-n8n-chatgpt",
+    "title": "How to Automate WordPress Posts with n8n and ChatGPT",
+    "date": "2026-10-04T17:58:58+00:00",
+    "keyword": "how to automate wordpress posts with n8n and chatgpt",
+    "cluster": "automation",
+    "draft": false
   }
 ]
