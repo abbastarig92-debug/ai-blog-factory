@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "best ai voice generator for faceless horror channels",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 400,
-    "est_difficulty": 22,
-    "format": "listicle",
-    "why_winnable": "Horror niche requires specific 'creepy' or 'gravelly' tones that standard TTS tools lack.",
-    "search_promise": "A list of tools with specific voice presets perfect for scary storytelling and creepypastas.",
-    "slug": "best-ai-voice-generator-for-faceless-horror-channels",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "best ai video generator for instagram fashion brands",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 280,
-    "est_difficulty": 24,
-    "format": "listicle",
-    "why_winnable": "Fashion brands have specific aesthetic needs that general AI video tools often fail to meet.",
-    "search_promise": "Curated list of AI tools that excel at fabric texture and high-end aesthetic video generation.",
-    "slug": "best-ai-video-generator-for-instagram-fashion-brands",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to create animated video intros with runway gen 2",
     "cluster": "video-ai",
     "intent": "informational",
