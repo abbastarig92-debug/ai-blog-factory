@@ -1,7 +1,13 @@
 {
-  "published": [
-    "build-ai-research-agent-n8n",
-    "automate-wordpress-posts-n8n-chatgpt"
-  ],
-  "failed": []
+  "published": [],
+  "failed": [
+    {
+      "title": "6 Best ElevenLabs Alternatives for Video Game Developers (Low-Latency & Emotive)",
+      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini HTTP 503 على models/gemini-flash-latest:generateContent — {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "title": "ElevenLabs vs WellSaid Labs: The Best AI Voice Generator for Corporate Narration (2024)",
+      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini HTTP 503 على models/gemini-flash-latest:generateContent — {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    }
+  ]
 }

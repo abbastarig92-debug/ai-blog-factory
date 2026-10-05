@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "best elevenlabs alternatives for video game developers",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 320,
-    "est_difficulty": 25,
-    "format": "alternatives",
-    "why_winnable": "Game dev niche is underserved compared to general content creator keywords.",
-    "search_promise": "A list of low-latency, emotive AI voice tools suitable for NPC dialogue and indie games.",
-    "slug": "best-elevenlabs-alternatives-for-video-game-developers",
-    "paid_tool": "ElevenLabs"
-  },
-  {
-    "keyword": "elevenlabs vs wellsaid labs for corporate narration",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 28,
-    "format": "comparison",
-    "why_winnable": "Specific B2B use case avoids the high-competition general 'AI voice' terms.",
-    "search_promise": "A side-by-side audio quality and pricing comparison specifically for corporate training and narration.",
-    "slug": "elevenlabs-vs-wellsaid-labs-for-corporate-narration",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "best ai voice generator for faceless horror channels",
     "cluster": "voice-ai",
     "intent": "commercial",
