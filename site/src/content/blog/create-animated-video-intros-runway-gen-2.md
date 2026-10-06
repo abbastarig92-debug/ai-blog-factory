@@ -21,7 +21,7 @@ keyTakeaway: Treat the Runway Gen 2 prompt box as a technical camera directive r
   than a creative writing exercise to turn chaotic generation into a predictable workflow.
 faq:
 - q: What is the best prompt formula for Runway Gen 2 video intros?
-  A: Structure your prompt as [Subject/Core Asset] + [Cinematic Style/Lighting] +
+  a: Structure your prompt as [Subject/Core Asset] + [Cinematic Style/Lighting] +
     [Camera Motion Direction]. Treating the prompt as a technical camera directive
     eliminates random generations and yields predictable, professional results.
 wordCount: 1708
