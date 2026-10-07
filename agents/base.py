@@ -302,8 +302,53 @@ def parse_json(raw: str) -> Any:
 
 
 # ---------------------------------------------------------------- markdown
+def sanitize_front(front: dict) -> dict:
+    """يطبّع حقول الـ frontmatter قبل الكتابة حتى لا يفشل تحقق Astro.
+
+    نماذج اللغة تُخرج أحيانًا مفاتيح بحروف كبيرة (A بدل a) أو عناصر ناقصة،
+    فيسقط البناء كله على ملف واحد. هنا نطبّع ونسقط غير الصالح بصمت.
+    """
+    f = dict(front)
+
+    faq = []
+    for item in f.get("faq") or []:
+        if not isinstance(item, dict):
+            continue
+        n = {str(k).strip().lower(): v for k, v in item.items()}
+        q = n.get("q") or n.get("question")
+        a = n.get("a") or n.get("answer")
+        if isinstance(q, str) and isinstance(a, str) and q.strip() and a.strip():
+            faq.append({"q": q.strip(), "a": a.strip()})
+    f["faq"] = faq
+
+    sources = []
+    for s in f.get("sources") or []:
+        if not isinstance(s, dict):
+            continue
+        n = {str(k).strip().lower(): v for k, v in s.items()}
+        url = n.get("url")
+        if isinstance(url, str) and url.strip():
+            title = n.get("title")
+            sources.append({"title": title if isinstance(title, str) else None,
+                            "url": url.strip()})
+    f["sources"] = sources
+
+    f["tags"] = [t for t in (f.get("tags") or []) if isinstance(t, str) and t.strip()]
+    f["affiliateLinks"] = [t for t in (f.get("affiliateLinks") or [])
+                           if isinstance(t, str) and t.strip()]
+
+    if f.get("wordCount") is not None and not isinstance(f.get("wordCount"), int):
+        try:
+            f["wordCount"] = int(f["wordCount"])
+        except (TypeError, ValueError):
+            f.pop("wordCount", None)
+
+    return f
+
+
 def write_post(front: dict, body: str) -> pathlib.Path:
     CONTENT.mkdir(parents=True, exist_ok=True)
+    front = sanitize_front(front)
     path = CONTENT / f"{front['slug']}.md"
     fm = yaml.safe_dump(front, allow_unicode=True, sort_keys=False).strip()
     path.write_text(f"---\n{fm}\n---\n\n{body.strip()}\n", encoding="utf-8")
