@@ -1,7 +1,11 @@
 {
   "published": [
-    "create-animated-video-intros-runway-gen-2",
-    "faceless-youtube-videos-ai-free"
+    "elevenlabs-vs-fliki-youtube-voiceovers"
   ],
-  "failed": []
+  "failed": [
+    {
+      "title": "Koala Writer vs SEOwriting.ai: The Ultimate Niche Site Benchmark (With Real Costs & Formatting Tests)",
+      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini انتهت المهلة (90s) على models/gemini-flash-latest:generateContent — timeout"
+    }
+  ]
 }
