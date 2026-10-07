@@ -1,15 +1,15 @@
 [
   {
-    "keyword": "speechify vs murf ai for video voiceover",
-    "cluster": "voice-ai",
+    "keyword": "synthesia vs d-id for ai avatar videos",
+    "cluster": "video-ai",
     "intent": "commercial",
-    "est_volume": 290,
-    "est_difficulty": 24,
+    "est_volume": 450,
+    "est_difficulty": 27,
     "format": "comparison",
-    "why_winnable": "Most existing pages focus purely on Speechify's consumer reading app rather than Speechify Studio, creating a gap for a creator-centric video voiceover evaluation.",
-    "search_promise": "A creator-focused feature matrix contrasting voice emotional controls, commercial licensing terms, export audio fidelity, and pricing tiers for solo video editors.",
-    "slug": "speechify-vs-murf-ai-for-video-voiceover",
-    "paid_tool": "Speechify"
+    "why_winnable": "Big review aggregators like G2 provide generic user star ratings without testing actual lip-sync accuracy, rendering speeds, or video output resolution.",
+    "search_promise": "Direct video test embeds comparing facial micro-expressions, script-to-video workflow ease, custom avatar pricing, and clear recommendation based on business size.",
+    "slug": "synthesia-vs-d-id-for-ai-avatar-videos",
+    "paid_tool": "Synthesia"
   },
   {
     "keyword": "how to use ai dubbing for multi language podcasts",
@@ -21,6 +21,18 @@
     "why_winnable": "Podcasters are actively looking to expand reach; this targets the 'how' rather than just the tool.",
     "search_promise": "A guide on maintaining voice consistency across languages using tools like ElevenLabs or Dubverse.",
     "slug": "how-to-use-ai-dubbing-for-multi-language-podcasts",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "how to use runway gen 3 for motion design",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 520,
+    "est_difficulty": 28,
+    "format": "how-to",
+    "why_winnable": "Motion designers are looking for precise prompt structures and camera control settings, which general news articles fail to provide.",
+    "search_promise": "A step-by-step guide with exact prompt formulas and settings to generate clean, loopable motion graphics.",
+    "slug": "how-to-use-runway-gen-3-for-motion-design",
     "paid_tool": ""
   },
   {
@@ -45,42 +57,6 @@
     "why_winnable": "Creators are looking for global reach; this targets the 'how-to' intent which leads naturally to tool recommendations.",
     "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
     "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "best synthesia alternatives for solo content creators",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 260,
-    "est_difficulty": 22,
-    "format": "alternatives",
-    "why_winnable": "Enterprise AI video alternatives target corporate L&D teams; a list specifically filtered for single-operator pricing, fast turnaround, and YouTube monetization targets underserved creator queries.",
-    "search_promise": "A curated shortlist of 4 budget-friendly avatar tools with exact monthly entry costs, free tier limitations, and which tool provides the closest quality to Synthesia's studio avatars.",
-    "slug": "best-synthesia-alternatives-for-solo-content-creators",
-    "paid_tool": "Synthesia"
-  },
-  {
-    "keyword": "synthesia vs d-id for ai avatar videos",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 27,
-    "format": "comparison",
-    "why_winnable": "Big review aggregators like G2 provide generic user star ratings without testing actual lip-sync accuracy, rendering speeds, or video output resolution.",
-    "search_promise": "Direct video test embeds comparing facial micro-expressions, script-to-video workflow ease, custom avatar pricing, and clear recommendation based on business size.",
-    "slug": "synthesia-vs-d-id-for-ai-avatar-videos",
-    "paid_tool": "Synthesia"
-  },
-  {
-    "keyword": "how to use runway gen 3 for motion design",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 520,
-    "est_difficulty": 28,
-    "format": "how-to",
-    "why_winnable": "Motion designers are looking for precise prompt structures and camera control settings, which general news articles fail to provide.",
-    "search_promise": "A step-by-step guide with exact prompt formulas and settings to generate clean, loopable motion graphics.",
-    "slug": "how-to-use-runway-gen-3-for-motion-design",
     "paid_tool": ""
   },
   {

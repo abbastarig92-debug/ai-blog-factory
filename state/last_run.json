@@ -1,11 +1,7 @@
 {
   "published": [
-    "elevenlabs-vs-fliki-youtube-voiceovers"
+    "best-synthesia-alternatives-solo-creators",
+    "speechify-vs-murf-ai-video-voiceover"
   ],
-  "failed": [
-    {
-      "title": "Koala Writer vs SEOwriting.ai: The Ultimate Niche Site Benchmark (With Real Costs & Formatting Tests)",
-      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini انتهت المهلة (90s) على models/gemini-flash-latest:generateContent — timeout"
-    }
-  ]
+  "failed": []
 }
