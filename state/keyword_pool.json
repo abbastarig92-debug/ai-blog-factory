@@ -1,5 +1,41 @@
 [
   {
+    "keyword": "synthesia vs hour one for virtual brand ambassadors",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 210,
+    "est_difficulty": 19,
+    "format": "comparison",
+    "why_winnable": "Targets the specific 'brand ambassador' use case rather than general 'AI video,' allowing a new site to rank for high-intent business queries where G2 and larger sites lack depth.",
+    "search_promise": "Side-by-side video samples of avatars from both platforms and a breakdown of commercial usage rights for marketing teams.",
+    "slug": "synthesia-vs-hour-one-for-virtual-brand-ambassadors",
+    "paid_tool": "Synthesia"
+  },
+  {
+    "keyword": "elevenlabs vs rask ai for automated video dubbing",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 320,
+    "est_difficulty": 24,
+    "format": "comparison",
+    "why_winnable": "While ElevenLabs is a leader, Rask AI is a niche competitor specifically for dubbing; this head-to-head avoids generic 'voiceover' competition and targets users ready to pay for translation.",
+    "search_promise": "A direct comparison of translation accuracy, lip-sync quality, and per-minute pricing for multi-language video creators.",
+    "slug": "elevenlabs-vs-rask-ai-for-automated-video-dubbing",
+    "paid_tool": "ElevenLabs"
+  },
+  {
+    "keyword": "best speechify alternatives for listening to academic research papers",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 26,
+    "format": "alternatives",
+    "why_winnable": "Academic users have specific needs (LaTeX support, PDF handling) that general productivity reviews ignore, creating a gap for a specialized listicle.",
+    "search_promise": "A curated list of TTS tools that specifically handle complex citations, footnotes, and multi-column academic PDF layouts better than Speechify.",
+    "slug": "best-speechify-alternatives-for-listening-to-academic-research-papers",
+    "paid_tool": "Speechify"
+  },
+  {
     "keyword": "synthesia vs d-id for ai avatar videos",
     "cluster": "video-ai",
     "intent": "commercial",
