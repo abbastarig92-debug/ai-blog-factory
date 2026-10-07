@@ -24,7 +24,7 @@ MIN_POOL = 8
 
 
 def cmd_scout():
-    return scout.run(limit=20)
+    return scout.run(limit=5)
 
 
 def cmd_plan():
