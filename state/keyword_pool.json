@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "best speechify alternatives for listening to academic research papers",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 26,
-    "format": "alternatives",
-    "why_winnable": "Academic users have specific needs (LaTeX support, PDF handling) that general productivity reviews ignore, creating a gap for a specialized listicle.",
-    "search_promise": "A curated list of TTS tools that specifically handle complex citations, footnotes, and multi-column academic PDF layouts better than Speechify.",
-    "slug": "best-speechify-alternatives-for-listening-to-academic-research-papers",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "synthesia vs d-id for ai avatar videos",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 27,
-    "format": "comparison",
-    "why_winnable": "Big review aggregators like G2 provide generic user star ratings without testing actual lip-sync accuracy, rendering speeds, or video output resolution.",
-    "search_promise": "Direct video test embeds comparing facial micro-expressions, script-to-video workflow ease, custom avatar pricing, and clear recommendation based on business size.",
-    "slug": "synthesia-vs-d-id-for-ai-avatar-videos",
-    "paid_tool": "Synthesia"
-  },
-  {
     "keyword": "how to use ai dubbing for multi language podcasts",
     "cluster": "voice-ai",
     "intent": "informational",
