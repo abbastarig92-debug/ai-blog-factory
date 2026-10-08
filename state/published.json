@@ -806,5 +806,21 @@
     "keyword": "speechify vs murf ai for video voiceover",
     "cluster": "voice-ai",
     "draft": true
+  },
+  {
+    "slug": "synthesia-vs-hour-one-brand-ambassadors",
+    "title": "Synthesia vs Hour One for Virtual Brand Ambassadors",
+    "date": "2026-10-08T11:55:55+00:00",
+    "keyword": "synthesia vs hour one for virtual brand ambassadors",
+    "cluster": "video-ai",
+    "draft": false
+  },
+  {
+    "slug": "elevenlabs-vs-rask-ai-video-dubbing",
+    "title": "ElevenLabs vs Rask AI for Automated Video Dubbing: Tested",
+    "date": "2026-10-08T12:00:41+00:00",
+    "keyword": "elevenlabs vs rask ai for automated video dubbing",
+    "cluster": "voice-ai",
+    "draft": false
   }
 ]
