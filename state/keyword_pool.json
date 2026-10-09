@@ -1,5 +1,17 @@
 [
   {
+    "keyword": "how to create ai talking head videos for tiktok",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 850,
+    "est_difficulty": 33,
+    "format": "how-to",
+    "why_winnable": "High search volume but fragmented competition; most results are generic and don't focus on the TikTok format.",
+    "search_promise": "A 5-minute workflow using HeyGen or Synthesia to create viral-style vertical talking head clips.",
+    "slug": "how-to-create-ai-talking-head-videos-for-tiktok",
+    "paid_tool": ""
+  },
+  {
     "keyword": "elevenlabs vs speechify for text to speech",
     "cluster": "voice-ai",
     "intent": "commercial",
@@ -36,18 +48,6 @@
     "paid_tool": ""
   },
   {
-    "keyword": "how to use runway gen 3 for motion design",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 520,
-    "est_difficulty": 28,
-    "format": "how-to",
-    "why_winnable": "Motion designers are looking for precise prompt structures and camera control settings, which general news articles fail to provide.",
-    "search_promise": "A step-by-step guide with exact prompt formulas and settings to generate clean, loopable motion graphics.",
-    "slug": "how-to-use-runway-gen-3-for-motion-design",
-    "paid_tool": ""
-  },
-  {
     "keyword": "how to generate ai voiceovers for short clips free",
     "cluster": "voice-ai",
     "intent": "informational",
@@ -69,30 +69,6 @@
     "why_winnable": "Creators are looking for global reach; this targets the 'how-to' intent which leads naturally to tool recommendations.",
     "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
     "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to create faceless youtube videos with invideo ai",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 900,
-    "est_difficulty": 31,
-    "format": "how-to",
-    "why_winnable": "High volume but specific to one tool, allowing for a deep-dive tutorial that outranks general lists.",
-    "search_promise": "Step-by-step workflow from script to final render using InVideo's stock library and AI.",
-    "slug": "how-to-create-faceless-youtube-videos-with-invideo-ai",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "how to create ai talking head videos for tiktok",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 850,
-    "est_difficulty": 33,
-    "format": "how-to",
-    "why_winnable": "High search volume but fragmented competition; most results are generic and don't focus on the TikTok format.",
-    "search_promise": "A 5-minute workflow using HeyGen or Synthesia to create viral-style vertical talking head clips.",
-    "slug": "how-to-create-ai-talking-head-videos-for-tiktok",
     "paid_tool": ""
   }
 ]
