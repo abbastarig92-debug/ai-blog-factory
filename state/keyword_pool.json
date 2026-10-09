@@ -1,5 +1,29 @@
 [
   {
+    "keyword": "elevenlabs vs speechify for text to speech",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 26,
+    "format": "comparison",
+    "why_winnable": "This head-to-head targets users torn between ElevenLabs' hyper-realistic voice generation and Speechify's reading productivity features, allowing us to earn commissions on both tools.",
+    "search_promise": "A clear breakdown of when to choose ElevenLabs (for content creation and voice acting) versus Speechify (for reading speed and document consumption).",
+    "slug": "elevenlabs-vs-speechify-for-text-to-speech",
+    "paid_tool": "ElevenLabs"
+  },
+  {
+    "keyword": "best ai voice generator for e learning courses",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 380,
+    "est_difficulty": 24,
+    "format": "listicle",
+    "why_winnable": "Course creators need natural-sounding, clear voices for long-form educational content. This commercial intent keyword allows us to rank above generic tech blogs by focusing purely on educational use cases.",
+    "search_promise": "A ranked list of the top AI voice generators evaluated specifically on pronunciation accuracy, multi-language support, and pricing for long-form course narration.",
+    "slug": "best-ai-voice-generator-for-e-learning-courses",
+    "paid_tool": ""
+  },
+  {
     "keyword": "how to use ai dubbing for multi language podcasts",
     "cluster": "voice-ai",
     "intent": "informational",
