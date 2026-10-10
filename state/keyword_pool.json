@@ -1,17 +1,5 @@
 [
   {
-    "keyword": "speechify vs naturalreader for productivity",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 400,
-    "est_difficulty": 26,
-    "format": "comparison",
-    "why_winnable": "Search results show outdated generic software reviews rather than focused workflows evaluating PDF reading, Chrome extension responsiveness, and playback speeds.",
-    "search_promise": "Direct feature matrix comparing Speechify and NaturalReader for document parsing, realistic voice speeds up to 3x, mobile sync, and subscription value.",
-    "slug": "speechify-vs-naturalreader-for-productivity",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "best elevenlabs alternatives for character voices",
     "cluster": "voice-ai",
     "intent": "commercial",
@@ -82,18 +70,6 @@
     "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
     "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
     "paid_tool": ""
-  },
-  {
-    "keyword": "synthesia vs heygen for corporate training",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 24,
-    "format": "comparison",
-    "why_winnable": "Major software aggregators cover high-level brand comparisons without testing specific enterprise L&D features like SCORM export and multi-language lip sync.",
-    "search_promise": "A side-by-side breakdown comparing Synthesia and HeyGen on avatar realism, SCORM LMS integration, bulk localization costs, and final verdict for training teams.",
-    "slug": "synthesia-vs-heygen-for-corporate-training",
-    "paid_tool": "Synthesia"
   },
   {
     "keyword": "how to create ai talking head videos for tiktok",

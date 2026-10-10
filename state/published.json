@@ -886,5 +886,21 @@
     "keyword": "elevenlabs vs speechify for text to speech",
     "cluster": "voice-ai",
     "draft": false
+  },
+  {
+    "slug": "synthesia-vs-heygen-for-corporate-training",
+    "title": "Synthesia vs HeyGen for Corporate Training: Which Wins?",
+    "date": "2026-10-10T18:10:42+00:00",
+    "keyword": "synthesia vs heygen for corporate training",
+    "cluster": "video-ai",
+    "draft": false
+  },
+  {
+    "slug": "speechify-vs-naturalreader-for-productivity",
+    "title": "Speechify vs NaturalReader for Productivity: Ranked",
+    "date": "2026-10-10T18:12:39+00:00",
+    "keyword": "speechify vs naturalreader for productivity",
+    "cluster": "voice-ai",
+    "draft": false
   }
 ]
