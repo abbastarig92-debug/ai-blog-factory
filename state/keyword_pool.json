@@ -1,27 +1,39 @@
 [
   {
-    "keyword": "how to create ai talking head videos for tiktok",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 850,
-    "est_difficulty": 33,
-    "format": "how-to",
-    "why_winnable": "High search volume but fragmented competition; most results are generic and don't focus on the TikTok format.",
-    "search_promise": "A 5-minute workflow using HeyGen or Synthesia to create viral-style vertical talking head clips.",
-    "slug": "how-to-create-ai-talking-head-videos-for-tiktok",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "elevenlabs vs speechify for text to speech",
+    "keyword": "speechify vs naturalreader for productivity",
     "cluster": "voice-ai",
     "intent": "commercial",
-    "est_volume": 450,
+    "est_volume": 400,
     "est_difficulty": 26,
     "format": "comparison",
-    "why_winnable": "This head-to-head targets users torn between ElevenLabs' hyper-realistic voice generation and Speechify's reading productivity features, allowing us to earn commissions on both tools.",
-    "search_promise": "A clear breakdown of when to choose ElevenLabs (for content creation and voice acting) versus Speechify (for reading speed and document consumption).",
-    "slug": "elevenlabs-vs-speechify-for-text-to-speech",
+    "why_winnable": "Search results show outdated generic software reviews rather than focused workflows evaluating PDF reading, Chrome extension responsiveness, and playback speeds.",
+    "search_promise": "Direct feature matrix comparing Speechify and NaturalReader for document parsing, realistic voice speeds up to 3x, mobile sync, and subscription value.",
+    "slug": "speechify-vs-naturalreader-for-productivity",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "best elevenlabs alternatives for character voices",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 320,
+    "est_difficulty": 28,
+    "format": "alternatives",
+    "why_winnable": "Broad queries like best voice generators are crowded, but creators seeking expressive dialogue and fantasy game voices encounter few comprehensive niche roundups.",
+    "search_promise": "Curated shortlist of tools offering granular emotional control, accent modulation, and commercial licensing for animation and indie game voice acting.",
+    "slug": "best-elevenlabs-alternatives-for-character-voices",
     "paid_tool": "ElevenLabs"
+  },
+  {
+    "keyword": "best ai voice generator for video sales letters",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 260,
+    "est_difficulty": 19,
+    "format": "listicle",
+    "why_winnable": "Most generic TTS listicles ignore direct response marketing criteria such as pacing, urgency inflections, and conversational credibility required for VSL conversions.",
+    "search_promise": "Tested recommendations of high-converting AI voices specifically tuned for pacing, persuasive emphasis, and retention in commercial video sales letters.",
+    "slug": "best-ai-voice-generator-for-video-sales-letters",
+    "paid_tool": ""
   },
   {
     "keyword": "best ai voice generator for e learning courses",
@@ -69,6 +81,30 @@
     "why_winnable": "Creators are looking for global reach; this targets the 'how-to' intent which leads naturally to tool recommendations.",
     "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
     "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "synthesia vs heygen for corporate training",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 24,
+    "format": "comparison",
+    "why_winnable": "Major software aggregators cover high-level brand comparisons without testing specific enterprise L&D features like SCORM export and multi-language lip sync.",
+    "search_promise": "A side-by-side breakdown comparing Synthesia and HeyGen on avatar realism, SCORM LMS integration, bulk localization costs, and final verdict for training teams.",
+    "slug": "synthesia-vs-heygen-for-corporate-training",
+    "paid_tool": "Synthesia"
+  },
+  {
+    "keyword": "how to create ai talking head videos for tiktok",
+    "cluster": "video-ai",
+    "intent": "informational",
+    "est_volume": 850,
+    "est_difficulty": 33,
+    "format": "how-to",
+    "why_winnable": "High search volume but fragmented competition; most results are generic and don't focus on the TikTok format.",
+    "search_promise": "A 5-minute workflow using HeyGen or Synthesia to create viral-style vertical talking head clips.",
+    "slug": "how-to-create-ai-talking-head-videos-for-tiktok",
     "paid_tool": ""
   }
 ]
