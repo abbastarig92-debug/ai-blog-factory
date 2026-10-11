@@ -2552,5 +2552,52 @@
     "slug": "speechify-vs-naturalreader-for-productivity",
     "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/speechify-vs-naturalreader-for-productivity/",
     "status": "queued"
+  },
+  {
+    "x": "If you generate under 50 posts/mo, Koala AI's 1-click publishing is worth the premium. Need 500+? Cuppa AI slashes generation costs by over 70% using your own API keys. We benchmarked both tools: https://abbastarig92-debug.github.io/ai-blog-factory/blog/koala-ai-vs-cuppa-ai-blogging/",
+    "linkedin": "Testing AI blogging tools at scale reveals a massive trade-off between convenience and unit economics.\n\nKoala AI takes the crown for turnkey simplicity—giving content teams native WordPress publishing, built-in Amazon affiliate features, and zero API setup required.\n\nHowever, if you are scaling past dozens of articles a month, Cuppa AI's bring-your-own-key model drastically slashes cost per word. Read our full benchmark test here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/koala-ai-vs-cuppa-ai-blogging/",
+    "reddit": {
+      "subreddit_suggestions": [
+        "r/Blogging",
+        "r/SEO",
+        "r/AffiliateMarketing"
+      ],
+      "title": "Tested Koala AI vs Cuppa AI for programmatic blogging: Turnkey convenience vs API unit economics",
+      "comment_first_body": "Ran a head-to-head comparison between Koala AI and Cuppa AI for automated article generation.\n\nKey takeaways from the test:\n- Koala AI is best for hands-off publishing. Integrated WordPress posting, built-in SERP analysis, and web scraping make it completely turnkey.\n- Cuppa AI dominates on cost for high volume. Because it uses your own OpenAI/Claude API keys, article costs drop significantly once you scale past 50+ posts per month.\n\nFull benchmark breakdown and workflow comparison: https://abbastarig92-debug.github.io/ai-blog-factory/blog/koala-ai-vs-cuppa-ai-blogging/"
+    },
+    "newsletter": "Choosing the right AI article generator usually comes down to two priorities: speed or margins. We recently put Koala AI and Cuppa AI head-to-head in a real-world automated blogging test to see where each shines. Koala AI remains the top choice for solopreneurs and niche site creators who want zero-friction publishing. Its native WordPress integration and automated internal linking mean you can generate and publish fully formatted articles in one click. But for agencies and portfolio managers producing hundreds of posts a month, Cuppa AI’s bring-your-own-API-key model delivers unbeatable unit economics. Check out our detailed comparison to decide which tool fits your current publishing volume.",
+    "pinterest": "Koala AI vs Cuppa AI: Which AI writer is best for your blog? See our test on ease of use, cost per article, and publishing features. https://abbastarig92-debug.github.io/ai-blog-factory/blog/koala-ai-vs-cuppa-ai-blogging/",
+    "quora_targets": [
+      "What is the best AI tool for automated blogging?",
+      "Is Koala AI worth it for blogging?",
+      "How does Cuppa AI compare to Koala AI?",
+      "What are the cheapest AI content generators for high volume SEO?"
+    ],
+    "slug": "koala-ai-vs-cuppa-ai-blogging",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/koala-ai-vs-cuppa-ai-blogging/",
+    "status": "queued"
+  },
+  {
+    "x": "1 video can automatically generate 5 platform-native assets: blog post, newsletter, X thread, and LinkedIn copy. Here is how to wire the entire pipeline locally using n8n and an LLM API: https://abbastarig92-debug.github.io/ai-blog-factory/blog/build-automated-content-repurposing-workflow-n8n/",
+    "linkedin": "Most content teams burn 10+ hours a week manually rewriting long-form video into newsletters, social posts, and summaries. The friction isn't creative strategy—it's mechanical translation.\n\nIn this guide, we map out a self-hosted n8n workflow that ingests a raw video file, runs it through automated transcription, and uses structured LLM prompts to output formatted multi-channel copy into your CMS.\n\nStep-by-step logic, prompt templates, and architecture diagram here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/build-automated-content-repurposing-workflow-n8n/ #n8n #Automation",
+    "reddit": {
+      "subreddit_suggestions": [
+        "r/n8n",
+        "r/automation",
+        "r/ContentStrategy"
+      ],
+      "title": "Built an n8n pipeline that turns 1 video into 5 distribution formats (breakdown + node setup)",
+      "comment_first_body": "Instead of manually writing Twitter threads and LinkedIn posts from video transcripts, I built a self-hosted n8n workflow. The flow: 1) Webhook catches video upload to Drive, 2) Whisper handles transcription, 3) LLM node formats output based on strict JSON schemas for each platform, 4) Drafts push to Notion for final human review. Full node-by-node setup and prompts here: https://abbastarig92-debug.github.io/ai-blog-factory/blog/build-automated-content-repurposing-workflow-n8n/"
+    },
+    "newsletter": "Repurposing content usually collapses under manual busywork. You record a solid 15-minute video, but drafting the blog post, LinkedIn takeaway, and newsletter version takes hours you don't have.\n\nYou can automate almost all of this mechanically with n8n. In our latest technical breakdown, we show you how to build a zero-maintenance distribution engine:\n- Automated audio extraction and transcription\n- Structured LLM prompting to prevent generic AI output\n- Auto-routing platform-specific drafts directly into Notion for a quick human review\n\nIt lets one piece of core creative do the work of five without burning out your editorial team.\n\nRead the full tutorial: https://abbastarig92-debug.github.io/ai-blog-factory/blog/build-automated-content-repurposing-workflow-n8n/",
+    "pinterest": "Automate content repurposing with n8n. Turn 1 video into blog posts, newsletters, and social copy using Whisper transcription and LLM nodes.",
+    "quora_targets": [
+      "How do you automate content repurposing using n8n?",
+      "What is the best workflow to turn YouTube videos into blog posts and social media copy?",
+      "How can I build an automated content pipeline using open-source tools?"
+    ],
+    "slug": "build-automated-content-repurposing-workflow-n8n",
+    "url": "https://abbastarig92-debug.github.io/ai-blog-factory/blog/build-automated-content-repurposing-workflow-n8n/",
+    "status": "queued"
   }
 ]

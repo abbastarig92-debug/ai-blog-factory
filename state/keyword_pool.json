@@ -1,5 +1,29 @@
 [
   {
+    "keyword": "speechify vs naturalreader for students with dyslexia",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 520,
+    "est_difficulty": 22,
+    "format": "comparison",
+    "why_winnable": "High commercial intent query targeted at a specific accessibility audience where major SEO publishers provide high-level overviews without analyzing specialized visual tracking features.",
+    "search_promise": "Feature breakdown comparing dyslexic-friendly fonts, text-highlighting sync accuracy, optical character recognition (OCR) on physical textbooks, and student discount pricing.",
+    "slug": "speechify-vs-naturalreader-for-students-with-dyslexia",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "is elevenlabs worth it for audiobook narrators",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 380,
+    "est_difficulty": 24,
+    "format": "review",
+    "why_winnable": "Audiobook creators demand technical specificity on long-form voice stability and licensing terms that high-level SaaS review aggregator sites fail to answer directly.",
+    "search_promise": "Cost analysis of per-character pricing vs human recording rates, long-form emotional consistency tests, and Audible ACX technical compliance verification.",
+    "slug": "is-elevenlabs-worth-it-for-audiobook-narrators",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "best elevenlabs alternatives for character voices",
     "cluster": "voice-ai",
     "intent": "commercial",
