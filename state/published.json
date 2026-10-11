@@ -918,5 +918,21 @@
     "keyword": "how to build an automated content repurposing workflow in n8n",
     "cluster": "automation",
     "draft": false
+  },
+  {
+    "slug": "speechify-vs-naturalreader-dyslexia-students",
+    "title": "Speechify vs NaturalReader for Students With Dyslexia",
+    "date": "2026-10-11T18:38:12+00:00",
+    "keyword": "speechify vs naturalreader for students with dyslexia",
+    "cluster": "voice-ai",
+    "draft": false
+  },
+  {
+    "slug": "is-elevenlabs-worth-it-audiobook-narrators",
+    "title": "Is ElevenLabs Worth It for Audiobook Narrators? Cost vs. Time",
+    "date": "2026-10-11T18:43:12+00:00",
+    "keyword": "is elevenlabs worth it for audiobook narrators",
+    "cluster": "voice-ai",
+    "draft": true
   }
 ]
