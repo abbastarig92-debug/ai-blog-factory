@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "how to create ai talking head videos for tiktok",
-    "cluster": "video-ai",
-    "intent": "informational",
-    "est_volume": 850,
-    "est_difficulty": 33,
-    "format": "how-to",
-    "why_winnable": "High search volume but fragmented competition; most results are generic and don't focus on the TikTok format.",
-    "search_promise": "A 5-minute workflow using HeyGen or Synthesia to create viral-style vertical talking head clips.",
-    "slug": "how-to-create-ai-talking-head-videos-for-tiktok",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "best elevenlabs alternatives for faceless history channels",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 220,
-    "est_difficulty": 20,
-    "format": "alternatives",
-    "why_winnable": "Targets a specific YouTube sub-genre (history) that requires a particular narrative tone and gravitas, making the recommendation highly relevant.",
-    "search_promise": "A comparison of AI voices that offer the gravitas and narrative quality required for historical documentaries.",
-    "slug": "best-elevenlabs-alternatives-for-faceless-history-channels",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "best speechify alternatives for students with dyslexia",
     "cluster": "voice-ai",
     "intent": "commercial",
