@@ -82,5 +82,53 @@
     "search_promise": "A 5-minute workflow using HeyGen or Synthesia to create viral-style vertical talking head clips.",
     "slug": "how-to-create-ai-talking-head-videos-for-tiktok",
     "paid_tool": ""
+  },
+  {
+    "keyword": "koala ai review for food bloggers",
+    "cluster": "writing-ai",
+    "intent": "commercial",
+    "est_volume": 250,
+    "est_difficulty": 18,
+    "format": "review",
+    "why_winnable": "Targets a specific sub-niche (food blogging) that requires unique formatting like recipe schema, which general AI reviews ignore.",
+    "search_promise": "A detailed look at how Koala AI handles recipe formatting, SEO-optimized intros, and niche food terminology.",
+    "slug": "koala-ai-review-for-food-bloggers",
+    "paid_tool": "Koala AI"
+  },
+  {
+    "keyword": "best speechify alternatives for students with dyslexia",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 22,
+    "format": "alternatives",
+    "why_winnable": "Focuses on accessibility and educational use cases rather than general productivity, avoiding competition with high-authority tech blogs.",
+    "search_promise": "A review of the top text-to-speech tools featuring dyslexia-friendly fonts, line highlighting, and natural reading speeds.",
+    "slug": "best-speechify-alternatives-for-students-with-dyslexia",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "best elevenlabs alternatives for faceless history channels",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 220,
+    "est_difficulty": 20,
+    "format": "alternatives",
+    "why_winnable": "Targets a specific YouTube sub-genre (history) that requires a particular narrative tone and gravitas, making the recommendation highly relevant.",
+    "search_promise": "A comparison of AI voices that offer the gravitas and narrative quality required for historical documentaries.",
+    "slug": "best-elevenlabs-alternatives-for-faceless-history-channels",
+    "paid_tool": "ElevenLabs"
+  },
+  {
+    "keyword": "how to automate shopify product descriptions with koala ai",
+    "cluster": "automation",
+    "intent": "transactional",
+    "est_volume": 280,
+    "est_difficulty": 15,
+    "format": "how-to",
+    "why_winnable": "Solves a specific pain point for e-commerce owners (bulk content creation) with a direct tool-to-platform workflow.",
+    "search_promise": "A step-by-step guide to using Koala AI's bulk generation tool to create and sync SEO-optimized product copy to Shopify.",
+    "slug": "how-to-automate-shopify-product-descriptions-with-koala-ai",
+    "paid_tool": "Koala AI"
   }
 ]
