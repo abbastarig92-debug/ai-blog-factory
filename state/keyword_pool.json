@@ -1,5 +1,17 @@
 [
   {
+    "keyword": "is speechify worth it for language learners",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 400,
+    "est_difficulty": 19,
+    "format": "review",
+    "why_winnable": "High intent for people trying to justify the subscription for educational purposes; low competition from major review sites.",
+    "search_promise": "An evaluation of Speechify's natural reading speed and pronunciation accuracy for Spanish, French, and German learners.",
+    "slug": "is-speechify-worth-it-for-language-learners",
+    "paid_tool": "Speechify"
+  },
+  {
     "keyword": "best speechify alternatives for students with dyslexia",
     "cluster": "voice-ai",
     "intent": "commercial",
@@ -10,6 +22,18 @@
     "search_promise": "A review of the top text-to-speech tools featuring dyslexia-friendly fonts, line highlighting, and natural reading speeds.",
     "slug": "best-speechify-alternatives-for-students-with-dyslexia",
     "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "best elevenlabs alternatives for automated news narration",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 210,
+    "est_difficulty": 22,
+    "format": "alternatives",
+    "why_winnable": "Automated news is a growing niche on YouTube; users need high-stability, high-quality voices and specific API pricing comparisons.",
+    "search_promise": "A list of TTS tools that offer stable API connections and authoritative, news-anchor style voices.",
+    "slug": "best-elevenlabs-alternatives-for-automated-news-narration",
+    "paid_tool": "ElevenLabs"
   },
   {
     "keyword": "best elevenlabs alternatives for character voices",
