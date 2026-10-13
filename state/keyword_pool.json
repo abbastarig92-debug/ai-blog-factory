@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "is speechify worth it for language learners",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 400,
-    "est_difficulty": 19,
-    "format": "review",
-    "why_winnable": "High intent for people trying to justify the subscription for educational purposes; low competition from major review sites.",
-    "search_promise": "An evaluation of Speechify's natural reading speed and pronunciation accuracy for Spanish, French, and German learners.",
-    "slug": "is-speechify-worth-it-for-language-learners",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "best speechify alternatives for students with dyslexia",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 22,
-    "format": "alternatives",
-    "why_winnable": "Focuses on accessibility and educational use cases rather than general productivity, avoiding competition with high-authority tech blogs.",
-    "search_promise": "A review of the top text-to-speech tools featuring dyslexia-friendly fonts, line highlighting, and natural reading speeds.",
-    "slug": "best-speechify-alternatives-for-students-with-dyslexia",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "best elevenlabs alternatives for automated news narration",
     "cluster": "voice-ai",
     "intent": "commercial",
