@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "elevenlabs review for elearning course creators",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 290,
-    "est_difficulty": 18,
-    "format": "review",
-    "why_winnable": "Major tech blogs only write broad generic reviews of ElevenLabs; zero authoritative coverage targets commercial e-learning audio licensing and multi-speaker module pacing.",
-    "search_promise": "Practical breakdown of pronunciation dictionary setup, commercial licensing rules for sold courses, and export workflows for Articulate Storyline.",
-    "slug": "elevenlabs-review-for-elearning-course-creators",
-    "paid_tool": "ElevenLabs"
-  },
-  {
-    "keyword": "speechify vs natural reader for college students",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 480,
-    "est_difficulty": 19,
-    "format": "comparison",
-    "why_winnable": "Forums and Reddit rank high due to thin affiliate coverage; students specifically want PDF reading speeds and academic note-taking integrations compared.",
-    "search_promise": "Clear breakdown of PDF OCR handling, mobile listening sync, reading speed limits, and educational discount pricing between both tools.",
-    "slug": "speechify-vs-natural-reader-for-college-students",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "best elevenlabs alternatives for automated news narration",
     "cluster": "voice-ai",
     "intent": "commercial",
