@@ -1,13 +1,7 @@
 {
-  "published": [],
-  "failed": [
-    {
-      "title": "ElevenLabs Review for eLearning Creators: Licensing, Pronunciation Dictionaries, and Storyline Workflows",
-      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini HTTP 429 على models/gemini-flash-latest:generateContent — {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 5h24m22.271669453s.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n"
-    },
-    {
-      "title": "Speechify vs NaturalReader for College Students: Head-to-Head Testing on Heavy Academic Workloads",
-      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini HTTP 429 على models/gemini-flash-latest:generateContent — {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 5h16m35.78040126s.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n "
-    }
-  ]
+  "published": [
+    "koala-ai-vs-surfer-ai-seo",
+    "is-synthesia-worth-it-for-internal-communications"
+  ],
+  "failed": []
 }
