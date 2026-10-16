@@ -1,7 +1,11 @@
 {
   "published": [
-    "koala-ai-vs-surfer-ai-seo",
-    "is-synthesia-worth-it-for-internal-communications"
+    "elevenlabs-vs-neets-ai-cheap-voiceovers"
   ],
-  "failed": []
+  "failed": [
+    {
+      "title": "Synthesia vs Colossyan for Corporate Training: Avatar Realism, SCORM, and Pricing Compared",
+      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini HTTP 503 على models/gemini-flash-latest:generateContent — {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    }
+  ]
 }

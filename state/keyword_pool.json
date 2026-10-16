@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "synthesia vs colossyan for corporate training",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 210,
-    "est_difficulty": 14,
-    "format": "comparison",
-    "why_winnable": "Niche enterprise comparison targeting L&D professionals rather than general creators; avoids high-authority tech review sites.",
-    "search_promise": "A side-by-side feature and pricing table specifically comparing avatar realism and SCORM compliance for corporate learning.",
-    "slug": "synthesia-vs-colossyan-for-corporate-training",
-    "paid_tool": "Synthesia"
-  },
-  {
-    "keyword": "elevenlabs vs neets ai for cheap voiceovers",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 200,
-    "est_difficulty": 8,
-    "format": "comparison",
-    "why_winnable": "Neets AI is a rising niche competitor; this specific 'cheap' angle targets budget-conscious creators not served by major review sites.",
-    "search_promise": "Audio quality samples from both tools and a clear pricing comparison for high-volume API usage.",
-    "slug": "elevenlabs-vs-neets-ai-for-cheap-voiceovers",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "best speechify alternatives for reading long pdfs",
     "cluster": "voice-ai",
     "intent": "commercial",
