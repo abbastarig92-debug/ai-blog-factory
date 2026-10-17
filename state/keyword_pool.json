@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "elevenlabs vs resemble ai for custom voice cloning",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 290,
-    "est_difficulty": 24,
-    "format": "comparison",
-    "why_winnable": "Resemble AI is the enterprise/developer alternative to ElevenLabs. Focus on the custom voice cloning process, training audio sample requirements, and pricing makes this low-competition and highly transactional.",
-    "search_promise": "Audio comparison clips demonstrating voice clone similarity, required sample audio length, latency benchmarks, and commercial licensing rights.",
-    "slug": "elevenlabs-vs-resemble-ai-for-custom-voice-cloning",
-    "paid_tool": "ElevenLabs"
-  },
-  {
-    "keyword": "best elevenlabs alternatives for character voices",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 320,
-    "est_difficulty": 28,
-    "format": "alternatives",
-    "why_winnable": "Broad queries like best voice generators are crowded, but creators seeking expressive dialogue and fantasy game voices encounter few comprehensive niche roundups.",
-    "search_promise": "Curated shortlist of tools offering granular emotional control, accent modulation, and commercial licensing for animation and indie game voice acting.",
-    "slug": "best-elevenlabs-alternatives-for-character-voices",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "best speechify alternatives for adhd productivity",
     "cluster": "voice-ai",
     "intent": "commercial",
