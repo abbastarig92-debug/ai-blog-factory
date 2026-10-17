@@ -1,5 +1,17 @@
 [
   {
+    "keyword": "elevenlabs vs resemble ai for custom voice cloning",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 290,
+    "est_difficulty": 24,
+    "format": "comparison",
+    "why_winnable": "Resemble AI is the enterprise/developer alternative to ElevenLabs. Focus on the custom voice cloning process, training audio sample requirements, and pricing makes this low-competition and highly transactional.",
+    "search_promise": "Audio comparison clips demonstrating voice clone similarity, required sample audio length, latency benchmarks, and commercial licensing rights.",
+    "slug": "elevenlabs-vs-resemble-ai-for-custom-voice-cloning",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "best elevenlabs alternatives for character voices",
     "cluster": "voice-ai",
     "intent": "commercial",
@@ -10,6 +22,18 @@
     "search_promise": "Curated shortlist of tools offering granular emotional control, accent modulation, and commercial licensing for animation and indie game voice acting.",
     "slug": "best-elevenlabs-alternatives-for-character-voices",
     "paid_tool": "ElevenLabs"
+  },
+  {
+    "keyword": "best speechify alternatives for adhd productivity",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 480,
+    "est_difficulty": 28,
+    "format": "alternatives",
+    "why_winnable": "Targeted sub-demographic query that avoids broad head-term competition. ADHD creators and knowledge workers seek specific speed-reading and focus features rather than standard TTS benchmarks.",
+    "search_promise": "A curated shortlist ranked by reading speed controls, text-highlighting sync, mobile floating widgets, and natural voice cadence tailored for neurodivergent focus.",
+    "slug": "best-speechify-alternatives-for-adhd-productivity",
+    "paid_tool": "Speechify"
   },
   {
     "keyword": "best ai voice generator for video sales letters",
