@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "best elevenlabs alternatives for tabletop rpg voice acting",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 260,
-    "est_difficulty": 19,
-    "format": "alternatives",
-    "why_winnable": "TTRPG creators and Game Masters need specific accents and emotional inflections that generic voiceover roundups ignore, allowing an affiliate review of ElevenLabs against budget options to rank quickly.",
-    "search_promise": "Audio sample clips and a ranked list comparing budget voice generators with ElevenLabs for fantasy accents, monster voices, and batch sound generation for tabletop games.",
-    "slug": "best-elevenlabs-alternatives-for-tabletop-rpg-voice-acting",
-    "paid_tool": "ElevenLabs"
-  },
-  {
-    "keyword": "speechify vs naturalreader for dyslexia students",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 590,
-    "est_difficulty": 22,
-    "format": "comparison",
-    "why_winnable": "Both tools aggressively market to neurodivergent readers, but major review sites fail to test specialized assistive tools like OCR scanning speed, font styling, and text highlighting synchronization.",
-    "search_promise": "A detailed side-by-side feature matrix testing NaturalReader against Speechify specifically on dyslexia fonts, OCR scan accuracy from textbooks, and pricing plans.",
-    "slug": "speechify-vs-naturalreader-for-dyslexia-students",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "best speechify alternatives for adhd productivity",
     "cluster": "voice-ai",
     "intent": "commercial",
