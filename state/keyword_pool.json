@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "best ai avatar generator for b2b sales outreach",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 340,
-    "est_difficulty": 28,
-    "format": "listicle",
-    "why_winnable": "B2B sales teams searching this term need dynamic variables and CRM integration rather than generic social media talking heads, creating a high-conversion niche that authority sites overlook.",
-    "search_promise": "A curated shortlist of the top avatar tools supporting programmatic video personalization at scale, with Synthesia analyzed first for enterprise deliverability and video CRM compatibility.",
-    "slug": "best-ai-avatar-generator-for-b2b-sales-outreach",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "speechify vs naturalreader for studying pdfs",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 420,
-    "est_difficulty": 24,
-    "format": "comparison",
-    "why_winnable": "Search results are dominated by generic text-to-speech roundups; addressing the specific pain point of academic PDF parsing (handling footnotes, citations, and multi-column layouts) captures targeted intent.",
-    "search_promise": "A direct audio and UX shootout demonstrating how both apps handle complex academic PDF formatting, OCR scanning, and highlight syncing on desktop and mobile.",
-    "slug": "speechify-vs-naturalreader-for-studying-pdfs",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "elevenlabs review for foreign language dubbing",
     "cluster": "voice-ai",
     "intent": "commercial",
