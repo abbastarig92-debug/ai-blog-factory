@@ -1,5 +1,41 @@
 [
   {
+    "keyword": "best synthesia alternatives for internal communications",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 260,
+    "est_difficulty": 22,
+    "format": "alternatives",
+    "why_winnable": "Internal comms teams have specific security and SSO requirements that differ from marketing; this long-tail modifier avoids the high-competition 'best ai video generator' head term.",
+    "search_promise": "A curated list of avatar-based video tools that offer enterprise-grade security and templates for HR and corporate training.",
+    "slug": "best-synthesia-alternatives-for-internal-communications",
+    "paid_tool": "Synthesia"
+  },
+  {
+    "keyword": "best speechify alternatives for legal professionals",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 210,
+    "est_difficulty": 18,
+    "format": "alternatives",
+    "why_winnable": "Legal professionals need high-accuracy OCR for court filings and long-form document handling; targeting this profession bypasses the crowded student and ADHD productivity markets.",
+    "search_promise": "An evaluation of text-to-speech tools that specialize in high-volume PDF reading and complex legal terminology handling.",
+    "slug": "best-speechify-alternatives-for-legal-professionals",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "elevenlabs review for small business video ads",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 240,
+    "est_difficulty": 22,
+    "format": "review",
+    "why_winnable": "Small businesses are looking for ways to cut costs on voice actors for social media ads; this specific use case is less competitive than general tool reviews.",
+    "search_promise": "Audio samples of 'sales-ready' voices and a guide on using the Professional Voice Cloning feature to create consistent brand ads.",
+    "slug": "elevenlabs-review-for-small-business-video-ads",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "elevenlabs review for foreign language dubbing",
     "cluster": "voice-ai",
     "intent": "commercial",
