@@ -1,5 +1,29 @@
 [
   {
+    "keyword": "koala ai review for niche site blogging",
+    "cluster": "writing-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 19,
+    "format": "review",
+    "why_winnable": "Focuses strictly on niche site owners and bloggers rather than enterprise teams, allowing for high topical relevance without competing against broad SEO tool review sites.",
+    "search_promise": "Hands-on workflow evaluation showing real article output, Amazon affiliate integration capabilities, SEO score accuracy, and credit efficiency analysis.",
+    "slug": "koala-ai-review-for-niche-site-blogging",
+    "paid_tool": "Koala AI"
+  },
+  {
+    "keyword": "synthesia vs heygen for online course creators",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 320,
+    "est_difficulty": 22,
+    "format": "comparison",
+    "why_winnable": "Hyper-targeted niche comparison between two leading avatar video tools focused specifically on course creation, bypassing generic high-competition comparison pages.",
+    "search_promise": "Side-by-side feature comparison breakdown, avatar realism test for educational content, LMS integration capabilities, and a clear verdict on pricing per video minute.",
+    "slug": "synthesia-vs-heygen-for-online-course-creators",
+    "paid_tool": "Synthesia"
+  },
+  {
     "keyword": "speechify review for college students with adhd",
     "cluster": "voice-ai",
     "intent": "commercial",
@@ -9,6 +33,18 @@
     "why_winnable": "While Speechify ranks heavily on broad branded terms, long-tail queries targeting neurodivergent academic workflows face thin UGC reddit threads and generic student affiliate posts that lack detailed UX testing.",
     "search_promise": "Hands-on analysis of Speechify's optical character recognition (OCR) on dense textbooks, speed listening capabilities, and highlighting features explicitly tested on ADHD study sessions.",
     "slug": "speechify-review-for-college-students-with-adhd",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "speechify vs naturalreaders for commercial voiceovers",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 380,
+    "est_difficulty": 24,
+    "format": "comparison",
+    "why_winnable": "Targets commercial intent audio creators comparing text-to-speech software licensing and voice naturalness, avoiding generic student/ADHD reading queries.",
+    "search_promise": "Audio sample comparisons for video ads, commercial licensing terms comparison, custom voice tweaking features, and value-for-money breakdown for solo creators.",
+    "slug": "speechify-vs-naturalreaders-for-commercial-voiceovers",
     "paid_tool": "Speechify"
   },
   {
