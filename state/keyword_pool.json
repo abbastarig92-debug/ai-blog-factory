@@ -1,5 +1,29 @@
 [
   {
+    "keyword": "is elevenlabs worth it for youtube automation",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 280,
+    "est_difficulty": 22,
+    "format": "review",
+    "why_winnable": "Reddit threads offer fragmented opinions on YouTube demonetization fears, leaving room for an authoritative breakdown of commercial licensing rules, voice stability, and per-video production costs.",
+    "search_promise": "A definitive answer regarding YouTube monetization safety, realistic monthly character credit burn rates for weekly long-form videos, and the optimal tier recommendation.",
+    "slug": "is-elevenlabs-worth-it-for-youtube-automation",
+    "paid_tool": "ElevenLabs"
+  },
+  {
+    "keyword": "speechify vs naturalreader for college students",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 24,
+    "format": "comparison",
+    "why_winnable": "Generic comparisons focus on broad accessibility features, bypassing the specific student criteria like mobile PDF scanning accuracy, annotation tools, and annual student discount pricing.",
+    "search_promise": "A clear head-to-head breakdown of textbook scanning OCR speed, mobile listening playback up to 4x, voice quality at high speeds, and total yearly academic cost.",
+    "slug": "speechify-vs-naturalreader-for-college-students",
+    "paid_tool": "Speechify"
+  },
+  {
     "keyword": "best speechify alternatives for adhd productivity",
     "cluster": "voice-ai",
     "intent": "commercial",
