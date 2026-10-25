@@ -1,5 +1,29 @@
 [
   {
+    "keyword": "synthesia vs heygen for localized marketing videos",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 320,
+    "est_difficulty": 19,
+    "format": "comparison",
+    "why_winnable": "Hyper-niched comparison targeting localized agency video production; major review sites focus on broad enterprise features rather than translation and localization workflow accuracy.",
+    "search_promise": "A side-by-side feature and pricing breakdown of Synthesia and HeyGen specifically for multi-language video localization, detailing lip-sync quality and voice match accuracy.",
+    "slug": "synthesia-vs-heygen-for-localized-marketing-videos",
+    "paid_tool": "Synthesia"
+  },
+  {
+    "keyword": "is elevenlabs worth it for podcast intro voiceovers",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 290,
+    "est_difficulty": 17,
+    "format": "review",
+    "why_winnable": "Very specific long-tail question query targeting solo podcasters with direct purchase intent who want to avoid hiring voice actors.",
+    "search_promise": "An honest audio-backed review testing ElevenLabs' voice realism for short podcast intros, including character voice settings and licensing breakdown.",
+    "slug": "is-elevenlabs-worth-it-for-podcast-intro-voiceovers",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "best speechify alternatives for adhd productivity",
     "cluster": "voice-ai",
     "intent": "commercial",

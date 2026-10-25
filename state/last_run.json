@@ -1,7 +1,11 @@
 {
   "published": [
-    "is-elevenlabs-worth-it-youtube-automation",
-    "speechify-vs-naturalreader-for-college-students"
+    "n8n-automated-social-media-workflow"
   ],
-  "failed": []
+  "failed": [
+    {
+      "title": "Koala AI vs Jasper AI (2024): The Ultimate ROI & Workflow Comparison for Niche Website Owners",
+      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini HTTP 429 على models/gemini-flash-latest:generateContent — {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\\nPlease retry in 13h20m5.540613109s.\",\n    "
+    }
+  ]
 }

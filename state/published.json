@@ -1222,5 +1222,13 @@
     "keyword": "speechify vs naturalreader for college students",
     "cluster": "voice-ai",
     "draft": false
+  },
+  {
+    "slug": "n8n-automated-social-media-workflow",
+    "title": "How to Build an Automated Social Media Workflow with n8n",
+    "date": "2026-10-25T17:27:50+00:00",
+    "keyword": "how to build an automated social media workflow with n8n",
+    "cluster": "automation",
+    "draft": false
   }
 ]
