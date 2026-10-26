@@ -94,5 +94,65 @@
     "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
     "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
     "paid_tool": ""
+  },
+  {
+    "keyword": "synthesia vs heygen for video marketing teams",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 480,
+    "est_difficulty": 28,
+    "format": "comparison",
+    "why_winnable": "Most SERP results target general enterprise features; focusing specifically on team workflow, seats, and batch rendering for marketing teams cuts through generic affiliate reviews.",
+    "search_promise": "A feature-by-feature side-by-side comparison table showing speed, avatar realism, team collaboration tools, and pricing tiers for marketing agencies.",
+    "slug": "synthesia-vs-heygen-for-video-marketing-teams",
+    "paid_tool": "Synthesia"
+  },
+  {
+    "keyword": "koala ai vs jasper for affiliate marketers",
+    "cluster": "writing-ai",
+    "intent": "commercial",
+    "est_volume": 390,
+    "est_difficulty": 24,
+    "format": "comparison",
+    "why_winnable": "Jasper dominates high-KD broad queries, but affiliate site creators are seeking automated SERP scraping and Amazon integration where Koala AI excels at a fraction of the cost.",
+    "search_promise": "Direct output quality test comparing SEO optimization, real-time web access, formatting time, and monthly token cost for affiliate blog posts.",
+    "slug": "koala-ai-vs-jasper-for-affiliate-marketers",
+    "paid_tool": "Koala AI"
+  },
+  {
+    "keyword": "speechify vs naturalreader for voiceover creators",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 320,
+    "est_difficulty": 22,
+    "format": "comparison",
+    "why_winnable": "Mainstream SERP results treat both tools as accessibility/reading assistants; content creators need an evaluation focused on commercial licensing, export formats, and voice naturalness.",
+    "search_promise": "Audio sample comparisons, licensing terms breakdown for commercial video use, and export workflow breakdown for content creators.",
+    "slug": "speechify-vs-naturalreader-for-voiceover-creators",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "elevenlabs vs murf ai for elearning courses",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 26,
+    "format": "comparison",
+    "why_winnable": "Competitor queries target YouTube creators, leaving a low-competition gap for educators and instructional designers who need clear pacing and emotional tone control.",
+    "search_promise": "Head-to-head audio evaluation of long-form reading clarity, slide timing sync tools, and per-project pricing for course creators.",
+    "slug": "elevenlabs-vs-murf-ai-for-elearning-courses",
+    "paid_tool": "ElevenLabs"
+  },
+  {
+    "keyword": "best ai motion graphics generator for social media ads",
+    "cluster": "image-ai",
+    "intent": "commercial",
+    "est_volume": 590,
+    "est_difficulty": 31,
+    "format": "listicle",
+    "why_winnable": "Queries for general motion graphics are dominated by Adobe, but social ad creators need fast, template-driven AI generators and conversion-focused visual tools.",
+    "search_promise": "Curated list of 5 specialized AI tools for short-form ad animation with rendering speed comparisons, aspect ratio options, and pricing breakdowns.",
+    "slug": "best-ai-motion-graphics-generator-for-social-media-ads",
+    "paid_tool": ""
   }
 ]
