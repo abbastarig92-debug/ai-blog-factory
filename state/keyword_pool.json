@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "synthesia vs heygen for localized marketing videos",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 320,
-    "est_difficulty": 19,
-    "format": "comparison",
-    "why_winnable": "Hyper-niched comparison targeting localized agency video production; major review sites focus on broad enterprise features rather than translation and localization workflow accuracy.",
-    "search_promise": "A side-by-side feature and pricing breakdown of Synthesia and HeyGen specifically for multi-language video localization, detailing lip-sync quality and voice match accuracy.",
-    "slug": "synthesia-vs-heygen-for-localized-marketing-videos",
-    "paid_tool": "Synthesia"
-  },
-  {
-    "keyword": "synthesia vs heygen for video marketing teams",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 480,
-    "est_difficulty": 28,
-    "format": "comparison",
-    "why_winnable": "Most SERP results target general enterprise features; focusing specifically on team workflow, seats, and batch rendering for marketing teams cuts through generic affiliate reviews.",
-    "search_promise": "A feature-by-feature side-by-side comparison table showing speed, avatar realism, team collaboration tools, and pricing tiers for marketing agencies.",
-    "slug": "synthesia-vs-heygen-for-video-marketing-teams",
-    "paid_tool": "Synthesia"
-  },
-  {
     "keyword": "is elevenlabs worth it for podcast intro voiceovers",
     "cluster": "voice-ai",
     "intent": "commercial",
