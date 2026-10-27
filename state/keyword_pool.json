@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "is elevenlabs worth it for podcast intro voiceovers",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 290,
-    "est_difficulty": 17,
-    "format": "review",
-    "why_winnable": "Very specific long-tail question query targeting solo podcasters with direct purchase intent who want to avoid hiring voice actors.",
-    "search_promise": "An honest audio-backed review testing ElevenLabs' voice realism for short podcast intros, including character voice settings and licensing breakdown.",
-    "slug": "is-elevenlabs-worth-it-for-podcast-intro-voiceovers",
-    "paid_tool": "ElevenLabs"
-  },
-  {
-    "keyword": "speechify vs naturalreader for voiceover creators",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 320,
-    "est_difficulty": 22,
-    "format": "comparison",
-    "why_winnable": "Mainstream SERP results treat both tools as accessibility/reading assistants; content creators need an evaluation focused on commercial licensing, export formats, and voice naturalness.",
-    "search_promise": "Audio sample comparisons, licensing terms breakdown for commercial video use, and export workflow breakdown for content creators.",
-    "slug": "speechify-vs-naturalreader-for-voiceover-creators",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "elevenlabs vs murf ai for elearning courses",
     "cluster": "voice-ai",
     "intent": "commercial",
