@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "speechify vs naturalreader for studying",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 510,
-    "est_difficulty": 25,
-    "format": "comparison",
-    "why_winnable": "Specific comparison targeted at students needing text-to-speech tools for reading textbooks, avoiding high-competition general software terms.",
-    "search_promise": "Side-by-side comparison of voice quality, OCR pdf parsing accuracy, mobile app usability, and student discount pricing.",
-    "slug": "speechify-vs-naturalreader-for-studying",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "elevenlabs vs murf ai for elearning courses",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 26,
-    "format": "comparison",
-    "why_winnable": "Competitor queries target YouTube creators, leaving a low-competition gap for educators and instructional designers who need clear pacing and emotional tone control.",
-    "search_promise": "Head-to-head audio evaluation of long-form reading clarity, slide timing sync tools, and per-project pricing for course creators.",
-    "slug": "elevenlabs-vs-murf-ai-for-elearning-courses",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "best speechify alternatives for adhd productivity",
     "cluster": "voice-ai",
     "intent": "commercial",
