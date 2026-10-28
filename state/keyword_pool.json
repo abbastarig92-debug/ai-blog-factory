@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "synthesia review for online course creators",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 420,
-    "est_difficulty": 22,
-    "format": "review",
-    "why_winnable": "Niche audience focus on educators and course builders avoiding high-difficulty generic avatar software reviews.",
-    "search_promise": "An honest assessment of Synthesia's video quality, voice realistic tone, slide integration, and total cost for producing a full course curriculum.",
-    "slug": "synthesia-review-for-online-course-creators",
-    "paid_tool": "Synthesia"
-  },
-  {
-    "keyword": "best ai video editor for real estate video tours",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 320,
-    "est_difficulty": 19,
-    "format": "listicle",
-    "why_winnable": "Hyper-focused on real estate video creation, allowing targeted tool recommendations without fighting broad video editing domains.",
-    "search_promise": "A curated round-up of AI video tools that automate real estate walkthrough edits, adding virtual staging, transitions, and voiceover scripts.",
-    "slug": "best-ai-video-editor-for-real-estate-video-tours",
-    "paid_tool": ""
-  },
-  {
     "keyword": "speechify vs naturalreader for studying",
     "cluster": "voice-ai",
     "intent": "commercial",
