@@ -1,7 +1,11 @@
 {
   "published": [
-    "koala-ai-vs-zimmwriter-bulk-seo-content",
-    "synthesia-vs-elai-employee-training"
+    "synthesia-review-small-youtube-channels"
   ],
-  "failed": []
+  "failed": [
+    {
+      "title": "Speechify Review: Is it the Best OCR & Text-to-Speech Tool for Visually Impaired Professionals?",
+      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini HTTP 503 على models/gemini-flash-latest:generateContent — {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    }
+  ]
 }
