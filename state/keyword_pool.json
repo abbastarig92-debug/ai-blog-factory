@@ -1,5 +1,41 @@
 [
   {
+    "keyword": "synthesia review for small youtube channels",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 28,
+    "format": "review",
+    "why_winnable": "Synthesia is often marketed to enterprises. Small creators are searching for 'is it worth it' content to justify the $30/month price tag compared to cheaper, lower-quality options.",
+    "search_promise": "A realistic ROI analysis for a solo creator, focusing on the time saved vs. the monthly subscription cost.",
+    "slug": "synthesia-review-for-small-youtube-channels",
+    "paid_tool": "Synthesia"
+  },
+  {
+    "keyword": "speechify review for visually impaired professionals",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 320,
+    "est_difficulty": 15,
+    "format": "review",
+    "why_winnable": "While Speechify is broad, targeting 'professionals' with 'visual impairment' captures a high-intent audience looking for specific OCR and speed-reading features for work documents.",
+    "search_promise": "A deep dive into the mobile app's accessibility features, OCR accuracy for PDFs, and the quality of the 'natural' voices for long-form reading.",
+    "slug": "speechify-review-for-visually-impaired-professionals",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "elevenlabs vs murf ai for podcast intro narration",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 280,
+    "est_difficulty": 25,
+    "format": "comparison",
+    "why_winnable": "Generic 'text to speech' terms are too hard, but 'podcast intro' is a specific high-intent use case where users are ready to pay for premium voice quality.",
+    "search_promise": "Audio samples of both tools side-by-side and a guide on which tool offers better 'emotional' control for short-form branding.",
+    "slug": "elevenlabs-vs-murf-ai-for-podcast-intro-narration",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "best speechify alternatives for adhd productivity",
     "cluster": "voice-ai",
     "intent": "commercial",
