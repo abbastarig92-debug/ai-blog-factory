@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "is speechify worth it for content creators",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 390,
-    "est_difficulty": 23,
-    "format": "review",
-    "why_winnable": "Addresses creator ROI directly instead of generic student/ADHD productivity angles, making competition sparse.",
-    "search_promise": "Unbiased review evaluating commercial licensing, voice naturalness for video voiceovers, export limits, and cost vs competitors.",
-    "slug": "is-speechify-worth-it-for-content-creators",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "elevenlabs vs murf ai for podcast intro narration",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 280,
-    "est_difficulty": 25,
-    "format": "comparison",
-    "why_winnable": "Generic 'text to speech' terms are too hard, but 'podcast intro' is a specific high-intent use case where users are ready to pay for premium voice quality.",
-    "search_promise": "Audio samples of both tools side-by-side and a guide on which tool offers better 'emotional' control for short-form branding.",
-    "slug": "elevenlabs-vs-murf-ai-for-podcast-intro-narration",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "is elevenlabs worth it for podcast voiceovers",
     "cluster": "voice-ai",
     "intent": "commercial",
