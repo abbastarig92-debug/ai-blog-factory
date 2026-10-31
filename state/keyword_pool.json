@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "synthesia review for youtube automation channels",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 24,
-    "format": "review",
-    "why_winnable": "Major affiliate aggregators focus on generic enterprise Synthesia reviews. Independent creators running faceless or automated channels want to know practical render limits, API feasibility, and ROI, leaving low-competition space in long-tail search.",
-    "search_promise": "Direct answer on whether Synthesia fits faceless YouTube pipelines, featuring pricing tier limitations, export times, YouTube monetization compliance facts, and a breakdown of video generation cost per minute.",
-    "slug": "synthesia-review-for-youtube-automation-channels",
-    "paid_tool": "Synthesia"
-  },
-  {
-    "keyword": "is elevenlabs worth it for indie game developers",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 250,
-    "est_difficulty": 19,
-    "format": "review",
-    "why_winnable": "Indie game devs search specifically about commercial licensing rights, dynamic emotional voice delivery, and cost-per-generation for NPC dialogue, bypassing generic ElevenLabs affiliate roundups.",
-    "search_promise": "A straightforward cost-benefit breakdown detailing character voice consistency, audio export formats, commercial game licensing tiers, and character voice samples suitable for Unity and Unreal Engine.",
-    "slug": "is-elevenlabs-worth-it-for-indie-game-developers",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "is elevenlabs worth it for podcast voiceovers",
     "cluster": "voice-ai",
     "intent": "commercial",
