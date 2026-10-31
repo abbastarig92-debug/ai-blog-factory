@@ -1,5 +1,29 @@
 [
   {
+    "keyword": "synthesia review for youtube automation channels",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 24,
+    "format": "review",
+    "why_winnable": "Major affiliate aggregators focus on generic enterprise Synthesia reviews. Independent creators running faceless or automated channels want to know practical render limits, API feasibility, and ROI, leaving low-competition space in long-tail search.",
+    "search_promise": "Direct answer on whether Synthesia fits faceless YouTube pipelines, featuring pricing tier limitations, export times, YouTube monetization compliance facts, and a breakdown of video generation cost per minute.",
+    "slug": "synthesia-review-for-youtube-automation-channels",
+    "paid_tool": "Synthesia"
+  },
+  {
+    "keyword": "is elevenlabs worth it for indie game developers",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 250,
+    "est_difficulty": 19,
+    "format": "review",
+    "why_winnable": "Indie game devs search specifically about commercial licensing rights, dynamic emotional voice delivery, and cost-per-generation for NPC dialogue, bypassing generic ElevenLabs affiliate roundups.",
+    "search_promise": "A straightforward cost-benefit breakdown detailing character voice consistency, audio export formats, commercial game licensing tiers, and character voice samples suitable for Unity and Unreal Engine.",
+    "slug": "is-elevenlabs-worth-it-for-indie-game-developers",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "is elevenlabs worth it for podcast voiceovers",
     "cluster": "voice-ai",
     "intent": "commercial",
@@ -21,6 +45,18 @@
     "why_winnable": "Targeted sub-demographic query that avoids broad head-term competition. ADHD creators and knowledge workers seek specific speed-reading and focus features rather than standard TTS benchmarks.",
     "search_promise": "A curated shortlist ranked by reading speed controls, text-highlighting sync, mobile floating widgets, and natural voice cadence tailored for neurodivergent focus.",
     "slug": "best-speechify-alternatives-for-adhd-productivity",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "best speechify alternatives for language learners",
+    "cluster": "voice-ai",
+    "intent": "alternatives",
+    "est_volume": 350,
+    "est_difficulty": 26,
+    "format": "alternatives",
+    "why_winnable": "Speechify search queries are saturated for generic dyslexia and student terms, but language acquisition (accent practice, pronunciation playback speed, bilingual support) remains uncontested by big authority sites.",
+    "search_promise": "A curated table of top text-to-speech tools featuring language learner-specific criteria (natural foreign accents, sentence looping, playback pitch control), explicitly explaining why Speechify often remains the gold standard.",
+    "slug": "best-speechify-alternatives-for-language-learners",
     "paid_tool": "Speechify"
   },
   {
