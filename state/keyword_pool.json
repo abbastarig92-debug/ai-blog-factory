@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "is elevenlabs worth it for podcast voiceovers",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 420,
-    "est_difficulty": 25,
-    "format": "review",
-    "why_winnable": "Narrow focus on podcast intros/outros and narration allows ranking against broad ElevenLabs reviews.",
-    "search_promise": "Audio sample comparisons, breakdown of character quota usage for long audio, licensing rights evaluation, and alternative recommendations.",
-    "slug": "is-elevenlabs-worth-it-for-podcast-voiceovers",
-    "paid_tool": "ElevenLabs"
-  },
-  {
-    "keyword": "best speechify alternatives for adhd productivity",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 480,
-    "est_difficulty": 28,
-    "format": "alternatives",
-    "why_winnable": "Targeted sub-demographic query that avoids broad head-term competition. ADHD creators and knowledge workers seek specific speed-reading and focus features rather than standard TTS benchmarks.",
-    "search_promise": "A curated shortlist ranked by reading speed controls, text-highlighting sync, mobile floating widgets, and natural voice cadence tailored for neurodivergent focus.",
-    "slug": "best-speechify-alternatives-for-adhd-productivity",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "best speechify alternatives for language learners",
     "cluster": "voice-ai",
     "intent": "alternatives",
