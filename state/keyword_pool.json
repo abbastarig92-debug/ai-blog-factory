@@ -70,5 +70,65 @@
     "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
     "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
     "paid_tool": ""
+  },
+  {
+    "keyword": "is synthesia worth it for online course creators",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 320,
+    "est_difficulty": 24,
+    "format": "review",
+    "why_winnable": "Legacy SEO sites focus on enterprise HR and internal L&D use cases, leaving a gap for course creators specifically evaluating ROI on video creation time versus subscription cost.",
+    "search_promise": "A cost-per-video breakdown comparing traditional camera setups vs Synthesia avatars, including actual rendering time, voice realistic quality for long-form modules, and monetization limitations.",
+    "slug": "is-synthesia-worth-it-for-online-course-creators",
+    "paid_tool": "Synthesia"
+  },
+  {
+    "keyword": "koala ai vs surfer seo for affiliate bloggers",
+    "cluster": "writing-ai",
+    "intent": "commercial",
+    "est_volume": 410,
+    "est_difficulty": 21,
+    "format": "comparison",
+    "why_winnable": "Most comparisons pair Koala with Jasper or ChatGPT. Targeting the direct decision between automated output (Koala) and optimization/editing (Surfer) hits high-intent affiliate buyers.",
+    "search_promise": "Side-by-side output score evaluation testing workflow speed, SERP ranking performance over 30 days, real API cost differences, and a clear verdict based on strategy type.",
+    "slug": "koala-ai-vs-surfer-seo-for-affiliate-bloggers",
+    "paid_tool": "Koala AI"
+  },
+  {
+    "keyword": "speechify review for youtube video narration",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 380,
+    "est_difficulty": 25,
+    "format": "review",
+    "why_winnable": "Speechify is heavily marketed for accessibility and reading, so ranking for YouTube narration targets creators seeking commercial rights and voice naturalness without competing against generic review sites.",
+    "search_promise": "Audio sample tests comparing Speechify's voice catalog against YouTube monetization policies, licensing terms for commercial videos, and workflow integration with video editors.",
+    "slug": "speechify-review-for-youtube-video-narration",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "is elevenlabs worth it for independent podcasters",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 28,
+    "format": "review",
+    "why_winnable": "Mainstream reviews focus on voice actors and tech devs. Independent podcasters looking for intro narration, host voice cloning, or guest replacement are underserved by broad reviews.",
+    "search_promise": "A straightforward ROI analysis covering monthly character credit consumption for a 30-minute episode, voice cloning fidelity, and commercial licensing breakdown for podcast feeds.",
+    "slug": "is-elevenlabs-worth-it-for-independent-podcasters",
+    "paid_tool": "ElevenLabs"
+  },
+  {
+    "keyword": "best ai image generator for print on demand t shirts",
+    "cluster": "image-ai",
+    "intent": "commercial",
+    "est_volume": 520,
+    "est_difficulty": 29,
+    "format": "listicle",
+    "why_winnable": "Competitors target broad 'print on demand' terms. Narrowing down to t-shirt design requirements (transparent PNGs, high DPI output, vector style promptability) filters out low-intent searchers.",
+    "search_promise": "A practical comparison of Midjourney, Leonardo, and DALL-E 3 based on transparent background exports, vector conversion friendliness, and commercial copyright safety for Etsy/Shopify sales.",
+    "slug": "best-ai-image-generator-for-print-on-demand-t-shirts",
+    "paid_tool": ""
   }
 ]
