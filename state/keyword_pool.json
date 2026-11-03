@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "synthesia vs colossyan for corporate training videos",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 300,
-    "est_difficulty": 18,
-    "format": "comparison",
-    "why_winnable": "Colossyan is the primary challenger to Synthesia in the enterprise space; targeting this specific use case (corporate training) bypasses broader, more competitive 'ai video' terms.",
-    "search_promise": "A feature-by-feature comparison of avatar realism, multi-language support, and SCORM compliance for L&D professionals.",
-    "slug": "synthesia-vs-colossyan-for-corporate-training-videos",
-    "paid_tool": "Synthesia"
-  },
-  {
-    "keyword": "speechify vs voicedream reader for mobile productivity",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 210,
-    "est_difficulty": 15,
-    "format": "comparison",
-    "why_winnable": "VoiceDream is the top-tier paid app competitor on iOS; comparing it to Speechify targets high-intent mobile users looking for the best premium text-to-speech experience.",
-    "search_promise": "An evaluation of OCR accuracy, offline listening capabilities, and voice naturalness on mobile devices.",
-    "slug": "speechify-vs-voicedream-reader-for-mobile-productivity",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "elevenlabs vs kits ai for music producers",
     "cluster": "voice-ai",
     "intent": "commercial",
