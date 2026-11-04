@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "elevenlabs vs kits ai for music producers",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 280,
-    "est_difficulty": 24,
-    "format": "comparison",
-    "why_winnable": "Kits AI is a specialized music-vocal tool; comparing it with ElevenLabs' new professional voice cloning targets a specific creator niche that broader tech sites ignore.",
-    "search_promise": "A comparison of vocal range, licensing rights for commercial music, and specialized singing models for studio production.",
-    "slug": "elevenlabs-vs-kits-ai-for-music-producers",
-    "paid_tool": "ElevenLabs"
-  },
-  {
-    "keyword": "is elevenlabs worth it for independent podcasters",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 28,
-    "format": "review",
-    "why_winnable": "Mainstream reviews focus on voice actors and tech devs. Independent podcasters looking for intro narration, host voice cloning, or guest replacement are underserved by broad reviews.",
-    "search_promise": "A straightforward ROI analysis covering monthly character credit consumption for a 30-minute episode, voice cloning fidelity, and commercial licensing breakdown for podcast feeds.",
-    "slug": "is-elevenlabs-worth-it-for-independent-podcasters",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "best speechify alternatives for language learners",
     "cluster": "voice-ai",
     "intent": "alternatives",
