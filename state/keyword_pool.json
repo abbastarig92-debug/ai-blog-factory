@@ -12,6 +12,30 @@
     "paid_tool": "Speechify"
   },
   {
+    "keyword": "speechify vs naturalreader for professional content creators",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 26,
+    "format": "comparison",
+    "why_winnable": "While 'Speechify alternatives' is competitive, the direct head-to-head for 'professional creators' filters for high-intent buyers looking for export rights.",
+    "search_promise": "Comparison of voice naturalness, commercial usage rights, and file export formats for YouTube and social media creators.",
+    "slug": "speechify-vs-naturalreader-for-professional-content-creators",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "elevenlabs vs murf ai for commercial radio ads",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 200,
+    "est_difficulty": 31,
+    "format": "comparison",
+    "why_winnable": "Targets the specific 'radio ad' niche which requires high-fidelity emotional range, a strength of ElevenLabs that general reviews overlook.",
+    "search_promise": "Analysis of emotional tone controls, pacing, and audio quality specifically for 30-second commercial spots.",
+    "slug": "elevenlabs-vs-murf-ai-for-commercial-radio-ads",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "best speechify alternatives for language learners",
     "cluster": "voice-ai",
     "intent": "alternatives",
