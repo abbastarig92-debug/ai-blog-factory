@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "is synthesia worth it for small business training videos",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 210,
-    "est_difficulty": 22,
-    "format": "review",
-    "why_winnable": "Targets a specific ROI-focused query for SMBs rather than broad 'Synthesia review' head terms.",
-    "search_promise": "A cost-comparison table between traditional video production and a Synthesia subscription for internal training.",
-    "slug": "is-synthesia-worth-it-for-small-business-training-videos",
-    "paid_tool": "Synthesia"
-  },
-  {
-    "keyword": "elevenlabs vs play.ht for realistic character voices",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 380,
-    "est_difficulty": 25,
-    "format": "comparison",
-    "why_winnable": "Focuses on 'character voices' which is a high-growth niche for indie game devs and storytellers.",
-    "search_promise": "Side-by-side audio samples comparing the emotional range and 'shouting' capabilities of both tools.",
-    "slug": "elevenlabs-vs-playht-for-realistic-character-voices",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "speechify review for busy professionals with long commutes",
     "cluster": "voice-ai",
     "intent": "commercial",
