@@ -1,11 +1,7 @@
 {
   "published": [
-    "best-ai-image-generator-vintage-travel-posters"
+    "speechify-review-busy-professionals-long-commutes",
+    "speechify-vs-naturalreader-content-creators"
   ],
-  "failed": [
-    {
-      "title": "Synthesia vs HeyGen: The Best AI Video Platform for Small Agency Production (2024)",
-      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini HTTP 503 على models/gemini-flash-latest:generateContent — {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    }
-  ]
+  "failed": []
 }

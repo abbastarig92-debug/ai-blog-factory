@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "speechify review for busy professionals with long commutes",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 320,
-    "est_difficulty": 26,
-    "format": "review",
-    "why_winnable": "Targets a high-income audience looking for productivity hacks rather than students looking for free tools.",
-    "search_promise": "A guide on how to sync work PDFs and newsletters to the mobile app for eyes-free consumption during travel.",
-    "slug": "speechify-review-for-busy-professionals-with-long-commutes",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "speechify vs naturalreader for professional content creators",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 26,
-    "format": "comparison",
-    "why_winnable": "While 'Speechify alternatives' is competitive, the direct head-to-head for 'professional creators' filters for high-intent buyers looking for export rights.",
-    "search_promise": "Comparison of voice naturalness, commercial usage rights, and file export formats for YouTube and social media creators.",
-    "slug": "speechify-vs-naturalreader-for-professional-content-creators",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "elevenlabs vs murf ai for commercial radio ads",
     "cluster": "voice-ai",
     "intent": "commercial",
