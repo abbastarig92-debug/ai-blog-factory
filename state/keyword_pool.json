@@ -1,5 +1,41 @@
 [
   {
+    "keyword": "koala ai vs jasper ai for affiliate bloggers",
+    "cluster": "writing-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 28,
+    "format": "comparison",
+    "why_winnable": "Compares a cost-effective bulk writer (Koala) against a bloated enterprise writer (Jasper) tailored to a specific monetization intent.",
+    "search_promise": "Head-to-head pricing, Amazon/SEO integration comparison, and raw output quality tests specifically for niche affiliate sites.",
+    "slug": "koala-ai-vs-jasper-ai-for-affiliate-bloggers",
+    "paid_tool": "Koala AI"
+  },
+  {
+    "keyword": "synthesia review for real estate video tours",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 320,
+    "est_difficulty": 24,
+    "format": "review",
+    "why_winnable": "Ultra-specific long-tail query focusing on realtors using avatar videos, avoiding high-authority generic avatar review pages.",
+    "search_promise": "A realistic breakdown of Synthesia's real estate avatar video quality, rendering speed, cost per property video, and sample output walkthrough.",
+    "slug": "synthesia-review-for-real-estate-video-tours",
+    "paid_tool": "Synthesia"
+  },
+  {
+    "keyword": "speechify review for online course creators",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 390,
+    "est_difficulty": 22,
+    "format": "review",
+    "why_winnable": "Niche use-case query targeting educators needing audio narration tools, bypassing generic consumer reading app reviews.",
+    "search_promise": "Detailed analysis of voice naturalness, commercial licensing rights, slide narration features, and pricing for course creation.",
+    "slug": "speechify-review-for-online-course-creators",
+    "paid_tool": "Speechify"
+  },
+  {
     "keyword": "elevenlabs vs murf ai for commercial radio ads",
     "cluster": "voice-ai",
     "intent": "commercial",
