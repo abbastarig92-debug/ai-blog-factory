@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "speechify review for online course creators",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 390,
-    "est_difficulty": 22,
-    "format": "review",
-    "why_winnable": "Niche use-case query targeting educators needing audio narration tools, bypassing generic consumer reading app reviews.",
-    "search_promise": "Detailed analysis of voice naturalness, commercial licensing rights, slide narration features, and pricing for course creation.",
-    "slug": "speechify-review-for-online-course-creators",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "elevenlabs vs murf ai for commercial radio ads",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 200,
-    "est_difficulty": 31,
-    "format": "comparison",
-    "why_winnable": "Targets the specific 'radio ad' niche which requires high-fidelity emotional range, a strength of ElevenLabs that general reviews overlook.",
-    "search_promise": "Analysis of emotional tone controls, pacing, and audio quality specifically for 30-second commercial spots.",
-    "slug": "elevenlabs-vs-murf-ai-for-commercial-radio-ads",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "best speechify alternatives for language learners",
     "cluster": "voice-ai",
     "intent": "alternatives",
