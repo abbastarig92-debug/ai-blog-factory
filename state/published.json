@@ -1558,5 +1558,21 @@
     "keyword": "best n8n workflow for automated blog publishing to wordpress",
     "cluster": "automation",
     "draft": true
+  },
+  {
+    "slug": "koala-ai-vs-jasper-ai-affiliate-bloggers",
+    "title": "Koala AI vs Jasper AI for Affiliate Bloggers: ROI Test",
+    "date": "2026-11-07T11:44:49+00:00",
+    "keyword": "koala ai vs jasper ai for affiliate bloggers",
+    "cluster": "writing-ai",
+    "draft": false
+  },
+  {
+    "slug": "synthesia-review-real-estate-video-tours",
+    "title": "Synthesia Review for Real Estate Video Tours: Worth It?",
+    "date": "2026-11-07T11:50:05+00:00",
+    "keyword": "synthesia review for real estate video tours",
+    "cluster": "video-ai",
+    "draft": false
   }
 ]
