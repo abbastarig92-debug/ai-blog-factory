@@ -1,5 +1,17 @@
 [
   {
+    "keyword": "speechify vs naturalreader for long pdf reading",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 320,
+    "est_difficulty": 18,
+    "format": "comparison",
+    "why_winnable": "Extremely specific utility comparison targeting power users processing dense documents rather than broad consumer text-to-speech queries.",
+    "search_promise": "Detailed testing on how both tools handle complex multi-page document formatting, footnotes, reading speed accuracy, and cross-device sync.",
+    "slug": "speechify-vs-naturalreader-for-long-pdf-reading",
+    "paid_tool": "Speechify"
+  },
+  {
     "keyword": "best speechify alternatives for language learners",
     "cluster": "voice-ai",
     "intent": "alternatives",
