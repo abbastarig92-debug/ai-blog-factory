@@ -1,5 +1,17 @@
 [
   {
+    "keyword": "synthesia vs heygen for small business marketing",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 480,
+    "est_difficulty": 24,
+    "format": "comparison",
+    "why_winnable": "Mid-to-low difficulty comparison search targeting small marketing teams choosing between the top two avatar video platforms.",
+    "search_promise": "Side-by-side render quality tests, avatar realism comparison, and pricing breakdowns specifically tailored for small business budgets.",
+    "slug": "synthesia-vs-heygen-for-small-business-marketing",
+    "paid_tool": "Synthesia"
+  },
+  {
     "keyword": "speechify vs naturalreader for long pdf reading",
     "cluster": "voice-ai",
     "intent": "commercial",
@@ -10,6 +22,30 @@
     "search_promise": "Detailed testing on how both tools handle complex multi-page document formatting, footnotes, reading speed accuracy, and cross-device sync.",
     "slug": "speechify-vs-naturalreader-for-long-pdf-reading",
     "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "is speechify worth it for youtube content creators",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 390,
+    "est_difficulty": 21,
+    "format": "review",
+    "why_winnable": "Targets Youtubers assessing voiceover software ROI without competing against broad, high-authority educational queries.",
+    "search_promise": "Audio sample side-by-side comparison with human voiceovers, YouTube monetization policy compliance breakdown, and tier recommendation.",
+    "slug": "is-speechify-worth-it-for-youtube-content-creators",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "elevenlabs vs play.ht for youtube shorts narration",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 290,
+    "est_difficulty": 22,
+    "format": "comparison",
+    "why_winnable": "Highly niche comparison keyword focused strictly on short-form video creators evaluating latency, voice emotion, and pricing per character.",
+    "search_promise": "Audio generation speed tests, emotional expression benchmarks for viral short-form hooks, and exact per-video cost calculations.",
+    "slug": "elevenlabs-vs-playht-for-youtube-shorts-narration",
+    "paid_tool": "ElevenLabs"
   },
   {
     "keyword": "best speechify alternatives for language learners",
