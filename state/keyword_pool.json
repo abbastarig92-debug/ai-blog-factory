@@ -118,5 +118,41 @@
     "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
     "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
     "paid_tool": ""
+  },
+  {
+    "keyword": "speechify vs naturalreader for content creators",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 350,
+    "est_difficulty": 25,
+    "format": "comparison",
+    "why_winnable": "Compares two dominant text-to-speech tools tailored specifically for voiceovers and creator workflows rather than academic/dyslexia accessibility.",
+    "search_promise": "Detailed breakdown comparing commercial licensing rights, audio export formats, voice emotional nuance, and pricing tiers for video narration.",
+    "slug": "speechify-vs-naturalreader-for-content-creators",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "elevenlabs vs dubverse for video localization",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 290,
+    "est_difficulty": 21,
+    "format": "comparison",
+    "why_winnable": "Specific comparison focusing on AI auto-dubbing and language translation capabilities, where intent is heavily tied to buying software.",
+    "search_promise": "Side-by-side performance audit evaluating voice clone accuracy, multi-language support, automatic subtitle generation, and cost per dubbing minute.",
+    "slug": "elevenlabs-vs-dubverse-for-video-localization",
+    "paid_tool": "ElevenLabs"
+  },
+  {
+    "keyword": "best ai image generator for custom stickers",
+    "cluster": "image-ai",
+    "intent": "commercial",
+    "est_volume": 510,
+    "est_difficulty": 19,
+    "format": "listicle",
+    "why_winnable": "Low-competition long-tail term targeting print-on-demand sellers and Etsy creators needing specific vector-like and transparent output features.",
+    "search_promise": "Curated ranking of AI image tools ranked by line-art clean outline generation, transparent background export options, and commercial design rights.",
+    "slug": "best-ai-image-generator-for-custom-stickers",
+    "paid_tool": ""
   }
 ]

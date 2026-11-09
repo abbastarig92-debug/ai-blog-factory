@@ -1,5 +1,24 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-09",
   "gsc_connected": false,
-  "actions": []
+  "actions": [
+    {
+      "slug": "ai-video-tools-which-camp",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-ai-thumbnail-maker-gaming-youtube",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "photoroom-vs-flair-ai-ecommerce-photos",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    }
+  ]
 }
