@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "speechify vs naturalreader for long pdf reading",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 320,
-    "est_difficulty": 18,
-    "format": "comparison",
-    "why_winnable": "Extremely specific utility comparison targeting power users processing dense documents rather than broad consumer text-to-speech queries.",
-    "search_promise": "Detailed testing on how both tools handle complex multi-page document formatting, footnotes, reading speed accuracy, and cross-device sync.",
-    "slug": "speechify-vs-naturalreader-for-long-pdf-reading",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "is speechify worth it for youtube content creators",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 390,
-    "est_difficulty": 21,
-    "format": "review",
-    "why_winnable": "Targets Youtubers assessing voiceover software ROI without competing against broad, high-authority educational queries.",
-    "search_promise": "Audio sample side-by-side comparison with human voiceovers, YouTube monetization policy compliance breakdown, and tier recommendation.",
-    "slug": "is-speechify-worth-it-for-youtube-content-creators",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "elevenlabs vs dubverse for video localization",
     "cluster": "voice-ai",
     "intent": "commercial",
