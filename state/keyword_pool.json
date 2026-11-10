@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "elevenlabs vs dubverse for video localization",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 290,
-    "est_difficulty": 21,
-    "format": "comparison",
-    "why_winnable": "Specific comparison focusing on AI auto-dubbing and language translation capabilities, where intent is heavily tied to buying software.",
-    "search_promise": "Side-by-side performance audit evaluating voice clone accuracy, multi-language support, automatic subtitle generation, and cost per dubbing minute.",
-    "slug": "elevenlabs-vs-dubverse-for-video-localization",
-    "paid_tool": "ElevenLabs"
-  },
-  {
-    "keyword": "elevenlabs vs play.ht for youtube shorts narration",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 290,
-    "est_difficulty": 22,
-    "format": "comparison",
-    "why_winnable": "Highly niche comparison keyword focused strictly on short-form video creators evaluating latency, voice emotion, and pricing per character.",
-    "search_promise": "Audio generation speed tests, emotional expression benchmarks for viral short-form hooks, and exact per-video cost calculations.",
-    "slug": "elevenlabs-vs-playht-for-youtube-shorts-narration",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "speechify vs naturalreader for content creators",
     "cluster": "voice-ai",
     "intent": "commercial",
