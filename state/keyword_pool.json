@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "synthesia review for personalized sales videos",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 250,
-    "est_difficulty": 22,
-    "format": "review",
-    "why_winnable": "Targets a specific B2B use case (sales outreach) rather than general marketing, avoiding broad competition from high-authority tech blogs.",
-    "search_promise": "A side-by-side comparison of avatar realism for direct sales and a breakdown of the dynamic personalization API features.",
-    "slug": "synthesia-review-for-personalized-sales-videos",
-    "paid_tool": "Synthesia"
-  },
-  {
-    "keyword": "is speechify premium worth it for productivity",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 550,
-    "est_difficulty": 24,
-    "format": "review",
-    "why_winnable": "Targets the 'is it worth it' stage of the buyer journey for power users, which is less competitive than broad 'best text to speech' keywords.",
-    "search_promise": "A cost-benefit analysis focusing on time saved for heavy readers and a list of features exclusive to the Premium tier.",
-    "slug": "is-speechify-premium-worth-it-for-productivity",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "speechify vs naturalreader for content creators",
     "cluster": "voice-ai",
     "intent": "commercial",
