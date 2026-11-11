@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Speechify vs NaturalReader for Professional Content Creators">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Speechify vs NaturalReader for Content Creators: Best Voice?">
 <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
 <stop offset="0" stop-color="#0F172A"/><stop offset="1" stop-color="#1E293B"/>
 </linearGradient></defs>
@@ -10,6 +10,6 @@
 <rect x="760" y="424" width="22" height="136" rx="4" fill="#F2B544" opacity="0.25"/><rect x="798" y="492" width="22" height="68" rx="4" fill="#F2B544" opacity="0.40"/><rect x="836" y="492" width="22" height="68" rx="4" fill="#F2B544" opacity="0.55"/><rect x="874" y="288" width="22" height="272" rx="4" fill="#F2B544" opacity="0.70"/><rect x="912" y="390" width="22" height="170" rx="4" fill="#F2B544" opacity="0.85"/><rect x="950" y="390" width="22" height="170" rx="4" fill="#F2B544" opacity="0.25"/><rect x="988" y="458" width="22" height="102" rx="4" fill="#F2B544" opacity="0.40"/><rect x="1026" y="424" width="22" height="136" rx="4" fill="#F2B544" opacity="0.55"/><rect x="1064" y="458" width="22" height="102" rx="4" fill="#F2B544" opacity="0.70"/>
 <rect x="80" y="86" width="216" height="38" rx="19" fill="#F2B544"/>
 <text x="100" y="112" font-family="Inter, Segoe UI, sans-serif" font-size="18" font-weight="700" fill="#0F172A" letter-spacing="1">AI VOICE &amp; AUDIO</text>
-<text x="80" y="270" font-family="Inter, Segoe UI, sans-serif" font-size="64" font-weight="800" fill="#FFFFFF"><tspan x="80" dy="0">Speechify vs NaturalReader</tspan><tspan x="80" dy="78">for Professional Content</tspan><tspan x="80" dy="78">Creators</tspan></text>
+<text x="80" y="270" font-family="Inter, Segoe UI, sans-serif" font-size="64" font-weight="800" fill="#FFFFFF"><tspan x="80" dy="0">Speechify vs NaturalReader</tspan><tspan x="80" dy="78">for Content Creators: Best</tspan><tspan x="80" dy="78">Voice?</tspan></text>
 <text x="80" y="565" font-family="Inter, Segoe UI, sans-serif" font-size="24" font-weight="600" fill="#F2B544">ToolStack Lab</text>
 </svg>

@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "speechify vs naturalreader for content creators",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 350,
-    "est_difficulty": 25,
-    "format": "comparison",
-    "why_winnable": "Compares two dominant text-to-speech tools tailored specifically for voiceovers and creator workflows rather than academic/dyslexia accessibility.",
-    "search_promise": "Detailed breakdown comparing commercial licensing rights, audio export formats, voice emotional nuance, and pricing tiers for video narration.",
-    "slug": "speechify-vs-naturalreader-for-content-creators",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "elevenlabs vs murf ai for professional explainer videos",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 380,
-    "est_difficulty": 26,
-    "format": "comparison",
-    "why_winnable": "While general comparisons exist, focusing specifically on 'explainer videos' captures a high-intent commercial audience looking for corporate-grade voiceovers.",
-    "search_promise": "Embedded audio samples of the same technical script read by both platforms to compare 'professional' vs 'robotic' tones.",
-    "slug": "elevenlabs-vs-murf-ai-for-professional-explainer-videos",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "best speechify alternatives for language learners",
     "cluster": "voice-ai",
     "intent": "alternatives",
