@@ -1,5 +1,29 @@
 [
   {
+    "keyword": "synthesia vs heygen for software product demos",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 420,
+    "est_difficulty": 22,
+    "format": "comparison",
+    "why_winnable": "Focuses on a specific business use case (SaaS demos) rather than broad video generation, allowing high topical relevance.",
+    "search_promise": "A direct comparison table analyzing screen recording capabilities, avatar naturalness, and pricing models for SaaS product walkthroughs.",
+    "slug": "synthesia-vs-heygen-for-software-product-demos",
+    "paid_tool": "Synthesia"
+  },
+  {
+    "keyword": "best ai motion graphics generator for lofi music channels",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 260,
+    "est_difficulty": 15,
+    "format": "listicle",
+    "why_winnable": "Hyper-niche intent targeting YouTube channel creators looking for seamless animated loop generation without After Effects skills.",
+    "search_promise": "A curated list of AI tools that generate seamless, aesthetic 2D and 3D animated visual loops optimized for long YouTube audio streams.",
+    "slug": "best-ai-motion-graphics-generator-for-lofi-music-channels",
+    "paid_tool": ""
+  },
+  {
     "keyword": "best speechify alternatives for language learners",
     "cluster": "voice-ai",
     "intent": "alternatives",
