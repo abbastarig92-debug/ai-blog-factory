@@ -1,17 +1,5 @@
 [
   {
-    "keyword": "elevenlabs vs capcut ai voice for content creators",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 410,
-    "est_difficulty": 24,
-    "format": "comparison",
-    "why_winnable": "Compares high-end pro voice synthesis against CapCut's free built-in voices for budget-conscious YouTube Shorts and TikTok creators.",
-    "search_promise": "Audio sample side-by-side clips, commercial licensing rules comparison, workflow efficiency for short-form video, and cost vs quality decision framework.",
-    "slug": "elevenlabs-vs-capcut-ai-voice-for-content-creators",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "best speechify alternatives for language learners",
     "cluster": "voice-ai",
     "intent": "alternatives",
@@ -45,6 +33,18 @@
     "why_winnable": "Course creators need natural-sounding, clear voices for long-form educational content. This commercial intent keyword allows us to rank above generic tech blogs by focusing purely on educational use cases.",
     "search_promise": "A ranked list of the top AI voice generators evaluated specifically on pronunciation accuracy, multi-language support, and pricing for long-form course narration.",
     "slug": "best-ai-voice-generator-for-e-learning-courses",
+    "paid_tool": ""
+  },
+  {
+    "keyword": "best free ai voice generator for faceless tiktok videos",
+    "cluster": "voice-ai",
+    "intent": "transactional",
+    "est_volume": 590,
+    "est_difficulty": 26,
+    "format": "listicle",
+    "why_winnable": "Long-tail modifier combination (free + faceless tiktok) filters out high-authority generic queries while capturing active creators ready to test tools.",
+    "search_promise": "A curated list of top AI voice generators with free tiers suitable for TikTok narration, emphasizing commercial safety, export limits, and voice realism.",
+    "slug": "best-free-ai-voice-generator-for-faceless-tiktok-videos",
     "paid_tool": ""
   },
   {
