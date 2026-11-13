@@ -1,5 +1,17 @@
 [
   {
+    "keyword": "elevenlabs vs capcut ai voice for content creators",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 410,
+    "est_difficulty": 24,
+    "format": "comparison",
+    "why_winnable": "Compares high-end pro voice synthesis against CapCut's free built-in voices for budget-conscious YouTube Shorts and TikTok creators.",
+    "search_promise": "Audio sample side-by-side clips, commercial licensing rules comparison, workflow efficiency for short-form video, and cost vs quality decision framework.",
+    "slug": "elevenlabs-vs-capcut-ai-voice-for-content-creators",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "best speechify alternatives for language learners",
     "cluster": "voice-ai",
     "intent": "alternatives",
