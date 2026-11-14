@@ -1,5 +1,29 @@
 [
   {
+    "keyword": "best elevenlabs alternatives for corporate video voiceovers",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 290,
+    "est_difficulty": 19,
+    "format": "alternatives",
+    "why_winnable": "Searchers are looking specifically for commercial usage rights and professional tone options without consumer-focused voice cloning fluff.",
+    "search_promise": "A curated list of corporate-ready text-to-speech tools offering commercial licensing, multi-speaker dialogue controls, and professional studio sounds.",
+    "slug": "best-elevenlabs-alternatives-for-corporate-video-voiceovers",
+    "paid_tool": "ElevenLabs"
+  },
+  {
+    "keyword": "speechify vs naturalreader for university students",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 520,
+    "est_difficulty": 21,
+    "format": "comparison",
+    "why_winnable": "Student searchers want actionable breakdowns comparing PDF OCR scanning accuracy and study speed features rather than high-level brand summaries.",
+    "search_promise": "A student-centric evaluation comparing pricing discounts, mobile app PDF scanning, speed controls, and listening comprehension features.",
+    "slug": "speechify-vs-naturalreader-for-university-students",
+    "paid_tool": "Speechify"
+  },
+  {
     "keyword": "best speechify alternatives for language learners",
     "cluster": "voice-ai",
     "intent": "alternatives",
