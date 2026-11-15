@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "speechify vs naturalreader for listening to ebooks",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 390,
-    "est_difficulty": 25,
-    "format": "comparison",
-    "why_winnable": "Narrows down text-to-speech tools specifically for long-form DRM/EPUB ebook reading rather than short web articles or academic PDFs.",
-    "search_promise": "A head-to-head review comparing EPUB file compatibility, cross-device sync reliability, offline listening features, and annual subscription values.",
-    "slug": "speechify-vs-naturalreader-for-listening-to-ebooks",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "best speechify alternatives for language learners",
-    "cluster": "voice-ai",
-    "intent": "alternatives",
-    "est_volume": 350,
-    "est_difficulty": 26,
-    "format": "alternatives",
-    "why_winnable": "Speechify search queries are saturated for generic dyslexia and student terms, but language acquisition (accent practice, pronunciation playback speed, bilingual support) remains uncontested by big authority sites.",
-    "search_promise": "A curated table of top text-to-speech tools featuring language learner-specific criteria (natural foreign accents, sentence looping, playback pitch control), explicitly explaining why Speechify often remains the gold standard.",
-    "slug": "best-speechify-alternatives-for-language-learners",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "best ai voice generator for video sales letters",
     "cluster": "voice-ai",
     "intent": "commercial",
