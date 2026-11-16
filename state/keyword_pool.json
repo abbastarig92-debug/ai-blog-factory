@@ -1,5 +1,17 @@
 [
   {
+    "keyword": "synthesia vs heygen for b2b video marketing",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 29,
+    "format": "comparison",
+    "why_winnable": "Focuses strictly on the B2B marketing audience, avoiding high-competition general avatar generator keywords.",
+    "search_promise": "Feature breakdown comparing avatar realism, enterprise security features, integration options, and exact ROI potential for corporate marketing teams.",
+    "slug": "synthesia-vs-heygen-for-b2b-video-marketing",
+    "paid_tool": "Synthesia"
+  },
+  {
     "keyword": "best ai voice generator for video sales letters",
     "cluster": "voice-ai",
     "intent": "commercial",
@@ -81,42 +93,6 @@
     "why_winnable": "Creators are looking for global reach; this targets the 'how-to' intent which leads naturally to tool recommendations.",
     "search_promise": "A workflow for exporting SRT files and using ElevenLabs or Rask to sync audio in new languages.",
     "slug": "how-to-translate-youtube-videos-with-ai-dubbing",
-    "paid_tool": ""
-  },
-  {
-    "keyword": "koala ai vs jasper for niche website bloggers",
-    "cluster": "writing-ai",
-    "intent": "commercial",
-    "est_volume": 380,
-    "est_difficulty": 24,
-    "format": "comparison",
-    "why_winnable": "Targets niche site builders rather than broad content teams, bypassing generic Jasper software comparisons to rank on a highly specific commercial use case.",
-    "search_promise": "Side-by-side cost per article breakdown, real uncensored output quality comparison, and a clear verdict tailored to affiliate site owners.",
-    "slug": "koala-ai-vs-jasper-for-niche-website-bloggers",
-    "paid_tool": "Koala AI"
-  },
-  {
-    "keyword": "synthesia vs heygen for b2b video marketing",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 29,
-    "format": "comparison",
-    "why_winnable": "Focuses strictly on the B2B marketing audience, avoiding high-competition general avatar generator keywords.",
-    "search_promise": "Feature breakdown comparing avatar realism, enterprise security features, integration options, and exact ROI potential for corporate marketing teams.",
-    "slug": "synthesia-vs-heygen-for-b2b-video-marketing",
-    "paid_tool": "Synthesia"
-  },
-  {
-    "keyword": "how to build an automated content publishing workflow with n8n",
-    "cluster": "automation",
-    "intent": "informational",
-    "est_volume": 290,
-    "est_difficulty": 18,
-    "format": "how-to",
-    "why_winnable": "Low competition technical guide for n8n self-hosters; ideal vehicle to naturally plug Koala AI and ElevenLabs API integrations for affiliate conversions.",
-    "search_promise": "A step-by-step tutorial with downloadable n8n JSON workflow nodes that automate blog generation and multi-channel publishing.",
-    "slug": "how-to-build-an-automated-content-publishing-workflow-with-n8n",
     "paid_tool": ""
   }
 ]
