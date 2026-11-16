@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "synthesia vs heygen for b2b video marketing",
-    "cluster": "video-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 29,
-    "format": "comparison",
-    "why_winnable": "Focuses strictly on the B2B marketing audience, avoiding high-competition general avatar generator keywords.",
-    "search_promise": "Feature breakdown comparing avatar realism, enterprise security features, integration options, and exact ROI potential for corporate marketing teams.",
-    "slug": "synthesia-vs-heygen-for-b2b-video-marketing",
-    "paid_tool": "Synthesia"
-  },
-  {
-    "keyword": "best ai voice generator for video sales letters",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 260,
-    "est_difficulty": 19,
-    "format": "listicle",
-    "why_winnable": "Most generic TTS listicles ignore direct response marketing criteria such as pacing, urgency inflections, and conversational credibility required for VSL conversions.",
-    "search_promise": "Tested recommendations of high-converting AI voices specifically tuned for pacing, persuasive emphasis, and retention in commercial video sales letters.",
-    "slug": "best-ai-voice-generator-for-video-sales-letters",
-    "paid_tool": ""
-  },
-  {
     "keyword": "best ai voice generator for narration of audiobook trailers",
     "cluster": "voice-ai",
     "intent": "commercial",
