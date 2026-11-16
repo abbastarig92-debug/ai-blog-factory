@@ -1,9 +1,45 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-16",
   "gsc_connected": false,
   "actions": [
     {
       "slug": "ai-video-tools-which-camp",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "automate-pinterest-pins-spreadsheet-ai",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-ai-blog-writer-shopify-stores",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-ai-image-generator-etsy-digital-products",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-ai-logo-generator-vector-graphics",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-ai-motion-graphics-generator-after-effects",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-ai-product-photography-app-shopify",
       "action": "refresh_or_merge",
       "reason": "بلا ظهور بعد 60 يوماً",
       "queries": []
@@ -15,7 +51,163 @@
       "queries": []
     },
     {
+      "slug": "best-ai-video-editor-course-creators",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-ai-voice-dubbing-youtube-shorts",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-ai-writing-tool-technical-b2b",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-free-ai-background-remover-product-photos",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-free-ai-blog-automation-wordpress",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-free-ai-book-cover-generator",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-free-ai-dubbing-software-youtube",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-n8n-workflow-templates-content-marketing",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-open-source-ai-agent-framework-for-beginners",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "descript-vs-adobe-podcast-ai-solo",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "elevenlabs-alternatives-for-commercial-voiceover-free",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "elevenlabs-review-for-audiobook-narrators",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "invideo-ai-vs-capcut-for-reels",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "is-elevenlabs-worth-it-faceless-youtube",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "is-elevenlabs-worth-it-podcast-voiceover",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "koala-writer-vs-jasper-ai-niche-sites",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "make-com-vs-n8n-content-creators",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "make-com-vs-webhooks-publishing",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "n8n-automated-youtube-workflow",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "neuronwriter-vs-surfer-seo-small-agency",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "pabbly-connect-vs-make-com-publishing",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
       "slug": "photoroom-vs-flair-ai-ecommerce-photos",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "synthesia-review-small-business-training-videos",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "synthesia-vs-colossyan-real-estate-videos",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "synthesia-vs-heygen-corporate-training-videos",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "use-ai-write-newsletter-content-fast",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "writesonic-vs-copy-ai-social-media-captions",
       "action": "refresh_or_merge",
       "reason": "بلا ظهور بعد 60 يوماً",
       "queries": []
