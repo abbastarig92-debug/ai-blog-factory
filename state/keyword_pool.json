@@ -1,5 +1,29 @@
 [
   {
+    "keyword": "speechify vs naturalreader for academic research papers",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 280,
+    "est_difficulty": 22,
+    "format": "comparison",
+    "why_winnable": "Most TTS comparisons focus on casual book reading or general accessibility. A targeted article analyzing how each software parses multi-column PDFs, skips citations, and pronounces technical nomenclature captures a distinct, underserved audience.",
+    "search_promise": "Direct feature checklist testing PDF OCR accuracy, automated citation skipping, playback speed stability past 2.5x, and mobile cross-platform sync for scholars.",
+    "slug": "speechify-vs-naturalreader-for-academic-research-papers",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "elevenlabs vs voicemaker for youtube automation channels",
+    "cluster": "voice-ai",
+    "intent": "comparison",
+    "est_volume": 310,
+    "est_difficulty": 18,
+    "format": "comparison",
+    "why_winnable": "Faceless YouTube creators constantly balance audio realism against tight production budgets. Established sites overlook Voicemaker entirely, leaving an open lane to contrast ElevenLabs' premium voice quality with budget-friendly bulk generation.",
+    "search_promise": "Cost analysis table per 10-minute video script, retention-rate comparison between standard neural voices and generative voice cloning, and YouTube monetization safety verdicts.",
+    "slug": "elevenlabs-vs-voicemaker-for-youtube-automation-channels",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "best ai voice generator for narration of audiobook trailers",
     "cluster": "voice-ai",
     "intent": "commercial",
