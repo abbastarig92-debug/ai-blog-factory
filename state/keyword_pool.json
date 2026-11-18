@@ -1,5 +1,41 @@
 [
   {
+    "keyword": "koala ai vs jasper for automated affiliate blogging",
+    "cluster": "writing-ai",
+    "intent": "commercial",
+    "est_volume": 400,
+    "est_difficulty": 29,
+    "format": "comparison",
+    "why_winnable": "Jasper is a high-authority term, but the 'automated affiliate' long-tail angle focuses on Koala's superior Amazon integration and lower cost per word.",
+    "search_promise": "A cost-per-article breakdown and a comparison of real-time web search capabilities for product roundups.",
+    "slug": "koala-ai-vs-jasper-for-automated-affiliate-blogging",
+    "paid_tool": "Koala AI"
+  },
+  {
+    "keyword": "elevenlabs review for true crime youtube narrators",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 500,
+    "est_difficulty": 24,
+    "format": "review",
+    "why_winnable": "True crime is a massive sub-niche where creators specifically search for 'gravelly' or 'suspenseful' AI voices that ElevenLabs provides.",
+    "search_promise": "Audio samples of specific ElevenLabs voice models (like 'Marcus' or 'Antoni') optimized for suspenseful storytelling.",
+    "slug": "elevenlabs-review-for-true-crime-youtube-narrators",
+    "paid_tool": "ElevenLabs"
+  },
+  {
+    "keyword": "speechify vs naturalreader for professional voiceover work",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 450,
+    "est_difficulty": 26,
+    "format": "comparison",
+    "why_winnable": "Focuses on the 'professional' segment rather than student accessibility, allowing for a focus on commercial licensing and API quality.",
+    "search_promise": "A side-by-side audio quality test and a breakdown of commercial usage rights for freelance voiceover artists.",
+    "slug": "speechify-vs-naturalreader-for-professional-voiceover-work",
+    "paid_tool": "Speechify"
+  },
+  {
     "keyword": "best ai voice generator for narration of audiobook trailers",
     "cluster": "voice-ai",
     "intent": "commercial",
