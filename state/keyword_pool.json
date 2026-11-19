@@ -1,17 +1,5 @@
 [
   {
-    "keyword": "speechify vs naturalreader for professional voiceover work",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 26,
-    "format": "comparison",
-    "why_winnable": "Focuses on the 'professional' segment rather than student accessibility, allowing for a focus on commercial licensing and API quality.",
-    "search_promise": "A side-by-side audio quality test and a breakdown of commercial usage rights for freelance voiceover artists.",
-    "slug": "speechify-vs-naturalreader-for-professional-voiceover-work",
-    "paid_tool": "Speechify"
-  },
-  {
     "keyword": "best ai voice generator for narration of audiobook trailers",
     "cluster": "voice-ai",
     "intent": "commercial",
