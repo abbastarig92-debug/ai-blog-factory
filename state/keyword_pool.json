@@ -1,5 +1,41 @@
 [
   {
+    "keyword": "synthesia vs heygen for solo video creators",
+    "cluster": "video-ai",
+    "intent": "commercial",
+    "est_volume": 480,
+    "est_difficulty": 28,
+    "format": "comparison",
+    "why_winnable": "Focuses strictly on the solo creator demographic, bypassing generic corporate software comparison pages dominated by G2.",
+    "search_promise": "Side-by-side breakdown of pricing tiers, avatar realism, and render speeds tailored to one-person content teams.",
+    "slug": "synthesia-vs-heygen-for-solo-video-creators",
+    "paid_tool": "Synthesia"
+  },
+  {
+    "keyword": "speechify vs naturalreader for proofreading articles",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 290,
+    "est_difficulty": 24,
+    "format": "comparison",
+    "why_winnable": "Targets a specific utility use-case (editing/proofreading) rather than broad text-to-speech head terms.",
+    "search_promise": "Feature comparison of browser extension playback controls, speed adjustments, and voice naturalness for spot-checking typos.",
+    "slug": "speechify-vs-naturalreader-for-proofreading-articles",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "is elevenlabs worth it for faceless youtube channels",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 520,
+    "est_difficulty": 26,
+    "format": "review",
+    "why_winnable": "Directly targets the fast-growing faceless automation niche, addressing monetizability and monthly credit costs.",
+    "search_promise": "Unit economics analysis of ElevenLabs monthly tier cost versus channel earnings, plus YouTube monetization safety guidance.",
+    "slug": "is-elevenlabs-worth-it-for-faceless-youtube-channels",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "best ai voice generator for narration of audiobook trailers",
     "cluster": "voice-ai",
     "intent": "commercial",
