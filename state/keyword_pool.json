@@ -12,6 +12,18 @@
     "paid_tool": "ElevenLabs"
   },
   {
+    "keyword": "elevenlabs vs amazon polly for high volume text to speech",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 320,
+    "est_difficulty": 26,
+    "format": "comparison",
+    "why_winnable": "This targets the 'prosumer' and developer audience looking to scale, moving away from the crowded 'best voice generator' head term.",
+    "search_promise": "An analysis of API pricing, latency, and emotional range for creators needing to generate thousands of hours of audio content.",
+    "slug": "elevenlabs-vs-amazon-polly-for-high-volume-text-to-speech",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "best ai voice generator for narration of audiobook trailers",
     "cluster": "voice-ai",
     "intent": "commercial",
