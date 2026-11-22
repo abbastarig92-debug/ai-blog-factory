@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "is elevenlabs worth it for faceless youtube channels",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 520,
-    "est_difficulty": 26,
-    "format": "review",
-    "why_winnable": "Directly targets the fast-growing faceless automation niche, addressing monetizability and monthly credit costs.",
-    "search_promise": "Unit economics analysis of ElevenLabs monthly tier cost versus channel earnings, plus YouTube monetization safety guidance.",
-    "slug": "is-elevenlabs-worth-it-for-faceless-youtube-channels",
-    "paid_tool": "ElevenLabs"
-  },
-  {
-    "keyword": "elevenlabs vs amazon polly for high volume text to speech",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 320,
-    "est_difficulty": 26,
-    "format": "comparison",
-    "why_winnable": "This targets the 'prosumer' and developer audience looking to scale, moving away from the crowded 'best voice generator' head term.",
-    "search_promise": "An analysis of API pricing, latency, and emotional range for creators needing to generate thousands of hours of audio content.",
-    "slug": "elevenlabs-vs-amazon-polly-for-high-volume-text-to-speech",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "best ai voice generator for narration of audiobook trailers",
     "cluster": "voice-ai",
     "intent": "commercial",

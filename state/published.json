@@ -1974,5 +1974,21 @@
     "keyword": "koala ai vs jasper for seo blog writing",
     "cluster": "writing-ai",
     "draft": false
+  },
+  {
+    "slug": "elevenlabs-worth-it-faceless-youtube",
+    "title": "Is ElevenLabs Worth It for Faceless YouTube Channels?",
+    "date": "2026-11-22T20:33:52+00:00",
+    "keyword": "is elevenlabs worth it for faceless youtube channels",
+    "cluster": "voice-ai",
+    "draft": false
+  },
+  {
+    "slug": "elevenlabs-vs-amazon-polly-high-volume-tts",
+    "title": "ElevenLabs vs Amazon Polly for High Volume Text to Speech",
+    "date": "2026-11-22T20:37:03+00:00",
+    "keyword": "elevenlabs vs amazon polly for high volume text to speech",
+    "cluster": "voice-ai",
+    "draft": false
   }
 ]
