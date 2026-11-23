@@ -1,7 +1,13 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-23",
   "gsc_connected": false,
   "actions": [
+    {
+      "slug": "ai-agent-workflow-automated-lead-generation",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
     {
       "slug": "ai-video-tools-which-camp",
       "action": "refresh_or_merge",
@@ -9,7 +15,25 @@
       "queries": []
     },
     {
+      "slug": "auto-post-instagram-reels-n8n-workflow",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
       "slug": "automate-pinterest-pins-spreadsheet-ai",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "automate-social-media-posts-n8n-chatgpt",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-ai-avatar-generator-real-estate",
       "action": "refresh_or_merge",
       "reason": "بلا ظهور بعد 60 يوماً",
       "queries": []
@@ -39,6 +63,12 @@
       "queries": []
     },
     {
+      "slug": "best-ai-product-photography-amazon-fba",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
       "slug": "best-ai-product-photography-app-shopify",
       "action": "refresh_or_merge",
       "reason": "بلا ظهور بعد 60 يوماً",
@@ -57,13 +87,31 @@
       "queries": []
     },
     {
+      "slug": "best-ai-video-generator-faceless-youtube",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
       "slug": "best-ai-voice-dubbing-youtube-shorts",
       "action": "refresh_or_merge",
       "reason": "بلا ظهور بعد 60 يوماً",
       "queries": []
     },
     {
+      "slug": "best-ai-writer-real-estate-listings",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
       "slug": "best-ai-writing-tool-technical-b2b",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-emotional-text-to-speech-software",
       "action": "refresh_or_merge",
       "reason": "بلا ظهور بعد 60 يوماً",
       "queries": []
@@ -93,6 +141,18 @@
       "queries": []
     },
     {
+      "slug": "best-n8n-nodes-for-scraping-content",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-n8n-nodes-social-media-listening",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
       "slug": "best-n8n-workflow-templates-content-marketing",
       "action": "refresh_or_merge",
       "reason": "بلا ظهور بعد 60 يوماً",
@@ -105,7 +165,43 @@
       "queries": []
     },
     {
+      "slug": "best-synthesia-alternatives-small-business-marketing",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "best-text-to-speech-ai-documentary",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "bypass-ai-content-detectors-client-work",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "connect-chatgpt-to-wordpress-webhooks",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "consistent-ai-characters-brand-storytelling",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
       "slug": "descript-vs-adobe-podcast-ai-solo",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "design-modern-logos-using-ideogram-ai",
       "action": "refresh_or_merge",
       "reason": "بلا ظهور بعد 60 يوماً",
       "queries": []
@@ -118,6 +214,24 @@
     },
     {
       "slug": "elevenlabs-review-for-audiobook-narrators",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "elevenlabs-vs-play-ht-for-audiobooks",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "free-text-to-video-ai-no-watermark",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "generate-consistent-characters-midjourney-v6",
       "action": "refresh_or_merge",
       "reason": "بلا ظهور بعد 60 يوماً",
       "queries": []
@@ -141,7 +255,25 @@
       "queries": []
     },
     {
+      "slug": "koala-ai-review-affiliate-marketing-beginners",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "koala-ai-vs-content-at-scale",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
       "slug": "koala-writer-vs-jasper-ai-niche-sites",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "luma-dream-machine-vs-pika-labs",
       "action": "refresh_or_merge",
       "reason": "بلا ظهور بعد 60 يوماً",
       "queries": []
@@ -183,6 +315,24 @@
       "queries": []
     },
     {
+      "slug": "set-up-automated-email-newsletter-chatgpt",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "speechify-review-for-students-with-dyslexia",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "speechify-vs-naturalreader-for-reading-pdfs",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
       "slug": "synthesia-review-small-business-training-videos",
       "action": "refresh_or_merge",
       "reason": "بلا ظهور بعد 60 يوماً",
@@ -196,6 +346,12 @@
     },
     {
       "slug": "synthesia-vs-heygen-corporate-training-videos",
+      "action": "refresh_or_merge",
+      "reason": "بلا ظهور بعد 60 يوماً",
+      "queries": []
+    },
+    {
+      "slug": "upscale-low-resolution-photos-ai-free",
       "action": "refresh_or_merge",
       "reason": "بلا ظهور بعد 60 يوماً",
       "queries": []
