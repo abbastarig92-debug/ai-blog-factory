@@ -1,29 +1,5 @@
 [
   {
-    "keyword": "is speechify premium worth it for graduate students",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 390,
-    "est_difficulty": 19,
-    "format": "review",
-    "why_winnable": "High buyer intent from academic users assessing cost vs benefits, avoiding general TTS broad terms dominated by big software review portals.",
-    "search_promise": "Direct answer analyzing Speechify Premium's PDF scanning accuracy, speed reading feature, academic discount availability, and cost breakdown.",
-    "slug": "is-speechify-premium-worth-it-for-graduate-students",
-    "paid_tool": "Speechify"
-  },
-  {
-    "keyword": "is elevenlabs creator plan worth it for podcasters",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 450,
-    "est_difficulty": 26,
-    "format": "review",
-    "why_winnable": "Targets a specific pricing tier and persona (podcasters using voice clones/intros), low competition compared to main brand queries.",
-    "search_promise": "A clear cost-per-minute breakdown for podcasters, voice cloning quality test results, and credit consumption math under the Creator Plan.",
-    "slug": "is-elevenlabs-creator-plan-worth-it-for-podcasters",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "best ai voice generator for narration of audiobook trailers",
     "cluster": "voice-ai",
     "intent": "commercial",
