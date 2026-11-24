@@ -1,5 +1,17 @@
 [
   {
+    "keyword": "is elevenlabs worth it for indie game developer voice acting",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 290,
+    "est_difficulty": 18,
+    "format": "review",
+    "why_winnable": "Indie devs need specific clarity on commercial royalty rights, emotional voice prompting, and audio clip exporting that general AI reviews omit.",
+    "search_promise": "Unbiased audio sample tests for dialogue/combat sounds, explanation of commercial usage terms, and API credit consumption math for game engines.",
+    "slug": "is-elevenlabs-worth-it-for-indie-game-developer-voice-acting",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "best ai voice generator for narration of audiobook trailers",
     "cluster": "voice-ai",
     "intent": "commercial",
