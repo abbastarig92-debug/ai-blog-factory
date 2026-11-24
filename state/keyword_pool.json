@@ -12,6 +12,18 @@
     "paid_tool": "ElevenLabs"
   },
   {
+    "keyword": "elevenlabs vs wellsaid labs for corporate training",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 260,
+    "est_difficulty": 18,
+    "format": "comparison",
+    "why_winnable": "Low-competition B2B head-to-head where decision-makers compare voice naturalness, commercial licensing terms, and per-minute voiceover pricing for e-learning modules.",
+    "search_promise": "Embedded audio player samples comparing both tools narrating the same compliance script, accompanied by licensing clarity and per-credit cost breakdowns.",
+    "slug": "elevenlabs-vs-wellsaid-labs-for-corporate-training",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "best ai voice generator for narration of audiobook trailers",
     "cluster": "voice-ai",
     "intent": "commercial",
