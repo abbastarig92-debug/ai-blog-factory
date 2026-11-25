@@ -1,13 +1,11 @@
 {
-  "published": [],
+  "published": [
+    "best-ai-voice-generator-audiobook-trailers"
+  ],
   "failed": [
     {
-      "title": "Is ElevenLabs Worth It for Indie Game Developers? Audio Tests, API Math, & Legal Reality",
-      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini HTTP 503 على models/gemini-flash-latest:generateContent — {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "title": "ElevenLabs vs WellSaid Labs (2024): Which AI Voice Generator Wins for Corporate Training?",
-      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini HTTP 429 على models/gemini-flash-latest:generateContent — {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\\nPlease retry in 16h20m16.427900983s.\",\n    \"status\":"
+      "title": "How to Automate YouTube Shorts with n8n and ElevenLabs (Free Template)",
+      "error": "فشل نداء النموذج بعد 4 محاولات: كل موديلات Gemini المتاحة مزدحمة الآن — آخر خطأ: Gemini HTTP 429 على models/gemini-flash-latest:generateContent — {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\\nPlease retry in 8h39m58.37834085s.\",\n    \"status\": \""
     }
   ]
 }
