@@ -1,17 +1,5 @@
 [
   {
-    "keyword": "elevenlabs review for faceless motivational youtube channels",
-    "cluster": "voice-ai",
-    "intent": "commercial",
-    "est_volume": 300,
-    "est_difficulty": 18,
-    "format": "review",
-    "why_winnable": "The motivational niche requires high emotional range in AI voices; this review targets a specific creator sub-niche rather than general users.",
-    "search_promise": "Audio samples of specific ElevenLabs 'emotional' voices suited for storytelling and a guide on the best settings for dramatic narration.",
-    "slug": "elevenlabs-review-for-faceless-motivational-youtube-channels",
-    "paid_tool": "ElevenLabs"
-  },
-  {
     "keyword": "speechify vs naturalreader for students with adhd",
     "cluster": "voice-ai",
     "intent": "commercial",
@@ -22,6 +10,18 @@
     "search_promise": "A breakdown of focus-enhancing features, mobile app usability, and which tool offers the most natural voices for long-form study sessions.",
     "slug": "speechify-vs-naturalreader-for-students-with-adhd",
     "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "elevenlabs vs wellsaid labs for e-learning",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 380,
+    "est_difficulty": 26,
+    "format": "comparison",
+    "why_winnable": "B2B/creator niche comparison query with low KD that directly leads to high-commission affiliate conversions.",
+    "search_promise": "Direct audio sample comparisons, licensing cost breakdowns, and ease-of-use ratings for instructional designers and course builders.",
+    "slug": "elevenlabs-vs-wellsaid-labs-for-e-learning",
+    "paid_tool": "ElevenLabs"
   },
   {
     "keyword": "best ai voice generator for e learning courses",
