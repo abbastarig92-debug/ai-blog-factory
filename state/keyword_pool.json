@@ -1,5 +1,17 @@
 [
   {
+    "keyword": "elevenlabs vs wellsaid labs for e-learning creators",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 270,
+    "est_difficulty": 21,
+    "format": "comparison",
+    "why_winnable": "Focuses specifically on course creator requirements where low-authority user forums currently dominate the search results.",
+    "search_promise": "Side-by-side audio quality samples, pricing tier comparison per audio hour, and commercial licensing breakdown for course developers.",
+    "slug": "elevenlabs-vs-wellsaid-labs-for-e-learning-creators",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "speechify vs naturalreader for students with adhd",
     "cluster": "voice-ai",
     "intent": "commercial",
