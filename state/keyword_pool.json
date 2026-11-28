@@ -1,5 +1,41 @@
 [
   {
+    "keyword": "koala ai vs jasper ai for blog post generation",
+    "cluster": "writing-ai",
+    "intent": "commercial",
+    "est_volume": 480,
+    "est_difficulty": 22,
+    "format": "comparison",
+    "why_winnable": "Targets niche bloggers choosing between bulk SEO generation and general copy assistance; avoids high-authority broad terms by focusing on specific long-tail workflow intent.",
+    "search_promise": "Direct side-by-side cost, output quality, and Amazon/WordPress integration breakdown showing which writer excels for niche affiliate sites.",
+    "slug": "koala-ai-vs-jasper-ai-for-blog-post-generation",
+    "paid_tool": "Koala AI"
+  },
+  {
+    "keyword": "is speechify premium worth it for students",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 720,
+    "est_difficulty": 19,
+    "format": "review",
+    "why_winnable": "High search volume from budget-conscious learners questioning the annual subscription cost; dominated by forum threads and thin review sites.",
+    "search_promise": "Cost-benefit analysis of free vs paid tiers, student discount options, and actual speed-listening performance on academic PDFs.",
+    "slug": "is-speechify-premium-worth-it-for-students",
+    "paid_tool": "Speechify"
+  },
+  {
+    "keyword": "elevenlabs vs wellsaid labs for corporate training videos",
+    "cluster": "voice-ai",
+    "intent": "commercial",
+    "est_volume": 290,
+    "est_difficulty": 24,
+    "format": "comparison",
+    "why_winnable": "B2B intent keyword with low keyword difficulty that bypasses general consumer voice generator SERPs.",
+    "search_promise": "Audio sample comparisons for formal instructional design, enterprise licensing terms, and per-minute voice generation pricing.",
+    "slug": "elevenlabs-vs-wellsaid-labs-for-corporate-training-videos",
+    "paid_tool": "ElevenLabs"
+  },
+  {
     "keyword": "elevenlabs vs wellsaid labs for e-learning",
     "cluster": "voice-ai",
     "intent": "commercial",
